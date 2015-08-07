@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-<!-- Application comment -->
-<!-- Application screen
- -->
-<string name="app_name">"Staff Finder"</string>
-
-<!-- New application comment -->
-<!-- Settings screen
- -->
-<string name="action_settings">"Settings"</string>
-
 <!-- Any application screen | error | shown in case io unexpected error in application -->
 <!-- Error notification -->
 <string name="message_server_error">"Oops! Unexpected server error."</string>
@@ -19,8 +9,6 @@
  Any application root screen | menu | name of the root screen to navigate to from application side menu -->
 <!-- Slide menu -->
 <string name="navdrawer_home_item">"Home"</string>
-
-<!-- New comment -->
 <string name="navdrawer_project">"Project"</string>
 
 <!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
@@ -1377,4 +1365,12 @@
 
 <!-- Worker WA list screen | menu | sort action -->
 <string name="sort_wa_by_new_accepted">"New Accepted Worker"</string>
+
+<!-- Application comment -->
+<!-- Application screen -->
+<string name="app_name">"Staff Finder"</string>
+
+<!-- New application comment -->
+<!-- Settings screen -->
+<string name="action_settings">"Settings"</string>
 </resources>

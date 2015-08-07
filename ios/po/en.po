@@ -7,20 +7,6 @@ msgstr ""
 "Project-Id-Version: Test\n"
 "Language: en\n"
 
-#. Application comment
-#: 
-msgctxt "Application screen
-"
-msgid "app_name"
-msgstr "Staff Finder"
-
-#. New application comment
-#: 
-msgctxt "Settings screen
-"
-msgid "action_settings"
-msgstr "Settings"
-
 #. Any application screen | error | shown in case io unexpected error in application
 #: 
 msgctxt "Error notification"
@@ -34,7 +20,6 @@ msgctxt "Slide menu"
 msgid "navdrawer_home_item"
 msgstr "Home"
 
-#. New comment
 #: 
 msgid "navdrawer_project"
 msgstr "Project"
@@ -2273,4 +2258,16 @@ msgstr "Creator Last Name"
 #: 
 msgid "sort_wa_by_new_accepted"
 msgstr "New Accepted Worker"
+
+#. Application comment
+#: 
+msgctxt "Application screen"
+msgid "app_name"
+msgstr "Staff Finder"
+
+#. New application comment
+#: 
+msgctxt "Settings screen"
+msgid "action_settings"
+msgstr "Settings"
 
