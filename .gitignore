@@ -1,1 +1,3 @@
-//new file add your stuff here
+.gradle
+.idea/
+*.iml
