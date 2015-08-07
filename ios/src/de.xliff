@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Staff Finder Integration Tests/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Staff FinderTests/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Staff FinderTests/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="%@ can not be shorter than 2 characters">
+        <source>%@ can not be shorter than 2 characters</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ is required">
+        <source>%@ is required</source>
+        <note>Reccomendation request
+   Tests.</note>
+      </trans-unit>
+      <trans-unit id="%@ must have at least one uppercase letter and one lowercase letter">
+        <source>%@ must have at least one uppercase letter and one lowercase letter</source>
+        <note>Tests.</note>
+      </trans-unit>
+      <trans-unit id="%@ must not contain numbers">
+        <source>%@ must not contain numbers</source>
+        <note>Tests.</note>
+      </trans-unit>
+      <trans-unit id="%@ should be 2 - 50 characters long">
+        <source>%@ should be 2 - 50 characters long</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About">
+        <source>About</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Account Management">
+        <source>Account Management</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Additional Data">
+        <source>Additional Data</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Calander">
+        <source>Calander</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Company">
+        <source>Company</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Company name is required">
+        <source>Company name is required</source>
+        <note>Company name validation</note>
+      </trans-unit>
+      <trans-unit id="Firstname">
+        <source>Firstname</source>
+        <note>Employer field name
+   Person field name
+   Reccomendation request field name</note>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Job Profiles">
+        <source>Job Profiles</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Jobs">
+        <source>Jobs</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Lastname">
+        <source>Lastname</source>
+        <note>Employer field name
+   Person field name
+   Reccomendation request field name</note>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Mobile number is required">
+        <source>Mobile number is required</source>
+        <note>Validation tests</note>
+      </trans-unit>
+      <trans-unit id="Payment Details">
+        <source>Payment Details</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Phone number is required">
+        <source>Phone number is required</source>
+        <note>Validation tests</note>
+      </trans-unit>
+      <trans-unit id="Profile Details">
+        <source>Profile Details</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Projects">
+        <source>Projects</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Reccomendation">
+        <source>Reccomendation</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Request can not be shorter than 40 characters">
+        <source>Request can not be shorter than 40 characters</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request should be 40 - 600 characters long">
+        <source>Request should be 40 - 600 characters long</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Role Chooser">
+        <source>Role Chooser</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Salutation">
+        <source>Salutation</source>
+        <note>Employer field name</note>
+      </trans-unit>
+      <trans-unit id="Salutation is required">
+        <source>Salutation is required</source>
+        <note>Reccomendation request field name</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Work Allowance">
+        <source>Work Allowance</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Work Assignments">
+        <source>Work Assignments</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Worker">
+        <source>Worker</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Worker Documents">
+        <source>Worker Documents</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Worker Label">
+        <source>Worker Label</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="StaffFinder/Classes/ThirdParty/SSKeychain/en.lproj/SSKeychain.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="SSKeychainErrorBadArguments">
+        <source>Some of the arguments were invalid</source>
+        <target>Some of the arguments were invalid</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecAllocate">
+        <source>Failed to allocate memory</source>
+        <target>Failed to allocate memory</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecAuthFailed">
+        <source>The user name or passphrase you entered is not correct</source>
+        <target>The user name or passphrase you entered is not correct</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecDecode">
+        <source>Unable to decode the provided data</source>
+        <target>Unable to decode the provided data</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecDefault">
+        <source>Refer to SecBase.h for description</source>
+        <target>Refer to SecBase.h for description</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecDuplicateItem">
+        <source>The specified item already exists in the keychain</source>
+        <target>The specified item already exists in the keychain</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecInteractionNotAllowed">
+        <source>User interaction is not allowed</source>
+        <target>User interaction is not allowed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecItemNotFound">
+        <source>The specified item could not be found in the keychain</source>
+        <target>The specified item could not be found in the keychain</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecNotAvailable">
+        <source>No keychain is available. You may need to restart your computer</source>
+        <target>No keychain is available. You may need to restart your computer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecParam">
+        <source>One or more parameters passed to a function were not valid</source>
+        <target>One or more parameters passed to a function were not valid</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="errSecUnimplemented">
+        <source>Function or operation not implemented</source>
+        <target>Function or operation not implemented</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="StaffFinder/Supporting Files/AFNetworking.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="Could not decode string: %@">
+        <source>Could not decode string: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data failed decoding as a UTF-8 string">
+        <source>Data failed decoding as a UTF-8 string</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected URL to be a file URL">
+        <source>Expected URL to be a file URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File URL not reachable.">
+        <source>File URL not reachable.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Reachable">
+        <source>Not Reachable</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reachable via WWAN">
+        <source>Reachable via WWAN</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reachable via WiFi">
+        <source>Reachable via WiFi</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request failed: %@ (%ld)">
+        <source>Request failed: %1$@ (%2$ld)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request failed: unacceptable content-type: %@">
+        <source>Request failed: unacceptable content-type: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="StaffFinder/Supporting Files/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="StaffFinder/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id=" | Break %@ Min.">
+        <source> | Break %@ Min.</source>
+        <note>Worker dates</note>
+      </trans-unit>
+      <trans-unit id="%@ %@ wage per hour">
+        <source>%1$@ %2$@ wage per hour</source>
+        <note>Worker job detils, '(wage) (currency) per hour'</note>
+      </trans-unit>
+      <trans-unit id="%@ - %@ years">
+        <source>%1$@ - %2$@ years</source>
+        <note>Company work assignment overview, '24 - 29 years'</note>
+      </trans-unit>
+      <trans-unit id="%@ Intrested">
+        <source>%@ Intrested</source>
+        <note>Job list of work assignment from company side.'8 Intrested'</note>
+      </trans-unit>
+      <trans-unit id="%@ Refused">
+        <source>%@ Refused</source>
+        <note>Job list of work assignment from company side.'8 Intrested'</note>
+      </trans-unit>
+      <trans-unit id="%@ cm - %@ cm">
+        <source>%1$@ cm - %2$@ cm</source>
+        <note>Company work assignment overview. Body size range '180 cm - 240 cm'</note>
+      </trans-unit>
+      <trans-unit id="%@ could not be created because an invalid JSON array was provided: %@">
+        <source>%1$@ could not be created because an invalid JSON array was provided: %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ is required">
+        <source>%@ is required</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="%@ must be in %@ - %@">
+        <source>%1$@ must be in %2$@ - %3$@</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="%@ must have at least one uppercase letter and one lowercase letter">
+        <source>%@ must have at least one uppercase letter and one lowercase letter</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ slots">
+        <source>%1$@ of %2$@ slots</source>
+        <note>Work assignment slot coverage. '10 of 12 slots'</note>
+      </trans-unit>
+      <trans-unit id="%@ open requests">
+        <source>%@ open requests</source>
+        <note>Company work assignment jobs</note>
+      </trans-unit>
+      <trans-unit id="%@ persons">
+        <source>%@ persons</source>
+        <note>Company work assignment overview, '4 persons'</note>
+      </trans-unit>
+      <trans-unit id="%@ years old">
+        <source>%@ years old</source>
+        <note>Worker job details from company side</note>
+      </trans-unit>
+      <trans-unit id="20 November, 1988">
+        <source>20 November, 1988</source>
+        <target>20 November, 1988</target>
+      </trans-unit>
+      <trans-unit id="044 336 55 44">
+        <source>044 336 55 44</source>
+        <target>044 336 55 44</target>
+      </trans-unit>
+      <trans-unit id="079 334 56 56">
+        <source>079 334 56 56</source>
+        <target>079 334 56 56</target>
+      </trans-unit>
+      <trans-unit id="&gt; %@ open requests">
+        <source>&gt; %@ open requests</source>
+        <note>Company work assignment jobs</note>
+      </trans-unit>
+      <trans-unit id="About">
+        <source>About</source>
+        <target>About</target>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="About you">
+        <source>About you</source>
+        <note>About worker</note>
+      </trans-unit>
+      <trans-unit id="Accepted">
+        <source>Accepted</source>
+        <note>Work Assingment Job Detail status. Company Side
+   Worker work assignment list view
+   Worker work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Account Management">
+        <source>Account Management</source>
+        <target>Account Management</target>
+        <note>Navigation menu item's titles
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Account is not activated">
+        <source>Account is not activated</source>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Active">
+        <source>Active</source>
+        <note>Project status
+   Work assignment status</note>
+      </trans-unit>
+      <trans-unit id="Actual">
+        <source>Actual</source>
+        <note>Image size</note>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <note>Add button title</note>
+      </trans-unit>
+      <trans-unit id="Add Job Profiles">
+        <source>Add Job Profiles</source>
+        <note>Job profile view</note>
+      </trans-unit>
+      <trans-unit id="Additional Data">
+        <source>Additional Data</source>
+        <note>Navigation menu item's titles
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <target>Address</target>
+        <note>Addres editor view title
+   Worka allowance field name. That will display in validation error messages.</note>
+      </trans-unit>
+      <trans-unit id="Addtional Data">
+        <source>Addtional Data</source>
+        <note>Addittional data view controller</note>
+      </trans-unit>
+      <trans-unit id="Age">
+        <source>Age</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="All jobProfileId should be unique.">
+        <source>All jobProfileId should be unique.</source>
+        <note>Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="All jobs skill's items should be SFJobSkill">
+        <source>All jobs skill's items should be SFJobSkill</source>
+        <note>Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="Any">
+        <source>Any</source>
+        <note>Company work assignment job list view.</note>
+      </trans-unit>
+      <trans-unit id="Apply">
+        <source>Apply</source>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this job profiles?">
+        <source>Are you sure you want to delete this job profiles?</source>
+        <note>Job Profiles</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to logout ?">
+        <source>Are you sure you want to logout ?</source>
+        <target>Are you sure you want to logout ?</target>
+        <note>Logout view</note>
+      </trans-unit>
+      <trans-unit id="Are you sure?">
+        <source>Are you sure?</source>
+        <target>Are you sure?</target>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Availability %@ of %@">
+        <source>Availability %1$@ of %2$@</source>
+        <note>Company work assignment jobs</note>
+      </trans-unit>
+      <trans-unit id="Available">
+        <source>Available</source>
+        <note>Company work assignment job list view</note>
+      </trans-unit>
+      <trans-unit id="Available %@ of %@">
+        <source>Available %1$@ of %2$@</source>
+        <note>Work Assingment Job Detail company side. 'Available 2 of 10'</note>
+      </trans-unit>
+      <trans-unit id="Basic Information">
+        <source>Basic Information</source>
+        <target>Basic Information</target>
+      </trans-unit>
+      <trans-unit id="Big">
+        <source>Big</source>
+        <note>Image size</note>
+      </trans-unit>
+      <trans-unit id="Birth Date">
+        <source>Birth Date</source>
+        <target>Birth Date</target>
+      </trans-unit>
+      <trans-unit id="Body defining features">
+        <source>Body defining features</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Body size">
+        <source>Body size</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Break">
+        <source>Break</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Bussiness Portrait">
+        <source>Bussiness Portrait</source>
+        <target>Bussiness Portrait</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Bussiness Whole Body">
+        <source>Bussiness Whole Body</source>
+        <target>Bussiness Whole Body</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="By Date">
+        <source>By Date</source>
+        <note>Project list</note>
+      </trans-unit>
+      <trans-unit id="By Name">
+        <source>By Name</source>
+        <note>Project list</note>
+      </trans-unit>
+      <trans-unit id="CHOOSE DATES">
+        <source>CHOOSE DATES</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="CONFIRM">
+        <source>CONFIRM</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="CREATOR">
+        <source>CREATOR</source>
+        <note>Company work assignment list view.
+   Project list</note>
+      </trans-unit>
+      <trans-unit id="CV">
+        <source>CV</source>
+        <note>Worker document view</note>
+      </trans-unit>
+      <trans-unit id="Calander">
+        <source>Calander</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Camera">
+        <source>Camera</source>
+        <note>Id copy view titles
+   Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Button title
+   Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="Casual Portrait">
+        <source>Casual Portrait</source>
+        <target>Casual Portrait</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Casual Whole Body">
+        <source>Casual Whole Body</source>
+        <target>Casual Whole Body</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Certificates">
+        <source>Certificates</source>
+        <note>Worker document view</note>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <note>Button title
+   Id copy view titles</note>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>Change Password</target>
+        <note>Change password view</note>
+      </trans-unit>
+      <trans-unit id="Change Picture">
+        <source>Change Picture</source>
+        <target>Change Picture</target>
+      </trans-unit>
+      <trans-unit id="Choose Industry">
+        <source>Choose Industry</source>
+        <note>Job Profile/Add Industry title</note>
+      </trans-unit>
+      <trans-unit id="Choose Photo">
+        <source>Choose Photo</source>
+        <note>Actions sheet item on employer profile editor</note>
+      </trans-unit>
+      <trans-unit id="Choose nationality">
+        <source>Choose nationality</source>
+        <note>Worka allowance view messages.</note>
+      </trans-unit>
+      <trans-unit id="City">
+        <source>City</source>
+        <note>Field name that display in validation error's text. 'City is required'</note>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>Button title
+   Close button title</note>
+      </trans-unit>
+      <trans-unit id="Closed">
+        <source>Closed</source>
+        <note>Project status
+   Work assignment status</note>
+      </trans-unit>
+      <trans-unit id="Clothes &amp; Body Features">
+        <source>Clothes &amp; Body Features</source>
+        <note>Missing attributes view
+   The title of Clothes &amp; Body Features view</note>
+      </trans-unit>
+      <trans-unit id="Clothes &amp; Body features">
+        <source>Clothes &amp; Body features</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Clothes Size">
+        <source>Clothes Size</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Comment">
+        <source>Comment</source>
+        <note>Reccomendation request view</note>
+      </trans-unit>
+      <trans-unit id="Comments">
+        <source>Comments</source>
+        <note>Reccomendation details view</note>
+      </trans-unit>
+      <trans-unit id="Company">
+        <source>Company</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Company name">
+        <source>Company name</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Completed">
+        <source>Completed</source>
+        <note>Worker work assignment list view
+   Worker work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Conditions and Privacy">
+        <source>Conditions and Privacy</source>
+        <target>Conditions and Privacy</target>
+        <note>Rules and policy view</note>
+      </trans-unit>
+      <trans-unit id="Contact Information">
+        <source>Contact Information</source>
+        <target>Contact Information</target>
+      </trans-unit>
+      <trans-unit id="Copy of official ID (Passport, Permit)">
+        <source>Copy of official ID (Passport, Permit)</source>
+        <note>Id copy view titles</note>
+      </trans-unit>
+      <trans-unit id="Could not change your pciture">
+        <source>Could not change your pciture</source>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Could not convert JSON array to model array">
+        <source>Could not convert JSON array to model array</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert JSON dictionary to model object">
+        <source>Could not convert JSON dictionary to model object</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert URL to string">
+        <source>Could not convert URL to string</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert model array to JSON array">
+        <source>Could not convert model array to JSON array</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert model object to JSON dictionary">
+        <source>Could not convert model object to JSON dictionary</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert number to boolean-backed number or vice-versa">
+        <source>Could not convert number to boolean-backed number or vice-versa</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not convert string to URL">
+        <source>Could not convert string to URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not get job profiles">
+        <source>Could not get job profiles</source>
+        <note>Add Job Profile view. When app can't receive job profiles view internet</note>
+      </trans-unit>
+      <trans-unit id="Could not get list's information, please try again later">
+        <source>Could not get list's information, please try again later</source>
+        <target>Could not get list's information, please try again later</target>
+      </trans-unit>
+      <trans-unit id="Could not get lists' information, please try again later">
+        <source>Could not get lists' information, please try again later</source>
+        <target>Could not get lists' information, please try again later</target>
+      </trans-unit>
+      <trans-unit id="Could not get the country list, please try again later">
+        <source>Could not get the country list, please try again later</source>
+        <target>Could not get the country list, please try again later</target>
+      </trans-unit>
+      <trans-unit id="Could not open the image">
+        <source>Could not open the image</source>
+        <note>Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="Could not parse JSON">
+        <source>Could not parse JSON</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not transform array">
+        <source>Could not transform array</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not transform non-array type">
+        <source>Could not transform non-array type</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not transform value at index %d">
+        <source>Could not transform value at index %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Country">
+        <source>Country</source>
+        <target>Country</target>
+        <note>Field name that display in validation error's text. 'Country is required'
+   Payment details view
+   Title in country chooser
+   Worka allowance view messages.
+   Worker personal details</note>
+      </trans-unit>
+      <trans-unit id="Created by %@ %@">
+        <source>Created by %1$@ %2$@</source>
+        <note>Project list</note>
+      </trans-unit>
+      <trans-unit id="Creator last name">
+        <source>Creator last name</source>
+        <note>Company work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="DECLINE">
+        <source>DECLINE</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="DECLINE ALL">
+        <source>DECLINE ALL</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Data saved successfully">
+        <source>Data saved successfully</source>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Date">
+        <source>Date</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Declined">
+        <source>Declined</source>
+        <note>Worker work assignment list view
+   Worker work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="Delete Photo">
+        <source>Delete Photo</source>
+        <note>Actions sheet item on employer profile editor</note>
+      </trans-unit>
+      <trans-unit id="Delete job profile?">
+        <source>Delete job profile?</source>
+        <note>Job Profiles</note>
+      </trans-unit>
+      <trans-unit id="Deleted">
+        <source>Deleted</source>
+        <note>Project status
+   Work assignment status</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>'Done' button title
+   Button title</note>
+      </trans-unit>
+      <trans-unit id="Done!">
+        <source>Done!</source>
+        <target>Done!</target>
+        <note>Company registration
+   Registration worker view
+   Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="Driving License">
+        <source>Driving License</source>
+        <note>Company Work Assignment Overview
+   Missing attributes view</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="Edit Photo">
+        <source>Edit Photo</source>
+        <note>Actions sheet item on employer profile editor</note>
+      </trans-unit>
+      <trans-unit id="Education level changed successfully">
+        <source>Education level changed successfully</source>
+        <note>Education level view</note>
+      </trans-unit>
+      <trans-unit id="Email">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="Employer">
+        <source>Employer</source>
+        <note>Role chooser</note>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <note>Unknow errror type title</note>
+      </trans-unit>
+      <trans-unit id="Error deleting the picture on the server">
+        <source>Error deleting the picture on the server</source>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Error-1009">
+        <source>We need an internet connection to process your request, please connect</source>
+        <target>We need an internet connection to process your request, please connect</target>
+      </trans-unit>
+      <trans-unit id="Error1">
+        <source>Please, check your login and password and try again</source>
+        <target>Please, check your login and password and try again</target>
+      </trans-unit>
+      <trans-unit id="Error400">
+        <source>Wrong data, please check your entry</source>
+        <target>Wrong data, please check your entry</target>
+      </trans-unit>
+      <trans-unit id="Error401">
+        <source>Please check your Login and password and then try again</source>
+        <target>Please check your Login and password and then try again</target>
+      </trans-unit>
+      <trans-unit id="Error404">
+        <source>Sorry, but the service might has been changed. Please contact our Support</source>
+        <target>Sorry, but the service might has been changed. Please contact our Support</target>
+      </trans-unit>
+      <trans-unit id="Error500">
+        <source>The server might be busy for deployment</source>
+        <target>The server might be busy for deployment</target>
+      </trans-unit>
+      <trans-unit id="Error10000">
+        <source>The operation field on the server</source>
+        <target>The operation field on the server</target>
+      </trans-unit>
+      <trans-unit id="Error10003">
+        <source>Your account is not activated yet. Your account must be activated for this operation</source>
+        <target>Your account is not activated yet. Your account must be activated for this operation</target>
+      </trans-unit>
+      <trans-unit id="Error10004">
+        <source>We can't do this operation, because the object is in pending state</source>
+        <target>We can't do this operation, because the object is in pending state</target>
+      </trans-unit>
+      <trans-unit id="Error10007">
+        <source>Invalid data entered, please check your entry and try again</source>
+        <target>Invalid data entered, please check your entry and try again</target>
+      </trans-unit>
+      <trans-unit id="Error10010">
+        <source>Invalid_input_format</source>
+      </trans-unit>
+      <trans-unit id="Error20001">
+        <source>Old password is incorrect</source>
+        <target>Old password is incorrect</target>
+      </trans-unit>
+      <trans-unit id="Error20003">
+        <source>This email is already registered for another user</source>
+        <target>This email is already registered for another user</target>
+      </trans-unit>
+      <trans-unit id="Error20004">
+        <source>This email is already registered for another user</source>
+        <target>This email is already registered for another user</target>
+      </trans-unit>
+      <trans-unit id="Error20006">
+        <source>This email is already registered for another user</source>
+        <target>This email is already registered for another user</target>
+      </trans-unit>
+      <trans-unit id="Error20007">
+        <source>Your account should be activated to finish this operation</source>
+        <target>Your account should be activated to finish this operation</target>
+      </trans-unit>
+      <trans-unit id="Error20009">
+        <source>Your account should be activated to finish this operation</source>
+        <target>Your account should be activated to finish this operation</target>
+      </trans-unit>
+      <trans-unit id="Error20100">
+        <source>Please delete the current photo before uploading new one</source>
+        <target>Please delete the current photo before uploading new one</target>
+      </trans-unit>
+      <trans-unit id="Error20106">
+        <source>The file is too big to be uploaded</source>
+        <target>The file is too big to be uploaded</target>
+      </trans-unit>
+      <trans-unit id="Error20109">
+        <source>You already have a document on this language, please upload a file on a different language, or delete the current one</source>
+        <target>You already have a document on this language, please upload a file on a different language, or delete the current one</target>
+      </trans-unit>
+      <trans-unit id="Error20114">
+        <source>You can not add more job profiles</source>
+        <target>You can not add more job profiles</target>
+      </trans-unit>
+      <trans-unit id="Error20115">
+        <source>You can not choose lower skill than the current one</source>
+        <target>You can not choose lower skill than the current one</target>
+      </trans-unit>
+      <trans-unit id="Estimated total cost">
+        <source>Estimated total cost</source>
+        <note>Work assignment title label</note>
+      </trans-unit>
+      <trans-unit id="Expected %1$@ to be of class %2$@">
+        <source>Expected %1$@ to be of class %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected a MTLModel object conforming to &lt;MTLJSONSerializing&gt;, got: %@.">
+        <source>Expected a MTLModel object conforming to &lt;MTLJSONSerializing&gt;, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected a MTLModel or an NSNull, got: %@.">
+        <source>Expected a MTLModel or an NSNull, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSArray, got: %@.">
+        <source>Expected an NSArray, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSDictionary or an NSNull, got: %@.">
+        <source>Expected an NSDictionary or an NSNull, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSDictionary, got: %@">
+        <source>Expected an NSDictionary, got: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSNumber, got: %@.">
+        <source>Expected an NSNumber, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSString, got: %@.">
+        <source>Expected an NSString, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expected an NSURL, got: %@.">
+        <source>Expected an NSURL, got: %@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expenses %@ %@ %@">
+        <source>Expenses %1$@ %2$@ %3$@</source>
+        <note>Company work assignment detail view. 'Expenses (currency) (amount) (frequency) '</note>
+      </trans-unit>
+      <trans-unit id="Eye color">
+        <source>Eye color</source>
+        <note>Clothes &amp; Body Features view
+   Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Favorite">
+        <source>Favorite</source>
+        <note>Company work assignment job list view.</note>
+      </trans-unit>
+      <trans-unit id="File currupted">
+        <source>File currupted</source>
+        <note>File viewer</note>
+      </trans-unit>
+      <trans-unit id="File uploaded successfully">
+        <source>File uploaded successfully</source>
+        <note>Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="File was lost or corrupted">
+        <source>File was lost or corrupted</source>
+        <note>Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="Filter creteria">
+        <source>Filter creteria</source>
+        <note>Company work assignment job list view.</note>
+      </trans-unit>
+      <trans-unit id="First Slot Date">
+        <source>First Slot Date</source>
+        <note>Company work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="First name">
+        <source>First name</source>
+        <note>Payment detail's field name. This title will display in error message if this field is not valid.
+   Worka allowance field name. That will display in validation error messages.</note>
+      </trans-unit>
+      <trans-unit id="Firstname">
+        <source>Firstname</source>
+        <note>Employer's field name. This title will display in error message if this field is not valid.
+   Person model
+   Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="Format_error">
+        <source>is invalid</source>
+        <target>is invalid</target>
+      </trans-unit>
+      <trans-unit id="Fully staffed">
+        <source>Fully staffed</source>
+        <note>Work assignment staff status</note>
+      </trans-unit>
+      <trans-unit id="Gallery">
+        <source>Gallery</source>
+        <note>Id copy view titles
+   Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="Gross wage">
+        <source>Gross wage</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Hair color">
+        <source>Hair color</source>
+        <note>Clothes &amp; Body Features view
+   Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Here goes description, telling you why it's important to have a business portrait picture">
+        <source>Here goes description, telling you why it's important to have a business portrait picture</source>
+        <target>Here goes description, telling you why it's important to have a business portrait picture</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Here goes description, telling you why it's important to have a business whole body picture">
+        <source>Here goes description, telling you why it's important to have a business whole body picture</source>
+        <target>Here goes description, telling you why it's important to have a business whole body picture</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Here goes description, telling you why it's important to have a casual portrait picture">
+        <source>Here goes description, telling you why it's important to have a casual portrait picture</source>
+        <target>Here goes description, telling you why it's important to have a casual portrait picture</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Here goes description, telling you why it's important to have a casual whole body picture">
+        <source>Here goes description, telling you why it's important to have a casual whole body picture</source>
+        <target>Here goes description, telling you why it's important to have a casual whole body picture</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Here is some text about you ">
+        <source>Here is some text about you </source>
+        <target>Here is some text about you </target>
+      </trans-unit>
+      <trans-unit id="Hired">
+        <source>Hired</source>
+        <note>Work Assingment Job Detail status. Company Side</note>
+      </trans-unit>
+      <trans-unit id="Hired %@ of %@ slots">
+        <source>Hired %1$@ of %2$@ slots</source>
+        <note>Job list of work assignment from company side.'Hired 4 of 12 slots'</note>
+      </trans-unit>
+      <trans-unit id="Home">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Home view controller
+   Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Hourly wage">
+        <source>Hourly wage</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="How to Open PDF Document">
+        <source>How to Open PDF Document</source>
+        <note>Id copy view titles
+   Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="How to open pdf document">
+        <source>How to open pdf document</source>
+        <note>Id copy view titles
+   Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="IBAN is invalid. IBAN should be like CH9300762011623852957">
+        <source>IBAN is invalid. IBAN should be like CH9300762011623852957</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="ID copy">
+        <source>ID copy</source>
+        <note>Id copy view titles
+   Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="ID copy uploaded">
+        <source>ID copy uploaded</source>
+        <note>Id copy view titles</note>
+      </trans-unit>
+      <trans-unit id="In Progress">
+        <source>In Progress</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Input URL string %@ was malformed">
+        <source>Input URL string %@ was malformed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid JSON dictionary">
+        <source>Invalid JSON dictionary</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="JSON key path %1$@ could not resolved because an incompatible JSON dictionary was supplied: &quot;%2$@&quot;">
+        <source>JSON key path %1$@ could not resolved because an incompatible JSON dictionary was supplied: "%2$@"</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Jacket">
+        <source>Jacket</source>
+        <note>Clothes size view
+   Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Job Location">
+        <source>Job Location</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Job Profile">
+        <source>Job Profile</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Job Profiles">
+        <source>Job Profiles</source>
+        <note>Navigation menu item's titles
+   Right menu title</note>
+      </trans-unit>
+      <trans-unit id="Job profile was assigned successfully">
+        <source>Job profile was assigned successfully</source>
+        <note>Add education Level</note>
+      </trans-unit>
+      <trans-unit id="JobSkills should be not empty">
+        <source>JobSkills should be not empty</source>
+        <note>Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="Jobs">
+        <source>Jobs</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="John Doe">
+        <source>John Doe</source>
+        <target>John Doe</target>
+      </trans-unit>
+      <trans-unit id="Labels">
+        <source>Labels</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Language">
+        <source>Language</source>
+        <note>Company work assignment overview
+   Language skill's field Name
+   Languages view</note>
+      </trans-unit>
+      <trans-unit id="Language Exists">
+        <source>Language Exists</source>
+        <note>Languages view</note>
+      </trans-unit>
+      <trans-unit id="Language Skills">
+        <source>Language Skills</source>
+        <note>Missing attributes view</note>
+      </trans-unit>
+      <trans-unit id="Languages">
+        <source>Languages</source>
+        <note>Languages view
+   Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Last name">
+        <source>Last name</source>
+        <note>Payment detail's field name. This title will display in error message if this field is not valid.
+   Worka allowance field name. That will display in validation error messages.</note>
+      </trans-unit>
+      <trans-unit id="Lastname">
+        <source>Lastname</source>
+        <note>Employer's field name. This title will display in error message if this field is not valid.
+   Person model
+   Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="License">
+        <source>License</source>
+        <note>Mobility view</note>
+      </trans-unit>
+      <trans-unit id="Logging you in...">
+        <source>Logging you in...</source>
+        <note>Login view</note>
+      </trans-unit>
+      <trans-unit id="Login">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Login view</note>
+      </trans-unit>
+      <trans-unit id="Login fail">
+        <source>Login fail</source>
+        <note>Login view</note>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>Logout</target>
+        <note>Logout view
+   Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Mandatory_field">
+        <source>is required</source>
+        <target>is required</target>
+      </trans-unit>
+      <trans-unit id="Mandatory_value">
+        <source>is required</source>
+      </trans-unit>
+      <trans-unit id="Map">
+        <source>Map</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Marital status">
+        <source>Marital status</source>
+        <note>Worka allowance view messages.</note>
+      </trans-unit>
+      <trans-unit id="Medium">
+        <source>Medium</source>
+        <note>Image size</note>
+      </trans-unit>
+      <trans-unit id="Min.">
+        <source>Min.</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Missing JSON array">
+        <source>Missing JSON array</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Missing fields">
+        <source>Missing fields</source>
+        <note>Missing attributes view</note>
+      </trans-unit>
+      <trans-unit id="Mobile">
+        <source>Mobile</source>
+        <target>Mobile</target>
+      </trans-unit>
+      <trans-unit id="Mobile number">
+        <source>Mobile number</source>
+        <note>Employer's field name. This title will display in error message if this field is not valid.
+   Person model</note>
+      </trans-unit>
+      <trans-unit id="Mobilities">
+        <source>Mobilities</source>
+        <note>Missing attributes view</note>
+      </trans-unit>
+      <trans-unit id="Mobility">
+        <source>Mobility</source>
+        <note>Company work assignment overview
+   Mobility view
+   Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Mobility Options">
+        <source>Mobility Options</source>
+        <note>Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="More">
+        <source>More</source>
+        <note>Worker work assignment list view
+   Worker work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Mr.">
+        <source>Mr.</source>
+        <target>Mr.</target>
+      </trans-unit>
+      <trans-unit id="NO">
+        <source>NO</source>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="Nezavisimosti 35, 8702 Zolikon">
+        <source>Nezavisimosti 35, 8702 Zolikon</source>
+        <target>Nezavisimosti 35, 8702 Zolikon</target>
+      </trans-unit>
+      <trans-unit id="No CV">
+        <source>No CV</source>
+        <note>Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="No Cells">
+        <source>No Cells</source>
+        <note>No need to translate</note>
+      </trans-unit>
+      <trans-unit id="No Certificate">
+        <source>No Certificate</source>
+        <note>Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="No Companies">
+        <source>No Companies</source>
+        <note>Company Choore View</note>
+      </trans-unit>
+      <trans-unit id="No Internet!">
+        <source>No Internet!</source>
+        <note>Recover password view</note>
+      </trans-unit>
+      <trans-unit id="No Job Profiles">
+        <source>No Job Profiles</source>
+        <note>Job profile</note>
+      </trans-unit>
+      <trans-unit id="No Testimonial">
+        <source>No Testimonial</source>
+        <note>Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="No Worker Labels">
+        <source>No Worker Labels</source>
+        <note>Worker label view</note>
+      </trans-unit>
+      <trans-unit id="No job profiles">
+        <source>No job profiles</source>
+        <note>Job profiles view. Label that shows when worker have no job profile.</note>
+      </trans-unit>
+      <trans-unit id="No model class could be found to parse the JSON dictionary.">
+        <source>No model class could be found to parse the JSON dictionary.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not_unique">
+        <source>This email is already registered for another user</source>
+        <target>This email is already registered for another user</target>
+      </trans-unit>
+      <trans-unit id="Now you can lean back, the employer is informed. We will let you know, when you`re hired.">
+        <source>Now you can lean back, the employer is informed. We will let you know, when you`re hired.</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Button title
+   Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Old password is incorrect">
+        <source>Old password is incorrect</source>
+        <target>Old password is incorrect</target>
+        <note>Change password view</note>
+      </trans-unit>
+      <trans-unit id="Open file">
+        <source>Open file</source>
+        <note>Id copy view titles</note>
+      </trans-unit>
+      <trans-unit id="Out_of_range_too_high">
+        <source>Very big value</source>
+        <target>Very big value</target>
+      </trans-unit>
+      <trans-unit id="Out_of_range_too_low">
+        <source>is too small</source>
+      </trans-unit>
+      <trans-unit id="Panth lengths">
+        <source>Panth lengths</source>
+        <note>Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Panth widths">
+        <source>Panth widths</source>
+        <note>Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Panths length">
+        <source>Panths length</source>
+        <note>The title of panths length chooser</note>
+      </trans-unit>
+      <trans-unit id="Panths width">
+        <source>Panths width</source>
+        <note>The title of panths width chooser</note>
+      </trans-unit>
+      <trans-unit id="Pants length">
+        <source>Pants length</source>
+        <note>Field name that display in validation error's text. 'Pants length is required'</note>
+      </trans-unit>
+      <trans-unit id="Pants width">
+        <source>Pants width</source>
+        <note>Field name that display in validation error's text. 'Pants width is required'</note>
+      </trans-unit>
+      <trans-unit id="Password is incorrect">
+        <source>Password is incorrect</source>
+        <note>Login view</note>
+      </trans-unit>
+      <trans-unit id="Payment Details">
+        <source>Payment Details</source>
+        <target>Payment Details</target>
+        <note>Navigation menu item's titles
+   Payment details view
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Pending">
+        <source>Pending</source>
+        <note>Job profile status
+   Reccomendation status
+   Worker work assignment list view
+   Worker work assignment list view.
+   Worker. Reccomendation list view</note>
+      </trans-unit>
+      <trans-unit id="Personal Details">
+        <source>Personal Details</source>
+        <note>Missing attributes view
+   Worker personal details</note>
+      </trans-unit>
+      <trans-unit id="Personal Info">
+        <source>Personal Info</source>
+        <note>Personal Info View Title</note>
+      </trans-unit>
+      <trans-unit id="Phone">
+        <source>Phone</source>
+        <target>Phone</target>
+      </trans-unit>
+      <trans-unit id="Phone number">
+        <source>Phone number</source>
+        <note>Employer's field name. This title will display in error message if this field is not valid.
+   Person model</note>
+      </trans-unit>
+      <trans-unit id="Piercing">
+        <source>Piercing</source>
+        <note>Clothes &amp; Body Features view
+   Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Planned">
+        <source>Planned</source>
+        <note>Work assignment status</note>
+      </trans-unit>
+      <trans-unit id="Please accept terms and conditions">
+        <source>Please accept terms and conditions</source>
+        <target>Please accept terms and conditions</target>
+        <note>Company registration view
+   Registration worker view</note>
+      </trans-unit>
+      <trans-unit id="Please check your email for further instructions.">
+        <source>Please check your email for further instructions</source>
+        <target>Please check your email for further instructions.</target>
+        <note>Recover password view</note>
+      </trans-unit>
+      <trans-unit id="Please correct the following errors:\n">
+        <source>Please correct the following errors:
+</source>
+        <note>Error message</note>
+      </trans-unit>
+      <trans-unit id="Please wait">
+        <source>Please wait</source>
+        <target>Please wait</target>
+        <note>Menu view controller
+   Role chooser
+   Worker document view
+   Worker documents view</note>
+      </trans-unit>
+      <trans-unit id="Please wait...">
+        <source>Please wait...</source>
+        <target>Please wait...</target>
+        <note>Context
+   Loading view. When SF load/save some data</note>
+      </trans-unit>
+      <trans-unit id="Prefered Workers %@">
+        <source>Prefered Workers %@</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Preselected">
+        <source>Preselected</source>
+        <note>Company work assignment job list view.</note>
+      </trans-unit>
+      <trans-unit id="Profile">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Profile Details">
+        <source>Profile Details</source>
+        <target>Profile Details</target>
+        <note>Company profile title
+   Navigation menu item's titles
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Profile Pictures">
+        <source>Profile Pictures</source>
+        <target>Profile Pictures</target>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Projects">
+        <source>Projects</source>
+        <note>Navigation menu item's titles
+   Project list</note>
+      </trans-unit>
+      <trans-unit id="RATING">
+        <source>RATING</source>
+        <note>Company view title.Go to worker job-&gt;company</note>
+      </trans-unit>
+      <trans-unit id="Rating">
+        <source>Rating</source>
+        <note>Company work assignment job list view</note>
+      </trans-unit>
+      <trans-unit id="Reccomendation">
+        <source>Reccomendation</source>
+        <note>Navigation menu item's titles
+   Reccomendation request view</note>
+      </trans-unit>
+      <trans-unit id="Reccomendations">
+        <source>Reccomendations</source>
+        <note>Worker. Reccomendation list view</note>
+      </trans-unit>
+      <trans-unit id="Recommendations">
+        <source>Recommendations</source>
+        <note>Company work assignment job list view</note>
+      </trans-unit>
+      <trans-unit id="Refused">
+        <source>Refused</source>
+        <note>Work Assingment Job Detail status. Company Side</note>
+      </trans-unit>
+      <trans-unit id="Register">
+        <source>Register</source>
+        <target>Register</target>
+        <note>Registration type view. (Company or worker)</note>
+      </trans-unit>
+      <trans-unit id="Registration">
+        <source>Registration</source>
+        <target>Registration</target>
+        <note>Company registration
+   Registration worker view</note>
+      </trans-unit>
+      <trans-unit id="Requested">
+        <source>Requested</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="Requested - %@ new">
+        <source>Requested - %@ new</source>
+        <note>Worker work assignment list view. 'Requested - 2 new'</note>
+      </trans-unit>
+      <trans-unit id="Residence permit">
+        <source>Residence permit</source>
+        <note>Worka allowance view messages.</note>
+      </trans-unit>
+      <trans-unit id="Role">
+        <source>Role</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Role Chooser">
+        <source>Role Chooser</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Role chooser">
+        <source>Role chooser</source>
+        <note>Role chooser</note>
+      </trans-unit>
+      <trans-unit id="SORT BY">
+        <source>SORT BY</source>
+        <note>Title for selector of sorting type.</note>
+      </trans-unit>
+      <trans-unit id="STATE">
+        <source>STATE</source>
+        <note>Company work assignment list view.
+   Project list</note>
+      </trans-unit>
+      <trans-unit id="Salutation">
+        <source>Salutation</source>
+        <target>Salutation</target>
+        <note>Employer's field name. This title will display in error message if this field is not valid.
+   Payment detail's field name. This title will display in error message if this field is not valid.
+   Payment details view
+   Reccomendation request view
+   Worka allowance field name. That will display in validation error messages.
+   Worka allowance view messages.</note>
+      </trans-unit>
+      <trans-unit id="Salutation ">
+        <source>Salutation </source>
+        <note>Worker personal details</note>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="Save changes?">
+        <source>Save changes?</source>
+        <note>Save alert view</note>
+      </trans-unit>
+      <trans-unit id="Save your changes?">
+        <source>Save your changes?</source>
+        <target>Save your changes?</target>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <note>Search placheholder title on search bar on each fitlered views.</note>
+      </trans-unit>
+      <trans-unit id="Select Crop Area">
+        <source>Select Crop Area</source>
+        <target>Select Crop Area</target>
+        <note>Crop image view</note>
+      </trans-unit>
+      <trans-unit id="Select profile picture">
+        <source>Select profile picture</source>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="Send">
+        <source>Send</source>
+        <note>Reccomendation request view</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <note>Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Shoe size">
+        <source>Shoe size</source>
+        <note>Clothes &amp; Body Features view</note>
+      </trans-unit>
+      <trans-unit id="Shoes">
+        <source>Shoes</source>
+        <note>Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Show all">
+        <source>Show all</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Small">
+        <source>Small</source>
+        <note>Image size</note>
+      </trans-unit>
+      <trans-unit id="Social Insurance">
+        <source>Social Insurance</source>
+        <note>Worka allowance view messages.</note>
+      </trans-unit>
+      <trans-unit id="Social insurance type">
+        <source>Social insurance type</source>
+        <note>Worka allowance field name. That will display in validation error messages.</note>
+      </trans-unit>
+      <trans-unit id="Sorry">
+        <source>Sorry</source>
+        <note>Title of error alert.</note>
+      </trans-unit>
+      <trans-unit id="Sorry, we could not log you out, please try again later">
+        <source>Sorry, we could not log you out, please try again later</source>
+        <target>Sorry, we could not log you out, please try again later</target>
+        <note>Logout view</note>
+      </trans-unit>
+      <trans-unit id="Sort">
+        <source>Sort</source>
+        <note>Title of sort view</note>
+      </trans-unit>
+      <trans-unit id="Speaking Level">
+        <source>Speaking Level</source>
+        <note>Language skill's field Name</note>
+      </trans-unit>
+      <trans-unit id="Speaking level">
+        <source>Speaking level</source>
+        <note>Languages view</note>
+      </trans-unit>
+      <trans-unit id="Speaking: %@ | writing: %@">
+        <source>Speaking: %1$@ | writing: %2$@</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Status: %@">
+        <source>Status: %@</source>
+        <note>Work Assingment Job Detail status. Company Side. 'Status: accepted'</note>
+      </trans-unit>
+      <trans-unit id="Street">
+        <source>Street</source>
+        <note>Field name that display in validation error's text. 'Street is required'</note>
+      </trans-unit>
+      <trans-unit id="Take Photo">
+        <source>Take Photo</source>
+        <note>Actions sheet item on employer profile editor</note>
+      </trans-unit>
+      <trans-unit id="Tatoo">
+        <source>Tatoo</source>
+        <note>Clothes &amp; Body Features view
+   Company Work Assignment Overview</note>
+      </trans-unit>
+      <trans-unit id="Testimonials">
+        <source>Testimonials</source>
+        <note>Worker document view</note>
+      </trans-unit>
+      <trans-unit id="The login or password you intered is incorrect. Please try again.">
+        <source>The login or password you intered is incorrect. Please try again.</source>
+        <note>Login view</note>
+      </trans-unit>
+      <trans-unit id="This image is %@. You can reduce image size by scaling it to one of the sizes below.">
+        <source>This image is %@. You can reduce image size by scaling it to one of the sizes below.</source>
+        <note>Image compressor action sheet title</note>
+      </trans-unit>
+      <trans-unit id="This job can't be accepted.">
+        <source>This job can't be accepted.</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Upload">
+        <source>Upload</source>
+        <note>Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="Upload Document">
+        <source>Upload Document</source>
+        <note>Upload file dialog</note>
+      </trans-unit>
+      <trans-unit id="User Details">
+        <source>User Details</source>
+        <target>User Details</target>
+      </trans-unit>
+      <trans-unit id="Value did not match expected type">
+        <source>Value did not match expected type</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="WORK ASSIGNMENT">
+        <source>WORK ASSIGNMENT</source>
+        <note>Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="We can not proceed with your request now, please try again later">
+        <source>We can not proceed with your request now, please try again later</source>
+        <target>We can not proceed with your request now, please try again later</target>
+      </trans-unit>
+      <trans-unit id="We could not set this picture as your profile">
+        <source>We could not set this picture as your profile</source>
+        <note>Profile picture</note>
+      </trans-unit>
+      <trans-unit id="We couldn't get your information, please login">
+        <source>We couldn't get your information, please login</source>
+        <note>Menu view controller</note>
+      </trans-unit>
+      <trans-unit id="We need an internet connection to process your request, please connect.">
+        <source>We need an internet connection to process your request, please connect.</source>
+        <note>Recover password view</note>
+      </trans-unit>
+      <trans-unit id="Work / Residence permit">
+        <source>Work / Residence permit</source>
+        <note>Worka allowance field name. That will display in validation error messages.</note>
+      </trans-unit>
+      <trans-unit id="Work Allowance">
+        <source>Work Allowance</source>
+        <target>Work Allowance</target>
+        <note>Missing attributes view
+   Navigation menu item's titles
+   Work allowance
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Work Assignment Name">
+        <source>Work Assignment Name</source>
+        <note>Company work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Work Assignments">
+        <source>Work Assignments</source>
+        <note>Company work assignment list view.
+   Navigation menu item's titles</note>
+      </trans-unit>
+      <trans-unit id="Worker">
+        <source>Worker</source>
+        <note>Navigation menu item's titles
+   Role chooser</note>
+      </trans-unit>
+      <trans-unit id="Worker - costs">
+        <source>Worker - costs</source>
+        <note>Work assignment details of a company</note>
+      </trans-unit>
+      <trans-unit id="Worker Documents">
+        <source>Worker Documents</source>
+        <note>Navigation menu item's titles
+   Worker documents view
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Worker Label">
+        <source>Worker Label</source>
+        <note>Navigation menu item's titles
+   Worker label view
+   Worker settings</note>
+      </trans-unit>
+      <trans-unit id="Worker count">
+        <source>Worker count</source>
+        <note>Work assignment details title label</note>
+      </trans-unit>
+      <trans-unit id="Worker count %@">
+        <source>Worker count %@</source>
+        <note>Company work assignment overview</note>
+      </trans-unit>
+      <trans-unit id="Worker pool">
+        <source>Worker pool</source>
+        <note>Company work assignment job list view</note>
+      </trans-unit>
+      <trans-unit id="Working Hours">
+        <source>Working Hours</source>
+        <note>Worker work assignment list view.</note>
+      </trans-unit>
+      <trans-unit id="Working hours">
+        <source>Working hours</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Working hours ">
+        <source>Working hours </source>
+        <note>Worker dates</note>
+      </trans-unit>
+      <trans-unit id="Working hours %@ h | Break %@ Min.">
+        <source>Working hours %1$@ h | Break %2$@ Min.</source>
+        <note>Company Works Assignment Details work date item. 'Working hours (hours) h | Break (break) Min.'
+   Worker dates chooser, 'Working hours (hours) h | Break (break) Min.'</note>
+      </trans-unit>
+      <trans-unit id="Writing Level">
+        <source>Writing Level</source>
+        <note>Language skill's field Name</note>
+      </trans-unit>
+      <trans-unit id="Writing level">
+        <source>Writing level</source>
+        <note>Languages view</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <note>Button title</note>
+      </trans-unit>
+      <trans-unit id="You already have this language added, please add another language or change the the levels by clicking the dropdown fields">
+        <source>You already have this language added, please add another language or change the the levels by clicking the dropdown fields</source>
+        <note>Languages view</note>
+      </trans-unit>
+      <trans-unit id="You can change your decision during %@ hours after accepting and %@ hours before job starts">
+        <source>You can change your decision during %1$@ hours after accepting and %2$@ hours before job starts</source>
+        <note>Error message when worker can't accept job.</note>
+      </trans-unit>
+      <trans-unit id="You can not add more">
+        <source>You can not add more</source>
+        <note>Message that shows when user have no item to select.</note>
+      </trans-unit>
+      <trans-unit id="You can't modify this job">
+        <source>You can't modify this job</source>
+        <note>Error title when worker can't accept job.</note>
+      </trans-unit>
+      <trans-unit id="You have registered successfully, please check your email to finish your registration.">
+        <source>You have registered successfully, please check your email to finish your registration.</source>
+        <note>Company registration</note>
+      </trans-unit>
+      <trans-unit id="You have registered successfully, we have sent you a confirmation email.">
+        <source>You have registered successfully, we have sent you a confirmation email.</source>
+        <target>You have registered successfully, we have sent you a confirmation email.</target>
+        <note>Registration worker view</note>
+      </trans-unit>
+      <trans-unit id="You have successfully changed your email">
+        <source>You have successfully changed your email</source>
+        <target>You have successfully changed your email</target>
+      </trans-unit>
+      <trans-unit id="You have successfully changed your password">
+        <source>You have successfully changed your password</source>
+        <target>You have successfully changed your password</target>
+        <note>Change password view</note>
+      </trans-unit>
+      <trans-unit id="You must be 18 years old or older">
+        <source>You must be 18 years old or older</source>
+        <note>Worker personal details</note>
+      </trans-unit>
+      <trans-unit id="Your account can not be deactivated now, please try again later.">
+        <source>Your account can not be deactivated now, please try again later.</source>
+        <target>Your account can not be deactivated now, please try again later.</target>
+      </trans-unit>
+      <trans-unit id="Your account is deactivated">
+        <source>Your account is deactivated</source>
+        <target>Your account is deactivated</target>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="Your interest was send">
+        <source>Your interest was send</source>
+        <note>Worker work assignment details view</note>
+      </trans-unit>
+      <trans-unit id="Zip">
+        <source>Zip</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="Zwitzerland">
+        <source>Zwitzerland</source>
+        <target>Zwitzerland</target>
+      </trans-unit>
+      <trans-unit id="accepted">
+        <source>accepted</source>
+        <note>Worker job status</note>
+      </trans-unit>
+      <trans-unit id="address.countryId.Invalid_value">
+        <source>Country is not valid</source>
+      </trans-unit>
+      <trans-unit id="addressStreet">
+        <source>Street</source>
+        <target>Street</target>
+      </trans-unit>
+      <trans-unit id="birthDate.Invalid_value">
+        <source>Brith date is not valid</source>
+      </trans-unit>
+      <trans-unit id="bodySize">
+        <source>Body size</source>
+      </trans-unit>
+      <trans-unit id="brithDate">
+        <source>Birth Date</source>
+        <target>Birth Date</target>
+      </trans-unit>
+      <trans-unit id="certificates">
+        <source>Certificates</source>
+        <target>Certificates</target>
+      </trans-unit>
+      <trans-unit id="closed">
+        <source>closed</source>
+        <note>Worker job status</note>
+      </trans-unit>
+      <trans-unit id="companyName">
+        <source>Company Name</source>
+        <target>Company Name</target>
+      </trans-unit>
+      <trans-unit id="countryId">
+        <source>Country</source>
+        <target>Country</target>
+      </trans-unit>
+      <trans-unit id="cvs">
+        <source>CV</source>
+        <target>CV</target>
+        <note>Document's type</note>
+      </trans-unit>
+      <trans-unit id="declined">
+        <source>declined</source>
+        <note>Worker job status</note>
+      </trans-unit>
+      <trans-unit id="deleteAccountText">
+        <source>Are you sure you want to delete your account? This action can not be undone.</source>
+        <target>Are you sure you want to delete your account? This action can not be undone.</target>
+        <note>Worker account view</note>
+      </trans-unit>
+      <trans-unit id="disabilityDegree">
+        <source>Disability degree</source>
+        <target>Disability degree</target>
+      </trans-unit>
+      <trans-unit id="email">
+        <source>email</source>
+        <note>Validation</note>
+      </trans-unit>
+      <trans-unit id="extraAddress">
+        <source>Additional address</source>
+        <target>Additional address</target>
+      </trans-unit>
+      <trans-unit id="firstName">
+        <source>First name</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="for">
+        <source>for</source>
+        <note>'For' it use for expeses text '12 per day for travel'</note>
+      </trans-unit>
+      <trans-unit id="h">
+        <source>h</source>
+        <note>Work Assingment Job Detail company side hour contraction.
+   Worker work assignment details view
+   Worker work assignment list view</note>
+      </trans-unit>
+      <trans-unit id="ibanNumber">
+        <source>IBAN number</source>
+        <target>IBAN number</target>
+      </trans-unit>
+      <trans-unit id="incl. SF factor">
+        <source>incl. SF factor</source>
+        <note>Work Assingment Detail from company side</note>
+      </trans-unit>
+      <trans-unit id="jobProfileId is not provided.">
+        <source>jobProfileId is not provided.</source>
+        <note>Reccomendation request validation</note>
+      </trans-unit>
+      <trans-unit id="john.doe@me.com">
+        <source>john.doe@me.com</source>
+        <target>john.doe@me.com</target>
+      </trans-unit>
+      <trans-unit id="lastName">
+        <source>Last name</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="maritalStatusId">
+        <source>Marital status</source>
+        <target>Marital status</target>
+      </trans-unit>
+      <trans-unit id="mobileNumber">
+        <source>Mobile number</source>
+        <target>Mobile number</target>
+      </trans-unit>
+      <trans-unit id="nationalityId">
+        <source>Nationality</source>
+        <target>Nationality</target>
+      </trans-unit>
+      <trans-unit id="other">
+        <source>other</source>
+        <target>other</target>
+      </trans-unit>
+      <trans-unit id="pending">
+        <source>pending</source>
+        <note>Worker job status</note>
+      </trans-unit>
+      <trans-unit id="per hour">
+        <source>per hour</source>
+        <note>Work Assingment Detail from company side</note>
+      </trans-unit>
+      <trans-unit id="personStatus.Invalid_state">
+        <source>Invalid_state</source>
+      </trans-unit>
+      <trans-unit id="phoneNumber">
+        <source>Phone number</source>
+        <target>Phone number</target>
+      </trans-unit>
+      <trans-unit id="profileStatus.Invalid_state">
+        <source>Invalid_state</source>
+      </trans-unit>
+      <trans-unit id="requested">
+        <source>requested</source>
+        <note>Worker job status</note>
+      </trans-unit>
+      <trans-unit id="residencePermitId">
+        <source>Residence permit</source>
+        <target>Residence permit</target>
+      </trans-unit>
+      <trans-unit id="salutationId">
+        <source>Salutation</source>
+        <target>Salutation</target>
+      </trans-unit>
+      <trans-unit id="socialInsuranceTypeId">
+        <source>Social insurance type</source>
+        <target>Social insurance type</target>
+      </trans-unit>
+      <trans-unit id="ssn">
+        <source>SSN</source>
+        <target>SSN</target>
+      </trans-unit>
+      <trans-unit id="testimonials">
+        <source>Testimonials</source>
+        <target>Testimonials</target>
+      </trans-unit>
+      <trans-unit id="workerAllowance.residenceAddress.countryId.Invalid_value">
+        <source>Country is not valid</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

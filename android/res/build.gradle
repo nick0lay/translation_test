@@ -1,0 +1,40 @@
+group 'staffinder'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'be.lukin.poeditor:gradle:0.3.3'
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'poeditor'
+
+poeditor {
+    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
+    projectId '36573'
+    type 'android_strings'
+    tagsNew '1.0'
+
+    terms 'android/src/strings.xml'
+    trans 'en', 'android/res/values/strings.xml'
+    trans 'de', 'android/res/values-de/strings.xml'
+    trans 'fr', 'android/res/values-fr/strings.xml'
+
+    filters 'de', 'translated'
+    filters 'fr', 'translated'
+}
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+
+}
