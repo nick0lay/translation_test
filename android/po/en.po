@@ -30,6 +30,7 @@ msgstr "Oops! Unexpected server error."
 #. Navigation Drawer items 
 #.  Any application root screen | menu | name of the root screen to navigate to from application side menu
 #: 
+msgctxt "Slide menu"
 msgid "navdrawer_home_item"
 msgstr "Home"
 
