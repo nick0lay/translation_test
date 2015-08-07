@@ -23,6 +23,7 @@ msgstr "Settings"
 
 #. Any application screen | error | shown in case io unexpected error in application
 #: 
+msgctxt "Error notification"
 msgid "message_server_error"
 msgstr "Oops! Unexpected server error."
 
