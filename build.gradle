@@ -11,75 +11,19 @@ buildscript {
 }
 
 apply plugin: 'java'
-apply plugin: 'poeditor'
-
-//Android
-poeditor {
-    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
-    projectId '36573'
-    type 'po'
-    tagsNew '1.0'
-
-    terms 'android/src/strings.xml'
-    trans 'en', 'android/po/en.po'
-    trans 'de', 'android/po/de.po'
-    trans 'fr', 'android/po/fr.po'
-
-    filters 'de', 'translated'
-    filters 'fr', 'translated'
-}
-
-poeditor {
-    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
-    projectId '36573'
-    type 'android_strings'
-    tagsNew '1.0'
-
-    terms 'android/src/strings.xml'
-    trans 'en', 'android/res/values/strings.xml'
-    trans 'de', 'android/res/values-de/strings.xml'
-    trans 'fr', 'android/res/values-fr/strings.xml'
-
-    filters 'de', 'translated'
-    filters 'fr', 'translated'
-}
-
-//iOs
-poeditor {
-    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
-    projectId '36573'
-    type 'po'
-    tagsNew '1.0'
-
-    terms 'ios/src/de.xliff'
-    trans 'en', 'ios/po/en.po'
-    trans 'de', 'ios/po/de.po'
-    trans 'fr', 'ios/po/fr.po'
-
-    filters 'de', 'translated'
-    filters 'fr', 'translated'
-}
-
-poeditor {
-    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
-    projectId '36573'
-    type 'xliff'
-    tagsNew '1.0'
-
-    terms 'ios/src/de.xliff'
-    trans 'en', 'ios/xliff/en.xml'
-    trans 'de', 'ios/xliff/de.xml'
-    trans 'fr', 'ios/xliff/fr.xml'
-
-    filters 'de', 'translated'
-    filters 'fr', 'translated'
-}
-
 
 sourceCompatibility = 1.5
 
 repositories {
     mavenCentral()
+}
+
+task updateTranslations {
+    description 'Download translations'
+
+    dependsOn {
+        subprojects.findAll().poeditorPull
+    }
 }
 
 dependencies {

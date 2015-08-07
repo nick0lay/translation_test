@@ -1,0 +1,31 @@
+group 'staffinder'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'poeditor'
+
+poeditor {
+    apikey 'cce6388b3f9d7d50b0f9512d0bf884c0'
+    projectId '36573'
+    type 'po'
+    tagsNew '1.0'
+
+    terms 'android/src/strings.xml'
+    trans 'en', 'android/po/en.po'
+    trans 'de', 'android/po/de.po'
+    trans 'fr', 'android/po/fr.po'
+
+    filters 'de', 'translated'
+    filters 'fr', 'translated'
+}
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+
+}
