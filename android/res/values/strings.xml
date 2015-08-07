@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Application comment -->
+<!-- Application screen
+ -->
+<string name="app_name">"Staff Finder"</string>
+
+<!-- New application comment -->
+<!-- Settings screen
+ -->
+<string name="action_settings">"Settings"</string>
+
+<!-- Any application screen | error | shown in case io unexpected error in application -->
+<!-- Error notification -->
+<string name="message_server_error">"Oops! Unexpected server error."</string>
+
+<!-- Navigation Drawer items 
+ Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<!-- Slide menu -->
+<string name="navdrawer_home_item">"Home"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_project">"Project"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_work_assignment_item">"Work Assignment"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_news_item">"News"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_jobs_item">"Jobs"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_calendar_item">"Calendar"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_job_profiles">"Job Profiles"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_settings_item">"Settings"</string>
+
+<!-- Any application root screen | menu | name of the action -->
+<string name="navdrawer_logout_item">"Logout"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_about_item">"About"</string>
+
+<!-- Any application root screen | menu | name of the root screen to navigate to from application side menu -->
+<string name="navdrawer_labels">"Labels"</string>
+
+<!-- Any application root screen | content description | used as voice description for accessibility reasons -->
+<string name="drawer_open">"Open navigation drawer"</string>
+
+<!-- Any application root screen | content description | used as voice description for accessibility reasons -->
+<string name="drawer_close">"Close navigation drawer"</string>
+
+<!-- Login screen
+    
+ Login screen | hint | login input -->
+<string name="login_hint">"Login"</string>
+
+<!-- Login screen | hint | password input -->
+<string name="password_hint">"Password"</string>
+
+<!-- Login screen | button | action to login user in application -->
+<string name="login_button">"Login"</string>
+
+<!-- Login screen | title | action bar -->
+<string name="title_login_screen">"Login"</string>
+
+<!-- Login screen | button label | near button -->
+<string name="button_remember_me">"Remember me"</string>
+
+<!-- Login screen | link label | near link -->
+<string name="link_forgot_password">"Forgot your password?"</string>
+
+<!-- Login screen | link label | near link -->
+<string name="link_create_account">"Create account"</string>
+
+<!-- Splash screen | text | copyright description -->
+<string name="copyright_string">"Copyright \u00a9 2014 STAFF FINDER. All rights reserved."</string>
+
+<!-- Password recovery screen | title | action bar -->
+<string name="title_password_recovery_screen">"Recover password"</string>
+
+<!-- Password recovery screen | header | recovery description section -->
+<string name="forgot_password_header">"Forgot your password?"</string>
+
+<!-- Password recovery screen | text | description how to recover application password -->
+<string name="forgot_password_instruction">"Please enter you email address bellow and we will send you instruction to reset your password."</string>
+
+<!-- Password recovery screen | hint | email input -->
+<string name="email_hint">"Email"</string>
+
+<!-- Password recovery screen | button | action to send email for password recovery -->
+<string name="send_button">"Send"</string>
+
+<!-- Create account screen
+    
+ Create account screen | title | action bar -->
+<string name="title_create_account_screen">"Registration"</string>
+
+<!-- Create account screen | header | create account description section -->
+<string name="create_account_header">"REGISTER NOW!"</string>
+
+<!-- Create account screen | text | why it's important to create account -->
+<string name="create_account_description">"Staff Finder® has 4'000 temporary jobs between about 30'000 registered employees and 1'500 registered employers. 98% of the jobs are filled within 4 hours"</string>
+
+<!-- Create account screen | button | action to register company -->
+<string name="company_registration_button">"I need staff"</string>
+
+<!-- Create account screen | button | action to register worker -->
+<string name="worker_registration_button">"I want to work"</string>
+
+<!-- Registration screen
+    
+ Registration screen | hint | first name input -->
+<string name="hint.first_name">"First Name"</string>
+
+<!-- Registration screen | hint | last name input -->
+<string name="hint.last_name">"Last Name"</string>
+
+<!-- Registration screen | hint | repeat name input -->
+<string name="hint.repeat_password">"Repeat password"</string>
+
+<!-- Registration screen | button | action to finish registration -->
+<string name="button.finish_registration">"Finish"</string>
+
+<!-- Registration screen | text | checkbox description -->
+<string name="checkbox.accept_terms_and_conditions">"I accept &lt;a href=https://www.staff-finder.jobs/public/agb&gt;Terms,Conditions&lt;/a&gt; and &lt;a href=https://www.staff-finder.jobs/public/datenschutz&gt;Privacy Policy&lt;/a&gt;"</string>
+
+<!-- Registration screen | text | checkbox description -->
+<string name="checkbox.password_permit_warning">"Swiss passport or work permit is required"</string>
+
+<!-- User account screen 
+ Change password screen | notification | in case of successful login -->
+<string name="notification.password_changed">"Password successfully changed"</string>
+
+<!-- Account management screen | button | action to delete account -->
+<string name="button.delete_account">"Delete account"</string>
+
+<!-- Account management screen | menu | action to save data -->
+<string name="menu.save_action">"Save"</string>
+
+<!-- Any screen where entered phone validated | error | beginning of validation error. Example: At least on phone required -->
+<string name="validation.one_phone_required">"At least on phone"</string>
+
+<!-- Validator messages 
+ Any screen where entered phone validated | error | reason of the error. Example: Phone is not valid -->
+<string name="validator_default_error_message_pattern">"%1$s is not valid"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Phone is required -->
+<string name="validator_required_field">"%1$s is required"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Password can not be shorter than 10 characters -->
+<string name="validator_min_length">"%1$s can not be shorter than %2$d characters"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Password can not be longer than 10 characters -->
+<string name="validator_max_length">"%1$s can not be longer than %2$d characters"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Name must contain only alphabetical characters -->
+<string name="validator_only_letters">"%1$s must contain only alphabetical characters"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Email should have the format something@somthing.com -->
+<string name="validator_email">"%1$s should have the format something@somthing.com"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error -->
+<string name="validator_passwords_not_match">"Password not match"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error -->
+<string name="validator_terms_and_conditions">"Terms and conditions must be accepted"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Phone must contain only numbers -->
+<string name="validator_only_numbers">"%1$s must contain only numbers"</string>
+
+<!-- Terms and conditions screen | title | action bar -->
+<string name="component_terms_and_conditions">"Terms and conditions"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Age must be within the range 18 and 70 -->
+<string name="validator_range">"%1$s must be within the range %2$d and %3$d"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Invalid phone format -->
+<string name="validator_invalid_format">"Invalid %1$s format"</string>
+
+<!-- Any screen where entered phone validated | error | reason of the error. Example: Disability degree must between 1 and 100 -->
+<string name="validator_disability">"%1$s must between 1 and 100"</string>
+
+<!-- Dialogs 
+ Any screen with dialog | button | action to accept and close dialog -->
+<string name="dialog_action_ok">"OK"</string>
+
+<!-- Any screen with dialog | button | action to cancel and close dialog -->
+<string name="dialog_action_cancel">"Cancel"</string>
+
+<!-- Account management screen | text | confirmation for account deletion -->
+<string name="dialog_message_delete_account">"Delete account?"</string>
+
+<!-- Account management screen | button | action to delete account -->
+<string name="dialog_action_delete">"Delete"</string>
+
+<!-- Any screen with dialog | button | action to save data -->
+<string name="dialog_action_save">"Save"</string>
+
+<!-- Any screen with dialog | title | dialog title -->
+<string name="dialog_title_change_password">"Change Password"</string>
+
+<!-- Any screen with dialog | button | action to finish with something -->
+<string name="dialog_title_done">"Done"</string>
+
+<!-- Company registration screen | notification | shown in case of successful company registration -->
+<string name="dialog_message_account_registered">"You have registered. Please login to enter."</string>
+
+<!-- File picker screen | button | action to select picture -->
+<string name="dialog_title_camera_or_gallery">"Select Picture"</string>
+
+<!-- Reset password screen | notification | shown in case of email send to recover password -->
+<string name="dialog_message_password_reset">"Please check your email for further instructions."</string>
+
+<!-- Account management screen | notification | shown in case of successful email changed -->
+<string name="dialog_message_email_changed">"You have successfully changed your email"</string>
+
+<!-- Account management screen | notification | shown in case of successful deactivation -->
+<string name="dialog_message_account_deleted">"Your account is deactivated"</string>
+
+<!-- Logout dialog | title | dialog title -->
+<string name="dialog_title_logout">"Log out"</string>
+
+<!-- Logout dialog | text | confirmation question -->
+<string name="dialog_message_logout">"Are you sure you want to log out?"</string>
+
+<!-- Any screen with dialog | button | action to do -->
+<string name="dialog_action_add">"Add"</string>
+
+<!-- Any screen with dialog | button | action to do -->
+<string name="dialog_action_edit">"Edit"</string>
+
+<!-- Dialog | title | dialog title -->
+<string name="dialog_title_add_language">"Add language"</string>
+
+<!-- Dialog | title | dialog title -->
+<string name="dialog_title_edit_language">"Edit language"</string>
+
+<!-- Dialog | title | dialog title -->
+<string name="dialog_title_add_mobility_types">"Add mobility type"</string>
+
+<!-- Dialog | title | dialog title -->
+<string name="dialog_title_add_driver_licenses">"Add driving licenses"</string>
+
+<!-- Action Bar actions 
+ Action bar | menu | action to do -->
+<string name="action_edit">"Edit"</string>
+
+<!-- Action bar | menu | action to do -->
+<string name="action_save">"Save"</string>
+
+<!-- Action bar | menu | action to do -->
+<string name="action_sync">"Sync"</string>
+
+<!-- Action bar | menu | action to do -->
+<string name="action_cancel">"Cancel"</string>
+
+<!-- Change password screen | hint | field label -->
+<string name="old_password">"Old password"</string>
+
+<!-- Change password screen | hint | field label -->
+<string name="new_password">"New password"</string>
+
+<!-- Settings 
+ Setting screen worker/employer | title | section name -->
+<string name="pref_dev_settings">"Developer Options"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_profile_details_title">"Profile Details"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_email_and_password_title">"Account Management"</string>
+<string name="pref_server_type_title">"Backend server"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_work_allowance_title">"Work Allowance"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_payment_detail_title">"Payment Details"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_worker_documents">"Worker Documents"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_additional_data_title">"Additional Data"</string>
+
+<!-- Setting screen | menu | name of screen to navigate -->
+<string name="prefs_worker_recommendations">"Recommendations"</string>
+
+<!-- User Profile 
+ Personal details | title | action bar tittle -->
+<string name="title_person_details">"Personal Details"</string>
+
+<!-- User pictures | title | action bar tittle -->
+<string name="user_pictures_title">"Profile Pictures"</string>
+
+<!-- Company profile | notification | photo successfully deleted -->
+<string name="message_photo_deleted">"Photo deleted"</string>
+
+<!-- User personal data 
+ Worker profile | header | photo section -->
+<string name="profile_pictures_header">"Profile Pictures"</string>
+
+<!-- Worker profile | header | about section -->
+<string name="profile_about_header">"About"</string>
+
+<!-- Worker profile | header | info section -->
+<string name="profile_basic_information_header">"Person Information"</string>
+
+<!-- Worker profile | header | contacts section -->
+<string name="profile_contact_info_header">"Contact Information"</string>
+
+<!-- Worker profile | header | address section -->
+<string name="profile_address_info_header">"Address"</string>
+
+<!-- Worker profile pictures | text | photo description -->
+<string name="business_description">"Here goes description, telling you why it's important to have a business portrait picture"</string>
+
+<!-- Worker profile pictures | text | photo description -->
+<string name="business_body_description">"Here goes description, telling you why it's important to have a business whole body picture"</string>
+
+<!-- Worker profile pictures | text | photo description -->
+<string name="casual_description">"Here goes description, telling you why it's important to have a casual portrait picture"</string>
+
+<!-- Worker profile pictures | text | photo description -->
+<string name="casual_body_description">"Here goes description, telling you why it's important to have a casual whole body picture"</string>
+
+<!-- Worker profile pictures | header | photo section -->
+<string name="business_title">"Business Portrait"</string>
+
+<!-- Worker profile pictures | header | photo section -->
+<string name="business_body_title">"Business Whole Body"</string>
+
+<!-- Worker profile pictures | header | photo section -->
+<string name="casual_title">"Casual Portrait"</string>
+
+<!-- Worker profile pictures | header | photo section -->
+<string name="casual_body_title">"Casual Whole Body"</string>
+
+<!-- Photo edit | title | action bar -->
+<string name="title_select_crop_area">"Select Crop Area"</string>
+
+<!-- Worker profile pictures | menu | actions with photo 
+ Payment details 
+ Payment details | header | iban section -->
+<string name="iban_header">"Bank Account Number"</string>
+
+<!-- Payment details | header | holder section -->
+<string name="account_hoder_header">"Account Holder"</string>
+
+<!-- Payment details | hint | iban input -->
+<string name="iban_hint">"IBAN"</string>
+
+<!-- Payment details | button | switch to use contact details -->
+<string name="same_account_holder">"As contact details"</string>
+
+<!-- Payment details | button | switch to use other contacts -->
+<string name="other_account_holder">"Other"</string>
+
+<!-- Payment details | hint | country input -->
+<string name="country_hint">"Country"</string>
+
+<!-- Payment details | hint | salutation input -->
+<string name="salutation_hint">"Salutation"</string>
+
+<!-- Payments detail | title | action bar -->
+<string name="user_payment_details_title">"Payment Details"</string>
+
+<!-- Payment details | hint | street input -->
+<string name="address_street_hint">"Street, building number"</string>
+
+<!-- Personal details 
+ Personal details | hint | about input -->
+<string name="hint_details_about">"Write some text about you"</string>
+
+<!-- Personal details | hint | user name input -->
+<string name="hint_details_user_name">"Name"</string>
+
+<!-- Personal details | hint | about input -->
+<string name="hint_details_birthday">"Birthday"</string>
+
+<!-- Personal details | hint | email input reference to "email_hint" string -->
+<string name="hint_details_email">"@string/email_hint"</string>
+
+<!-- Personal details | hint | phone input -->
+<string name="hint_details_phone">"Phone"</string>
+
+<!-- Personal details | hint | mobile input -->
+<string name="hint_details_mobile">"Mobile"</string>
+
+<!-- Personal details | hint | address input -->
+<string name="hint_details_address">"Address"</string>
+
+<!-- Personal details | hint | country input -->
+<string name="hint_details_country">"Country"</string>
+
+<!-- Personal details | hint | email input reference to "hint.first_name" string -->
+<string name="hint_details_first_name">"@string/hint.first_name"</string>
+
+<!-- Personal details | hint | email input reference to "hint.last_name" string -->
+<string name="hint_details_last_name">"@string/hint.last_name"</string>
+
+<!-- Personal details | hint | street input -->
+<string name="hint_details_street">"Street &amp; building number"</string>
+
+<!-- Personal details | hint | email input reference to "company.hint.zip" string -->
+<string name="hint_details_zip">"@string/company.hint.zip"</string>
+
+<!-- Personal details | hint | email input reference to "company.hint.city" string -->
+<string name="hint_details_city">"@string/company.hint.city"</string>
+
+<!-- Personal details | hint | additional address input -->
+<string name="hint_details_extra_address">"Additional address"</string>
+
+<!-- Address details | title | screen title -->
+<string name="title_address">"Address"</string>
+
+<!-- Error messages 
+ Any screen | notification | error message content -->
+<string name="unknown_error">"Unknown error"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="network_error">"Cannot connect to server, please try again later"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_empty_request">"Request cannot be executed, please try again later"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_no_network">"Network not available"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_operation_failed">"Operation failed, please contact system administrator"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_object_not_found">"Requested data not found"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_auth_required">"You are not authenticated, please enter valid login and password"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_validation_failed">"Please check entered information"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_user_not_active">"User not active"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_photo_already_exist">"Photo already exist on the server"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_photo_not_exist">"Photo not exist on the server"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_cv_already_exist">"CV already exist on the server"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_cv_not_exist">"CV not exist on the server"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_cv_not_found">"CV not found"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_testimonial_not_found">"Testimonial not found"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_incorrect_file_size">"File too big, should be less then 3 MB"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_incorrect_file_extension">"Unsupported file format, only doc,pdf,png,jpg allowed"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_connection_timeout">"Connection timeout, please try again later"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_parse_error">"Invalid data received, please try again later"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_unknown_error">"Something goes wrong, please contact system administrator"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_email_not_unique">"Email already registered, please enter another one."</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_cannot_add_document">"Document have already added"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_user_not_activated">"Your account is not activated yet. Your account must be activated for this process"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="storage_error">"Cannot save file"</string>
+
+<!-- Any screen | error | error message content. Example: Name must contain at least one lowercase letter -->
+<string name="local_error_at_least_one_small_letter">"%1$s must contain at least one lowercase letter"</string>
+
+<!-- Any screen | error | error message content. Example: Name must contain at least one lowercase letter -->
+<string name="local_error_at_least_one_big_letter">"%1$s must contain at least one uppercase letter"</string>
+
+<!-- Remote validation error messages 
+ Any screen | error | error message content, reference to "validator_required_field" string -->
+<string name="remote_error_mandatory_field">"@string/validator_required_field"</string>
+
+<!-- Any screen | error | error message content. Example: Phone number too short -->
+<string name="remote_error_out_of_range_too_low">"%1$s too short"</string>
+
+<!-- Any screen | error | error message content. Example: Phone number too long -->
+<string name="remote_error_out_of_range_too_high">"%1$s too long"</string>
+
+<!-- Any screen | error | error message content. Example: Password is invalid -->
+<string name="remote_error_format_error">"%1$s is invalid"</string>
+
+<!-- Any screen | error | error message content. Example: Country not supported -->
+<string name="remote_error_invalid_key">"%1$s value not supported"</string>
+
+<!-- Any screen | error | error message content. Example: Email not unique -->
+<string name="remote_error_not_unique">"%1$s not unique"</string>
+
+<!-- Any screen | error | error message content. -->
+<string name="remote_error_context_age_too_young">"You must be at least 18 years old"</string>
+
+<!-- Any screen | error | error message content. -->
+<string name="remote_error_context_age_too_old">"You must be younger to work with us"</string>
+
+<!-- Profile pictures 
+ Employer/Worker profile | error | error message content. -->
+<string name="error_update_profile_picture">"Can't set profile picture. Try again later"</string>
+
+<!-- Employer/Worker profile | error | error message content. -->
+<string name="error_delete_profile_picture">"Can't delete profile picture. Try again later"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="photo_saved">"Photo saved"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="action_remove">"Remove"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="action_take_photo">"Take photo"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="action_select_photo">"Select photo"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="action_take_new_photo">"Take new photo"</string>
+
+<!-- Employer/Worker profile | menu | photo action -->
+<string name="action_select_new_photo">"Select new photo"</string>
+
+<!-- Settings screen 
+  Employer/Worker settings | title | action bar -->
+<string name="title_settings">"Settings"</string>
+
+<!-- Work allowance
+  Work allowance | title | action bar -->
+<string name="work_allowance_title">"Work Allowance"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="oasi_number_hint">"OASI NUMBER (AHV/AVS)"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="nationality_hint">"Nationality"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="marital_status_hint">"Marital status"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="residence_permit_hint">"Work/residence permit"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="withhold_tax_hint">"Are you liable to withholding tax?"</string>
+
+<!-- Work allowance | text | checkbox description -->
+<string name="children_maintenance_hint">"Are you responsible for maintenance towards children?"</string>
+
+<!-- Work allowance | text | checkbox description -->
+<string name="unemployment_benefits_hint">"Are you receiving unemployment benefits at the moment?"</string>
+
+<!-- Work allowance | text | checkbox description -->
+<string name="receiving_pencion_hint">"Are you receiving pension (OASI/DI) at the moment?"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="residence_hint">"Residence"</string>
+<string name="civil_status_hint">"Civil Status"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="upload_id_copy_hint">"Copy of official ID (Passport, Permit)"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="social_insurance_hint">"Social insurance"</string>
+
+<!-- Work allowance | hint | input field -->
+<string name="degree_of_disability_hint">"Degree of disability in %"</string>
+
+<!-- Work allowance | label | disability degree field name -->
+<string name="degree_of_disability_validator">"Disability degree"</string>
+
+<!-- Work allowance | label | open ID copy action menu -->
+<string name="text_id_copy">"ID copy"</string>
+
+<!-- Work allowance | menu | ID copy action -->
+<string name="action_id_copy_take_photo">"Take a picture"</string>
+
+<!-- Work allowance | menu | ID copy action -->
+<string name="action_id_copy_select_file">"Select file"</string>
+
+<!-- Work allowance | menu | ID copy action -->
+<string name="action_id_copy_select_new_file">"Select new file"</string>
+
+<!-- Work allowance | menu | ID copy action -->
+<string name="action_id_copy_take_new_photo">"Take new photo"</string>
+
+<!-- Worker documents 
+ Worker Documents | title | screen title -->
+<string name="title_worker_documents">"Worker Documents"</string>
+
+<!-- Upload photo | notification | error message content. -->
+<string name="error_file_not_created">"Can't create photo, check available space and try again."</string>
+
+<!-- Document upload | title | screen title -->
+<string name="title_document_upload">"Document Upload"</string>
+
+<!-- Upload photo | notification | error message content. -->
+<string name="error_photo_app_not_found">"No application found to take picture"</string>
+
+<!-- Upload photo | notification | error message content. Example: No document found -->
+<string name="document_empty">"No %1$s"</string>
+
+<!-- Document upload 
+ Documents | hint | input field -->
+<string name="document_type_hint">"Document Type"</string>
+
+<!-- Documents | hint | input field -->
+<string name="document_language_hint">"Language"</string>
+
+<!-- Documents | hint | input field -->
+<string name="document_title_hint">"Title"</string>
+
+<!-- Open document 
+ Open document | title | type section -->
+<string name="label_document_type">"Type"</string>
+
+<!-- Open document | header | title section -->
+<string name="label_document_title">"Title"</string>
+
+<!-- Open document | header | language section -->
+<string name="label_document_language">"Language"</string>
+
+<!-- Open document | title | screen title -->
+<string name="title_open_document">"Open Document"</string>
+
+<!-- Open document | error | error message content. -->
+<string name="document_can_not_open">"Can't open document"</string>
+
+<!-- Open document | error | error message content. -->
+<string name="document_no_application_found">"No application found to open file"</string>
+
+<!-- Open document | error | error message content. -->
+<string name="document_can_not_download">"Can't download document"</string>
+
+<!-- Open document | header | CV section -->
+<string name="document_type_cv">"CV"</string>
+
+<!-- Open document | header | testimonial section -->
+<string name="document_type_testimonial">"Testimonial"</string>
+
+<!-- Open document | header | certificates section -->
+<string name="document_type_certificate">"Certificate"</string>
+
+<!-- Open document | error | error message content. -->
+<string name="id_copy_can_not_open">"Can't open ID copy"</string>
+
+<!-- Open document | error | error message content. -->
+<string name="id_copy_can_not_download">"Can't download ID copy"</string>
+
+<!-- Work allowance | button | open ID copy. -->
+<string name="id_copy_open">"Open ID copy"</string>
+
+<!-- ID copy replace dialog | title | dialog title -->
+<string name="dialog_id_copy_upload">"ID copy replace"</string>
+
+<!-- ID copy replace dialog | text | dialog message -->
+<string name="dialog_message_id_copy_upload">"Are you sure you want to replace ID copy?"</string>
+
+<!-- Open document | text | action description -->
+<string name="document_message_not_downloaded">"Please download document to preview and open."</string>
+
+<!-- Additional data 
+ Additional data | title | screen title -->
+<string name="title_additional_data">"Additional Data"</string>
+
+<!-- Additional data | button | go to language screen -->
+<string name="worker_data_languages">"Languages"</string>
+
+<!-- Additional data | button | go to mobility screen -->
+<string name="worker_data_mobility">"Mobility"</string>
+
+<!-- Additional data | button | go to driver license screen -->
+<string name="worker_data_driver_license">"Driver License"</string>
+
+<!-- Additional data | button | go to clothes and body features -->
+<string name="worker_data_clothes_body_size"><![CDATA[Clothes & Body Features]]></string>
+
+<!-- Languages | title | screen title -->
+<string name="title_worker_data_languages">"@string/worker_data_languages"</string>
+
+<!-- Mobility | title | screen title -->
+<string name="title_worker_data_mobility">"@string/worker_data_mobility"</string>
+
+<!-- Clothes and body size | title | screen title -->
+<string name="title_worker_data_clothes_body_size">"@string/worker_data_clothes_body_size"</string>
+
+<!-- Clothes and body size | header | section header -->
+<string name="header_worker_data_clothes_size">"Clothes Size"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="clothes_jacket_size_hint">"Jacket size"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="clothes_pants_width_hint">"Paints width"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="clothes_pants_length_hint">"Paints length"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="clothes_shoes_hint">"Shoes"</string>
+
+<!-- Clothes and body size | header | section header -->
+<string name="header_worker_data_body_defining_features">"Body Defining Features"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="body_size_feature_hint">"Body size"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="body_hair_color_hint">"Hair color"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="body_eye_color_hint">"Eye color"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="body_tattoo_hint">"Tattoo"</string>
+
+<!-- Clothes and body size | hint | input field -->
+<string name="body_piercing_hint">"Piercing"</string>
+
+<!-- Clothes and body size | text | shown if no content available -->
+<string name="empty_no_mobility_types">"No mobility types found"</string>
+
+<!-- Clothes and body size | text | shown if no content available -->
+<string name="empty_no_driver_licenses">"No driver licenses found"</string>
+
+<!-- Clothes and body size | notification | all mobility options already added -->
+<string name="message_all_mobility_added">"All mobility types have already added"</string>
+
+<!-- Clothes and body size | notification | all driver license options already added -->
+<string name="message_all_driving_license_added">"All driving licenses have already added"</string>
+
+<!-- Additional data - languages 
+ Languages | title | section header -->
+<string name="language_speaking_title">"Speaking:"</string>
+
+<!-- Languages | title | section header -->
+<string name="language_writing_title">"Writing:"</string>
+
+<!-- Languages | title | section header -->
+<string name="language_hint">"Language"</string>
+
+<!-- Job Profiles 
+ Worker jobs profiles | title | screen title -->
+<string name="title_worker_job_profiles">"Job Profiles"</string>
+
+<!-- Worker jobs profiles | label | profile status -->
+<string name="job_profile_status_pending">"Pending"</string>
+
+<!-- Worker jobs profiles | label | profile status -->
+<string name="job_profile_status_closing">"Pending to be deleted"</string>
+
+<!-- Worker jobs profiles | notification |  message content -->
+<string name="error_can_not_update_job_profile_status">"Can't update job profile status. Try again later."</string>
+
+<!-- Worker job profile details | title | screen title -->
+<string name="title_job_profile_details">"Job Profile Details"</string>
+
+<!-- Worker jobs profiles | notification |  message content -->
+<string name="job_profile_not_found">"Selected job profile not found. Please update you data."</string>
+
+<!-- Worker jobs profiles | button |  add job profile action -->
+<string name="job_profile_add">"Add"</string>
+
+<!-- Worker jobs profiles | button |  update job profile action -->
+<string name="job_profile_update">"Update"</string>
+
+<!-- Worker jobs profiles | hint | input field -->
+<string name="education_level_hint">"Education level"</string>
+
+<!-- Worker jobs profiles | notification | message content -->
+<string name="education_level_can_not_be_downgraded">"Education level can't be downgraded"</string>
+
+<!-- Worker jobs profiles | notification | message content -->
+<string name="job_profile_limit_reached">"Job profile limit is reached"</string>
+
+<!-- Industry 
+ Choose industry | title | screen title -->
+<string name="title_industry">"Choose Industry"</string>
+
+<!-- Job profiles | title | screen title -->
+<string name="title_job_profiles">"Job Profiles"</string>
+
+<!-- Job profiles | menu | search action -->
+<string name="description_search">"Search"</string>
+
+<!-- Job profiles | menu | filter action -->
+<string name="description_filter">"Filter"</string>
+
+<!-- Confirm password dialog 
+ Confirm password dialog | hint | input field -->
+<string name="hint_enter_password">"Enter password"</string>
+
+<!-- Confirm password dialog | button | dialog action -->
+<string name="dialog_action_confirm">"Confirm"</string>
+
+<!-- Confirm password dialog | button | dialog action -->
+<string name="dialog_title_confirm_password">"Confirm password"</string>
+
+<!-- Confirm password dialog | error | error message -->
+<string name="message_password_not_valid">"Password not valid"</string>
+
+<!-- Photo edit | notification | error message content -->
+<string name="photo_save_error">"User photo can't be saved, please check free space."</string>
+
+<!-- Photo edit | notification | error message content -->
+<string name="photo_upload_error">"Photo can't be uploaded. Try again later."</string>
+
+<!-- Worker labels 
+ Worker labels | title | screen title -->
+<string name="title_worker_labels">"Labels"</string>
+
+<!-- Any screen | notification | error message content -->
+<string name="error_invalid_response">"Network error"</string>
+
+<!-- Recommendation details | title | screen title -->
+<string name="title_recommendation_details">"Recommendation Details"</string>
+
+<!-- Recommendation details | label | recommendation status -->
+<string name="status_recommendation_detail_pending">"pending"</string>
+
+<!-- Recommendation details | label | recommendation status. Example: answered at 10.03.2015 -->
+<string name="status_recommendation_detail_answered">"answered at %1$s"</string>
+
+<!-- Recommendation details | notification | message content -->
+<string name="recommendation_not_availiable">"Recommendation not available"</string>
+
+<!-- Company(employer) profile 
+ Company(employer) profile | notification | message content -->
+<string name="error_can_not_update_company_data">"Can't update company data"</string>
+
+<!-- Company(employer) profile | notification | message content -->
+<string name="error_can_not_get_company_data">"Can't get company data"</string>
+
+<!-- Company(employer) profile | header | content section -->
+<string name="header_employer_profile_company_info">"Company related information"</string>
+
+<!-- Company(employer) profile | header | content section -->
+<string name="header_employer_profile_functions">"Functions"</string>
+
+<!-- Company(employer) profile | header | content section -->
+<string name="hint_department">"Department"</string>
+
+<!-- Company(employer) profile | header | content section -->
+<string name="hint_roles">"Roles"</string>
+
+<!-- Company(employer) profile | hint | input field -->
+<string name="hint_name">"Name"</string>
+
+<!-- Company(employer) profile | hint | input field -->
+<string name="hint_company_name">"Company name"</string>
+
+<!-- Company(employer) profile | button | use company address switcher -->
+<string name="option_as_company">"As company"</string>
+
+<!-- Company(employer) profile | button | use other address switcher -->
+<string name="option_other_address">"Other address"</string>
+
+<!-- Company profile | title | screen title -->
+<string name="title_employer_profile">"Employer Profile"</string>
+
+<!-- Company(employer) profile | notification | message content -->
+<string name="profile_photo_changed">"Profile photo changed"</string>
+
+<!-- Company(employer) profile | menu | photo action -->
+<string name="action_set_as_profile">"Set as profile"</string>
+
+<!-- Company(employer) profile | text | checkbox -->
+<string name="label_show_password">"Show password"</string>
+
+<!-- Company(employer) profile | notification | message content -->
+<string name="selected_image_not_found">"Selected image not found"</string>
+
+<!-- Employer work assignment list 
+ Company WA | title | screen title -->
+<string name="title_employer_wa">"Work Assignments"</string>
+
+<!-- Company(employer) profile | label | sort menu name -->
+<string name="action_sort">"Sort"</string>
+
+<!-- Company(employer) profile | menu | action name -->
+<string name="action_sort_by_name">"Sort by: name"</string>
+
+<!-- Company(employer) profile | menu | action name -->
+<string name="action_sort_by_date">"Sort by: date"</string>
+
+<!-- Company(employer) profile | text | Jhon Smith -->
+<string name="created_by">"%1$s %2$s"</string>
+
+<!-- 1 - first name, 2 - last name 
+ Company(employer) profile | text | 11.02.2015 - 16.02.2015 -->
+<string name="work_assignment_date">"%1$s - %2$s"</string>
+
+<!-- 1 - date from, 2 - date to 
+ Company(employer) profile | menu | filter action name -->
+<string name="filter_header_all_creator">"All creators"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_header_all_statuses">"All statuses"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_action_required">"Action required"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_planned">"Planned"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_active">"In Progress"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_closed">"Closed"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_deleted">"Deleted"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="filter_status_inactive">"Inactive"</string>
+
+<!-- Company(employer) profile | menu | no actions available -->
+<string name="none">"none"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="wa_status_planned">"Planing"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="wa_status_active">"In Progress"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="wa_status_closed">"Closed"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="wa_status_deleted">"Deleted"</string>
+
+<!-- Company(employer) profile | menu | filter action name -->
+<string name="wa_status_inactive">"Inactive"</string>
+
+<!-- Any root screen | notification | message content -->
+<string name="error_switching_account">"Can't switch account, try again later"</string>
+
+<!-- Any root screen | header | user role chooser section header -->
+<string name="title_account_worker">"Worker"</string>
+
+<!-- Project 
+ Company projects | title | screen title -->
+<string name="title_project">"Project"</string>
+
+<!-- Company projects | text | creator description. Example: Created by John Smith -->
+<string name="project_created_by">"Created by %1$s %2$s"</string>
+
+<!-- 1 - first name, 2 - last name 
+ Company projects | text | project date description. Example: 12.12.2015 - 17.12.20.15 -->
+<string name="project_date">"%1$s - %2$s"</string>
+
+<!-- Worker WA | title | screen title -->
+<string name="title_worker_wa_list">"Work Assignment"</string>
+
+<!-- Worker WA | label | worker wage. Example: 22 CHF hourly wage -->
+<string name="hourly_wage">"hourly"</string>
+
+<!-- Worker WA 
+ Worker WA | label | WA status description -->
+<string name="title_worker_job_requested">"Requested"</string>
+
+<!-- Worker WA | label | WA status description -->
+<string name="title_worker_job_pending">"Pending"</string>
+
+<!-- Worker WA | label | WA status description -->
+<string name="title_worker_job_accepted">"Accepted"</string>
+
+<!-- Worker WA | label | WA status description -->
+<string name="title_worker_job_in_progress">"In Progress"</string>
+
+<!-- Worker WA | label | WA status description -->
+<string name="title_worker_job_completed">"Completed"</string>
+
+<!-- Worker WA | label | WA status description -->
+<string name="title_worker_job_declined">"Declined"</string>
+
+<!-- Worker WA | menu | action to sort -->
+<string name="action_sort_by_compamy_name">"Sort by: company name"</string>
+
+<!-- Worker WA | menu | action to sort -->
+<string name="action_sort_by_hourly_wage">"Sort by: hourly wage"</string>
+
+<!-- Worker WA | menu | action to sort -->
+<string name="action_sort_gross_wage">"Sort by: gross wage"</string>
+
+<!-- Worker WA | menu | action to sort -->
+<string name="action_sort_by_job_location">"Sort by: job location"</string>
+
+<!-- Worker WA | menu | action to sort -->
+<string name="action_sort_by_job_profile">"Sort by:  job profile"</string>
+
+<!-- Worker WA | header | job location section -->
+<string name="header_wa_job_location">"Job location"</string>
+
+<!-- Worker WA | header | contact section -->
+<string name="header_wa_contact_section">"Contact"</string>
+
+<!-- Worker WA | header | requirement section -->
+<string name="header_wa_job_description">"Requirements, description, comment"</string>
+
+<!-- Worker WA | header | clothing section -->
+<string name="header_wa_job_clothing_requirements">"Clothing requirements"</string>
+
+<!-- Worker WA | header | meeting point section -->
+<string name="header_wa_job_meeting_point">"Meeting point"</string>
+
+<!-- Job details 
+ Worker job details | title | screen title -->
+<string name="title_job_detail">"Job Details"</string>
+
+<!-- Worker job details | label | wage. Example: 12 CHF -->
+<string name="job_wage">"~ %1$s %2$s"</string>
+
+<!-- Worker job details | label | wage. Example: 12 CHF hourly wage -->
+<string name="job_hourly_wage">"%1$s %2$s hourly wage"</string>
+
+<!-- Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015 -->
+<string name="worker_job_multiple_dates">"%1$s - %2$s"</string>
+
+<!-- Worker job details | text | working hour description. Example: Working hours 10 h -->
+<string name="job_working_hours_multiple_dates">"Working hours %1$s h"</string>
+
+<!-- Worker job details | text | working hour and break description. Example: Working hours 10 h | Break 50 Min. -->
+<string name="job_working_hours_single_date">"Working hours %1$s h | Break %2$s Min."</string>
+
+<!-- Worker job details | label | expense description. Example: 10 CHF per day mobility -->
+<string name="job_expense">"%1$s %2$s %3$s %4$s"</string>
+
+<!-- Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015 -->
+<string name="job_single_time">"%1$s - %2$s"</string>
+
+<!-- Worker job details | button | button action -->
+<string name="decline_all_dates">"DECLINE ALL"</string>
+
+<!-- Worker job details | button | button action -->
+<string name="decline_date">"DECLINE"</string>
+
+<!-- Worker job details | button | button action -->
+<string name="choose_dates">"CHOOSE DATES"</string>
+
+<!-- Worker job details | button | button action -->
+<string name="confirm_date">"CONFIRM"</string>
+
+<!-- Worker job details | notification | message content -->
+<string name="can_not_open_map">"Can't open map"</string>
+
+<!-- Detail map | title | screen title -->
+<string name="title_map">"MAP"</string>
+<string name="worker_job_details_button_title">"Details"</string>
+
+<!-- Worker job details dialog | text | message content -->
+<string name="title_worker_job_accept_dates_dialog">"You interest was send"</string>
+
+<!-- Worker job details dialog | notification | message content -->
+<string name="worker_job_accept_date_notification">"Now you can lean back, the employer is informed. We will let you know, when you're hired."</string>
+
+<!-- Worker job details | text | shown if no dates for job selected -->
+<string name="worker_job_no_dates_selected">"No dates selected"</string>
+
+<!-- Worker job details | header | rating section -->
+<string name="header_job_company_rating_section">"Rating Details"</string>
+
+<!-- Company details | title | screen title -->
+<string name="title_company_rating">"RATING"</string>
+
+<!-- Worker job details | button | button action -->
+<string name="worker_job_confirm_button">"CONFIRM"</string>
+
+<!-- Missing attributes 
+ Missing attributes | title | screen title -->
+<string name="title_missing_attributes">"MISSING ATTRIBUTES"</string>
+
+<!-- Missing attributes | button | screen title -->
+<string name="missing_attributes_button_title">"Details"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_person_status_name">"Person status"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_profile_status_name">"Profile status"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_birth_date">"Birth date"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_person_address_country">"Country for person address"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_person_address">"Address"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_person_mobile_number">"Mobile number"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_person_phone_number">"Phone number"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_residence_address">"Residence address"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_id_copy">"ID copy"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_nationality">"Nationality"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_residence_address_country">"Residence address country"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_residence_permit">"Residence permit"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_worker_allowance_ssn_number">"OASI number"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_body_body_size">"Body size"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_body_eye_color">"Eye color"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_body_hair_color">"Hair color"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_body_piercing">"Piercing"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_body_tattoo">"Tattoo"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_clothes_jacket_size">"Jacket size"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_clothes_pants_length">"Pants length"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_clothes_pants_width">"Pants width"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_clothes_shoe_size">"Shoe size"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_driving_license">"Driving license"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_language_skills">"Language skill"</string>
+
+<!-- Missing attributes | hint | input field hint -->
+<string name="missing_attribute_mobilities">"Mobilities"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_person_data">"PERSON DATA"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_worker_allowance">"WORKER ALLOWANCE"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_body_features">"BODY FEATURES"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_clothes_requirement">"CLOTHES REQUIREMENT"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_mobility">"MOBILITY"</string>
+
+<!-- Missing attributes | header | section header -->
+<string name="missing_attribute_group_language_requirement">"LANGUAGE REQUIREMENT"</string>
+
+<!-- Missing attributes dialog | header | dialog header -->
+<string name="dialog_header_decline_request">"Decline request"</string>
+
+<!-- Missing attributes dialog | text | dialog content -->
+<string name="dialog_body_decline_job">"This request will be deleted, you can not recover it. 
+ Are you sure?"</string>
+
+<!-- Missing attributes dialog | button | dialog action -->
+<string name="dialog_button_cancel">"Cancel"</string>
+
+<!-- Missing attributes dialog | button | dialog action -->
+<string name="dialog_button_decline">"Decline"</string>
+
+<!-- Missing attributes dialog | button | dialog action -->
+<string name="dialog_button_ok">"Ok"</string>
+
+<!-- Missing attributes dialog | header | dialog header -->
+<string name="dialog_header_accept_error">"Accept Request Error"</string>
+
+<!-- Missing attributes dialog | text | dialog content -->
+<string name="dialog_body_accept_error">"This job can't be accepted. Please try another one."</string>
+
+<!-- Missing attributes dialog | header | dialog header -->
+<string name="dialog_header_missing_attribute">"Missing attribute"</string>
+
+<!-- Missing attributes dialog | text | dialog content -->
+<string name="dialog_body_missing_attr">"Some profile attributes required to accept this job. Would you like to fill them in or decline job?"</string>
+
+<!-- Missing attributes dialog | text | dialog content -->
+<string name="dialog_body_missing_attr_info">"Following attributes should be provided to accept the job:
+ %1$s 
+ Would you like to fill them in or decline job?"</string>
+
+<!-- Missing attributes dialog | button | dialog action -->
+<string name="dialog_button_fill_in">"Fill in"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_unknown">"unknown"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_requested">"requested"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_declined">"declined"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_accepted">"accepted"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_not_hired">"not hired"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_hired">"hired"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_closed">"closed"</string>
+
+<!-- Worker job details | label | job status -->
+<string name="job_status_canceled">"canceled"</string>
+
+<!-- Registration screen 
+ Worker registration | title | screen title -->
+<string name="worker_title_registration">"Register Worker"</string>
+
+<!-- User account screen 
+ User account | text | checkbox description -->
+<string name="worker_hint_general_availability">"General availability"</string>
+
+<!-- Any root screen | header | user role header -->
+<string name="worker_title_user_account">"Worker"</string>
+
+<!-- Request recommendation screen 
+ Request recommendation | title | screen title -->
+<string name="worker_title_request_recommendation">"Request recommendation"</string>
+
+<!-- Request recommendation | hint | input field -->
+<string name="hint.education_level">"Education level"</string>
+
+<!-- Request recommendation | hint | input field -->
+<string name="hint.job_profile">"Job profile"</string>
+
+<!-- Request recommendation dialog | title | dialog title to add job profile -->
+<string name="dialog_title_add_job_profile">"Add job profiles"</string>
+
+<!-- Request recommendation | notification | notification content -->
+<string name="toast_no_active_job">"No active job profiles found"</string>
+
+<!-- Request recommendation | notification | notification content -->
+<string name="toast_no_selected_job_profiles">"Add at least one job profile to continue."</string>
+
+<!-- Request recommendation | hint | input field -->
+<string name="hint_job_title">"Job title"</string>
+
+<!-- Request recommendation | hint | input field -->
+<string name="hint_recommendation_invitation_text">"Invitation text"</string>
+
+<!-- Request recommendation | text | checkbox description -->
+<string name="confirm_correct_data">"Confirm data is correct"</string>
+
+<!-- Request recommendation | button | send recommendation -->
+<string name="button_send">"Send"</string>
+
+<!-- Request recommendation | hint | checkbox -->
+<string name="component_confirm_data">"Confirm data"</string>
+
+<!-- Recommendations list 
+ Recommendations | title | screen title -->
+<string name="title_recommendations">"Recommendations"</string>
+
+<!-- Recommendations | label | recommendation status -->
+<string name="status_recommendation_not_rated">"Not rated"</string>
+
+<!-- Recommendations | label | recommendation status -->
+<string name="status_recommendation_pending">"Pending ..."</string>
+
+<!-- Registration screen 
+ Company registration | title | screen title -->
+<string name="company.title.registration">"Register Company"</string>
+
+<!-- Company registration | hint | hint content -->
+<string name="company.hint.name">"Company name"</string>
+
+<!-- Company registration | hint | hint content -->
+<string name="company.hint.address">"Address (street, building number)"</string>
+
+<!-- Company registration | hint | hint content -->
+<string name="company.hint.zip">"Zip"</string>
+
+<!-- Company registration | hint | hint content -->
+<string name="company.hint.city">"City"</string>
+
+<!-- Company registration | hint | hint content -->
+<string name="company.hint.phone_number">"Phone number"</string>
+
+<!-- User account screen 
+ Any root screen | header | company account section -->
+<string name="employer.title.user_account">"Employer"</string>
+
+<!-- Worker WA list screen | badge text | inside badge -->
+<string name="badge_new_text">"NEW"</string>
+
+<!-- Worker WA list screen | label | wage per hour string, example 20.00 CHF/h -->
+<string name="wage_per_hour">"{wage} {currency}/h"</string>
+
+<!-- Worker WA list screen | label | working hours string, example 20.0 h -->
+<string name="working_hours">"{hours} h"</string>
+
+<!-- Worker WA list screen | label | working dates, example 15.05.15 - 18.05.15 -->
+<string name="work_assignment_dates">"{date_from} - {date_to}"</string>
+
+<!-- Worker WA list screen | button | continue action -->
+<string name="dialog_button_continue">"Continue"</string>
+
+<!-- Worker WA list screen | error | error message -->
+<string name="worker_profile_data_missing">"Worker profile data are missing"</string>
+<string name="wa_fully_staffed">"Fully staffed"</string>
+
+<!-- Employer WA list screen | slot coverage info, example - Slot coverage 3 of 8 slots -->
+<string name="wa_slot_coverage">"Slot coverage
+%1$s of %2$s slots"</string>
+
+<!-- Worker WA list screen | header | filter menu header -->
+<string name="filter_header_statuses">"STATUSES"</string>
+
+<!-- Worker WA list screen | header | sort menu header -->
+<string name="sort_by_header">"SORT BY"</string>
+
+<!-- Worker WA list screen | menu | sort action -->
+<string name="sort_wa_by_next_slot_date">"Next Slot Date"</string>
+
+<!-- Worker WA list screen | menu | sort action -->
+<string name="sort_wa_by_first_slot_date">"First Slot Date"</string>
+
+<!-- Worker WA list screen | menu | sort action -->
+<string name="sort_wa_by_wa_name">"Work Assignment Name"</string>
+
+<!-- Worker WA list screen | menu | sort action -->
+<string name="sort_wa_by_wa_last_name">"Creator Last Name"</string>
+
+<!-- Worker WA list screen | menu | sort action -->
+<string name="sort_wa_by_new_accepted">"New Accepted Worker"</string>
+</resources>
