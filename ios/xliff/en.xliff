@@ -56,7 +56,7 @@
       <trans-unit id="navdrawer_project">
         <source>Project</source>
         <target>Project</target>
-        <note>Any application root screen | menu | name of the root screen to navigate to from application side menu</note>
+        <note>New comment</note>
       </trans-unit>
       <trans-unit id="navdrawer_work_assignment_item">
         <source>Work Assignment</source>

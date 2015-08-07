@@ -34,7 +34,7 @@ msgctxt "Slide menu"
 msgid "navdrawer_home_item"
 msgstr "Home"
 
-#. Any application root screen | menu | name of the root screen to navigate to from application side menu
+#. New comment
 #: 
 msgid "navdrawer_project"
 msgstr "Project"
