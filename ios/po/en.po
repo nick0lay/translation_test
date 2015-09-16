@@ -7,2267 +7,3226 @@ msgstr ""
 "Project-Id-Version: Test\n"
 "Language: en\n"
 
-#. Any application screen | error | shown in case io unexpected error in application
+#. Just comment 3
+#: Just comment 3
+msgctxt "app_name"
+msgid "Android Clean Architecture"
+msgstr "Android Clean Architecture"
+
+#. Just comment 4
+#: Just comment 4
+msgctxt "url"
+msgid "http://www.android10.org/"
+msgstr "http://www.android10.org/"
+
+#. Just comment 5
+#: Just comment 5
+msgctxt "activity_title_user_list"
+msgid "Users List"
+msgstr "Users List"
+
+#. Just comment 6
+#: Just comment 6
+msgctxt "activity_title_user_details"
+msgid "User Details"
+msgstr "User Details"
+
 #: 
-msgctxt "Error notification"
-msgid "message_server_error"
+msgctxt "btn_text_load_data"
+msgid "Load Sample Data"
+msgstr "Load Sample Data"
+
+#: 
+msgctxt "btn_text_retry"
+msgid "Retry"
+msgstr "Retry"
+
+#: 
+msgctxt "view_text_email"
+msgid "Email:"
+msgstr "Email:"
+
+#: 
+msgctxt "view_text_followers"
+msgid "Followers:"
+msgstr "Followers:"
+
+#: 
+msgctxt "view_text_description"
+msgid "Description:"
+msgstr "Description:"
+
+#: 
+msgctxt "string_content_description"
+msgid "Non accessible view"
+msgstr "Non accessible view"
+
+#: 
+msgctxt "exception_message_generic"
+msgid "There was an application error"
+msgstr "There was an application error"
+
+#: 
+msgctxt "exception_message_no_connection"
+msgid "There is no internet connection"
+msgstr "There is no internet connection"
+
+#: 
+msgctxt "exception_message_user_not_found"
+msgid "Cannot retrieve user data. Check your internet connection"
+msgstr "Cannot retrieve user data. Check your internet connection"
+
+#. Application name | title | application launch icon, action bar
+#: Application name | title | application launch icon, action bar
+msgctxt "app_name"
+msgid "Staff Finder"
+msgstr "Staff Finder"
+
+#. Main, create account screens | menu | menu item name to open settings screen
+#: Main, create account screens | menu | menu item name to open settings screen
+msgctxt "action_settings"
+msgid "Settings"
+msgstr "Settings"
+
+#. Any application screen | error | shown in case io unexpected error in application
+#: Any application screen | error | shown in case io unexpected error in application
+msgctxt "message_server_error"
+msgid "Oops! Unexpected server error."
 msgstr "Oops! Unexpected server error."
 
-#. Navigation Drawer items 
-#.  Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgctxt "Slide menu"
-msgid "navdrawer_home_item"
+#. Any application root screen | menu | name of the root screen to navigate to from application side menu
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_home_item"
+msgid "Home"
 msgstr "Home"
 
-#: 
-msgid "navdrawer_project"
+#. Any application root screen | menu | name of the root screen to navigate to from application side menu
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_project"
+msgid "Project"
 msgstr "Project"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_work_assignment_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_work_assignment_item"
+msgid "Work Assignment"
 msgstr "Work Assignment"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_news_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_news_item"
+msgid "News"
 msgstr "News"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_jobs_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_jobs_item"
+msgid "Jobs"
 msgstr "Jobs"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_calendar_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_calendar_item"
+msgid "Calendar"
 msgstr "Calendar"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_job_profiles"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_job_profiles"
+msgid "Job Profiles"
 msgstr "Job Profiles"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_settings_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_settings_item"
+msgid "Settings"
 msgstr "Settings"
 
 #. Any application root screen | menu | name of the action
-#: 
-msgid "navdrawer_logout_item"
+#: Any application root screen | menu | name of the action
+msgctxt "navdrawer_logout_item"
+msgid "Logout"
 msgstr "Logout"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_about_item"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_about_item"
+msgid "About"
 msgstr "About"
 
 #. Any application root screen | menu | name of the root screen to navigate to from application side menu
-#: 
-msgid "navdrawer_labels"
+#: Any application root screen | menu | name of the root screen to navigate to from application side menu
+msgctxt "navdrawer_labels"
+msgid "Labels"
 msgstr "Labels"
 
 #. Any application root screen | content description | used as voice description for accessibility reasons
-#: 
-msgid "drawer_open"
+#: Any application root screen | content description | used as voice description for accessibility reasons
+msgctxt "drawer_open"
+msgid "Open navigation drawer"
 msgstr "Open navigation drawer"
 
 #. Any application root screen | content description | used as voice description for accessibility reasons
-#: 
-msgid "drawer_close"
+#: Any application root screen | content description | used as voice description for accessibility reasons
+msgctxt "drawer_close"
+msgid "Close navigation drawer"
 msgstr "Close navigation drawer"
 
-#. Login screen
-#.     
-#.  Login screen | hint | login input
-#: 
-msgid "login_hint"
+#. Login screen | hint | login input
+#: Login screen | hint | login input
+msgctxt "login_hint"
+msgid "Login"
 msgstr "Login"
 
 #. Login screen | hint | password input
-#: 
-msgid "password_hint"
+#: Login screen | hint | password input
+msgctxt "password_hint"
+msgid "Password"
 msgstr "Password"
 
 #. Login screen | button | action to login user in application
-#: 
-msgid "login_button"
+#: Login screen | button | action to login user in application
+msgctxt "login_button"
+msgid "Login"
 msgstr "Login"
 
 #. Login screen | title | action bar
-#: 
-msgid "title_login_screen"
+#: Login screen | title | action bar
+msgctxt "title_login_screen"
+msgid "Login"
 msgstr "Login"
 
 #. Login screen | button label | near button
-#: 
-msgid "button_remember_me"
+#: Login screen | button label | near button
+msgctxt "button_remember_me"
+msgid "Remember me"
 msgstr "Remember me"
 
 #. Login screen | link label | near link
-#: 
-msgid "link_forgot_password"
+#: Login screen | link label | near link
+msgctxt "link_forgot_password"
+msgid "Forgot your password?"
 msgstr "Forgot your password?"
 
 #. Login screen | link label | near link
-#: 
-msgid "link_create_account"
+#: Login screen | link label | near link
+msgctxt "link_create_account"
+msgid "Create account"
 msgstr "Create account"
 
 #. Splash screen | text | copyright description
-#: 
-msgid "copyright_string"
+#: Splash screen | text | copyright description
+msgctxt "copyright_string"
+msgid "Copyright \u00a9 2014 STAFF FINDER. All rights reserved."
 msgstr "Copyright \u00a9 2014 STAFF FINDER. All rights reserved."
 
 #. Password recovery screen | title | action bar
-#: 
-msgid "title_password_recovery_screen"
+#: Password recovery screen | title | action bar
+msgctxt "title_password_recovery_screen"
+msgid "Recover password"
 msgstr "Recover password"
 
 #. Password recovery screen | header | recovery description section
-#: 
-msgid "forgot_password_header"
+#: Password recovery screen | header | recovery description section
+msgctxt "forgot_password_header"
+msgid "Forgot your password?"
 msgstr "Forgot your password?"
 
 #. Password recovery screen | text | description how to recover application password
-#: 
-msgid "forgot_password_instruction"
+#: Password recovery screen | text | description how to recover application password
+msgctxt "forgot_password_instruction"
+msgid "Please enter you email address bellow and we will send you instruction to reset your password."
 msgstr "Please enter you email address bellow and we will send you instruction to reset your password."
 
 #. Password recovery screen | hint | email input
-#: 
-msgid "email_hint"
+#: Password recovery screen | hint | email input
+msgctxt "email_hint"
+msgid "Email"
 msgstr "Email"
 
 #. Password recovery screen | button | action to send email for password recovery
-#: 
-msgid "send_button"
+#: Password recovery screen | button | action to send email for password recovery
+msgctxt "send_button"
+msgid "Send"
 msgstr "Send"
 
-#. Create account screen
-#.     
-#.  Create account screen | title | action bar
-#: 
-msgid "title_create_account_screen"
+#. Create account screen | title | action bar
+#: Create account screen | title | action bar
+msgctxt "title_create_account_screen"
+msgid "Registration"
 msgstr "Registration"
 
 #. Create account screen | header | create account description section
-#: 
-msgid "create_account_header"
+#: Create account screen | header | create account description section
+msgctxt "create_account_header"
+msgid "REGISTER NOW!"
 msgstr "REGISTER NOW!"
 
 #. Create account screen | text | why it's important to create account
-#: 
-msgid "create_account_description"
-msgstr "Staff Finder® has 4'000 temporary jobs between about 30'000 registered employees and 1'500 registered employers. 98% of the jobs are filled within 4 hours"
+#: Create account screen | text | why it's important to create account
+msgctxt "create_account_description"
+msgid "Staff Finder"
+msgstr "Staff Finder"
 
 #. Create account screen | button | action to register company
-#: 
-msgid "company_registration_button"
+#: Create account screen | button | action to register company
+msgctxt "company_registration_button"
+msgid "I need staff"
 msgstr "I need staff"
 
 #. Create account screen | button | action to register worker
-#: 
-msgid "worker_registration_button"
+#: Create account screen | button | action to register worker
+msgctxt "worker_registration_button"
+msgid "I want to work"
 msgstr "I want to work"
 
-#. Registration screen
-#.     
-#.  Registration screen | hint | first name input
-#: 
-msgid "hint.first_name"
+#. Registration screen | hint | first name input
+#: Registration screen | hint | first name input
+msgctxt "hint.first_name"
+msgid "First Name"
 msgstr "First Name"
 
 #. Registration screen | hint | last name input
-#: 
-msgid "hint.last_name"
+#: Registration screen | hint | last name input
+msgctxt "hint.last_name"
+msgid "Last Name"
 msgstr "Last Name"
 
 #. Registration screen | hint | repeat name input
-#: 
-msgid "hint.repeat_password"
+#: Registration screen | hint | repeat name input
+msgctxt "hint.repeat_password"
+msgid "Repeat password"
 msgstr "Repeat password"
 
 #. Registration screen | button | action to finish registration
-#: 
-msgid "button.finish_registration"
+#: Registration screen | button | action to finish registration
+msgctxt "button.finish_registration"
+msgid "Finish"
 msgstr "Finish"
 
 #. Registration screen | text | checkbox description
-#: 
-msgid "checkbox.accept_terms_and_conditions"
-msgstr "I accept <a href=https://www.staff-finder.jobs/public/agb>Terms,Conditions</a> and <a href=https://www.staff-finder.jobs/public/datenschutz>Privacy Policy</a>"
+#: Registration screen | text | checkbox description
+msgctxt "checkbox.accept_terms_and_conditions"
+msgid "I accept Terms,Conditions and Privacy Policy"
+msgstr "I accept Terms,Conditions and Privacy Policy"
 
 #. Registration screen | text | checkbox description
-#: 
-msgid "checkbox.password_permit_warning"
+#: Registration screen | text | checkbox description
+msgctxt "checkbox.password_permit_warning"
+msgid "Swiss passport or work permit is required"
 msgstr "Swiss passport or work permit is required"
 
-#. User account screen 
-#.  Change password screen | notification | in case of successful login
-#: 
-msgid "notification.password_changed"
+#. Change password screen | notification | in case of successful login
+#: Change password screen | notification | in case of successful login
+msgctxt "notification.password_changed"
+msgid "Password successfully changed"
 msgstr "Password successfully changed"
 
 #. Account management screen | button | action to delete account
-#: 
-msgid "button.delete_account"
+#: Account management screen | button | action to delete account
+msgctxt "button.delete_account"
+msgid "Delete account"
 msgstr "Delete account"
 
 #. Account management screen | menu | action to save data
-#: 
-msgid "menu.save_action"
+#: Account management screen | menu | action to save data
+msgctxt "menu.save_action"
+msgid "Save"
 msgstr "Save"
 
 #. Any screen where entered phone validated | error | beginning of validation error. Example: At least on phone required
-#: 
-msgid "validation.one_phone_required"
+#: Any screen where entered phone validated | error | beginning of validation error. Example: At least on phone required
+msgctxt "validation.one_phone_required"
+msgid "At least on phone"
 msgstr "At least on phone"
 
-#. Validator messages 
-#.  Any screen where entered phone validated | error | reason of the error. Example: Phone is not valid
-#: 
-msgid "validator_default_error_message_pattern"
+#. Any screen where entered phone validated | error | reason of the error. Example: Phone is not valid
+#: Any screen where entered phone validated | error | reason of the error. Example: Phone is not valid
+msgctxt "validator_default_error_message_pattern"
+msgid "%1$s is not valid"
 msgstr "%1$s is not valid"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Phone is required
-#: 
-msgid "validator_required_field"
+#: Any screen where entered phone validated | error | reason of the error. Example: Phone is required
+msgctxt "validator_required_field"
+msgid "%1$s is required"
 msgstr "%1$s is required"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Password can not be shorter than 10 characters
-#: 
-msgid "validator_min_length"
+#: Any screen where entered phone validated | error | reason of the error. Example: Password can not be shorter than 10 characters
+msgctxt "validator_min_length"
+msgid "%1$s can not be shorter than %2$d characters"
 msgstr "%1$s can not be shorter than %2$d characters"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Password can not be longer than 10 characters
-#: 
-msgid "validator_max_length"
+#: Any screen where entered phone validated | error | reason of the error. Example: Password can not be longer than 10 characters
+msgctxt "validator_max_length"
+msgid "%1$s can not be longer than %2$d characters"
 msgstr "%1$s can not be longer than %2$d characters"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Name must contain only alphabetical characters
-#: 
-msgid "validator_only_letters"
+#: Any screen where entered phone validated | error | reason of the error. Example: Name must contain only alphabetical characters
+msgctxt "validator_only_letters"
+msgid "%1$s must contain only alphabetical characters"
 msgstr "%1$s must contain only alphabetical characters"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Email should have the format something@somthing.com
-#: 
-msgid "validator_email"
+#: Any screen where entered phone validated | error | reason of the error. Example: Email should have the format something@somthing.com
+msgctxt "validator_email"
+msgid "%1$s should have the format something@somthing.com"
 msgstr "%1$s should have the format something@somthing.com"
 
 #. Any screen where entered phone validated | error | reason of the error
-#: 
-msgid "validator_passwords_not_match"
+#: Any screen where entered phone validated | error | reason of the error
+msgctxt "validator_passwords_not_match"
+msgid "Password not match"
 msgstr "Password not match"
 
 #. Any screen where entered phone validated | error | reason of the error
-#: 
-msgid "validator_terms_and_conditions"
+#: Any screen where entered phone validated | error | reason of the error
+msgctxt "validator_terms_and_conditions"
+msgid "Terms and conditions must be accepted"
 msgstr "Terms and conditions must be accepted"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Phone must contain only numbers
-#: 
-msgid "validator_only_numbers"
+#: Any screen where entered phone validated | error | reason of the error. Example: Phone must contain only numbers
+msgctxt "validator_only_numbers"
+msgid "%1$s must contain only numbers"
 msgstr "%1$s must contain only numbers"
 
 #. Terms and conditions screen | title | action bar
-#: 
-msgid "component_terms_and_conditions"
+#: Terms and conditions screen | title | action bar
+msgctxt "component_terms_and_conditions"
+msgid "Terms and conditions"
 msgstr "Terms and conditions"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Age must be within the range 18 and 70
-#: 
-msgid "validator_range"
+#: Any screen where entered phone validated | error | reason of the error. Example: Age must be within the range 18 and 70
+msgctxt "validator_range"
+msgid "%1$s must be within the range %2$d and %3$d"
 msgstr "%1$s must be within the range %2$d and %3$d"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Invalid phone format
-#: 
-msgid "validator_invalid_format"
+#: Any screen where entered phone validated | error | reason of the error. Example: Invalid phone format
+msgctxt "validator_invalid_format"
+msgid "Invalid %1$s format"
 msgstr "Invalid %1$s format"
 
 #. Any screen where entered phone validated | error | reason of the error. Example: Disability degree must between 1 and 100
-#: 
-msgid "validator_disability"
+#: Any screen where entered phone validated | error | reason of the error. Example: Disability degree must between 1 and 100
+msgctxt "validator_disability"
+msgid "%1$s must between 1 and 100"
 msgstr "%1$s must between 1 and 100"
 
-#. Dialogs 
-#.  Any screen with dialog | button | action to accept and close dialog
-#: 
-msgid "dialog_action_ok"
+#. Any screen with dialog | button | action to accept and close dialog
+#: Any screen with dialog | button | action to accept and close dialog
+msgctxt "dialog_action_ok"
+msgid "OK"
 msgstr "OK"
 
 #. Any screen with dialog | button | action to cancel and close dialog
-#: 
-msgid "dialog_action_cancel"
+#: Any screen with dialog | button | action to cancel and close dialog
+msgctxt "dialog_action_cancel"
+msgid "Cancel"
 msgstr "Cancel"
 
 #. Account management screen | text | confirmation for account deletion
-#: 
-msgid "dialog_message_delete_account"
+#: Account management screen | text | confirmation for account deletion
+msgctxt "dialog_message_delete_account"
+msgid "Delete account?"
 msgstr "Delete account?"
 
 #. Account management screen | button | action to delete account
-#: 
-msgid "dialog_action_delete"
+#: Account management screen | button | action to delete account
+msgctxt "dialog_action_delete"
+msgid "Delete"
 msgstr "Delete"
 
 #. Any screen with dialog | button | action to save data
-#: 
-msgid "dialog_action_save"
+#: Any screen with dialog | button | action to save data
+msgctxt "dialog_action_save"
+msgid "Save"
 msgstr "Save"
 
 #. Any screen with dialog | title | dialog title
-#: 
-msgid "dialog_title_change_password"
+#: Any screen with dialog | title | dialog title
+msgctxt "dialog_title_change_password"
+msgid "Change Password"
 msgstr "Change Password"
 
 #. Any screen with dialog | button | action to finish with something
-#: 
-msgid "dialog_title_done"
+#: Any screen with dialog | button | action to finish with something
+msgctxt "dialog_title_done"
+msgid "Done"
 msgstr "Done"
 
 #. Company registration screen | notification | shown in case of successful company registration
-#: 
-msgid "dialog_message_account_registered"
+#: Company registration screen | notification | shown in case of successful company registration
+msgctxt "dialog_message_account_registered"
+msgid "You have registered. Please login to enter."
 msgstr "You have registered. Please login to enter."
 
 #. File picker screen | button | action to select picture
-#: 
-msgid "dialog_title_camera_or_gallery"
+#: File picker screen | button | action to select picture
+msgctxt "dialog_title_camera_or_gallery"
+msgid "Select Picture"
 msgstr "Select Picture"
 
 #. Reset password screen | notification | shown in case of email send to recover password
-#: 
-msgid "dialog_message_password_reset"
+#: Reset password screen | notification | shown in case of email send to recover password
+msgctxt "dialog_message_password_reset"
+msgid "Please check your email for further instructions."
 msgstr "Please check your email for further instructions."
 
 #. Account management screen | notification | shown in case of successful email changed
-#: 
-msgid "dialog_message_email_changed"
+#: Account management screen | notification | shown in case of successful email changed
+msgctxt "dialog_message_email_changed"
+msgid "You have successfully changed your email"
 msgstr "You have successfully changed your email"
 
 #. Account management screen | notification | shown in case of successful deactivation
-#: 
-msgid "dialog_message_account_deleted"
+#: Account management screen | notification | shown in case of successful deactivation
+msgctxt "dialog_message_account_deleted"
+msgid "Your account is deactivated"
 msgstr "Your account is deactivated"
 
 #. Logout dialog | title | dialog title
-#: 
-msgid "dialog_title_logout"
+#: Logout dialog | title | dialog title
+msgctxt "dialog_title_logout"
+msgid "Log out"
 msgstr "Log out"
 
 #. Logout dialog | text | confirmation question
-#: 
-msgid "dialog_message_logout"
+#: Logout dialog | text | confirmation question
+msgctxt "dialog_message_logout"
+msgid "Are you sure you want to log out?"
 msgstr "Are you sure you want to log out?"
 
 #. Any screen with dialog | button | action to do
-#: 
-msgid "dialog_action_add"
+#: Any screen with dialog | button | action to do
+msgctxt "dialog_action_add"
+msgid "Add"
 msgstr "Add"
 
 #. Any screen with dialog | button | action to do
-#: 
-msgid "dialog_action_edit"
+#: Any screen with dialog | button | action to do
+msgctxt "dialog_action_edit"
+msgid "Edit"
 msgstr "Edit"
 
 #. Dialog | title | dialog title
-#: 
-msgid "dialog_title_add_language"
+#: Dialog | title | dialog title
+msgctxt "dialog_title_add_language"
+msgid "Add language"
 msgstr "Add language"
 
 #. Dialog | title | dialog title
-#: 
-msgid "dialog_title_edit_language"
+#: Dialog | title | dialog title
+msgctxt "dialog_title_edit_language"
+msgid "Edit language"
 msgstr "Edit language"
 
 #. Dialog | title | dialog title
-#: 
-msgid "dialog_title_add_mobility_types"
+#: Dialog | title | dialog title
+msgctxt "dialog_title_add_mobility_types"
+msgid "Add mobility type"
 msgstr "Add mobility type"
 
 #. Dialog | title | dialog title
-#: 
-msgid "dialog_title_add_driver_licenses"
+#: Dialog | title | dialog title
+msgctxt "dialog_title_add_driver_licenses"
+msgid "Add driving licenses"
 msgstr "Add driving licenses"
 
-#. Action Bar actions 
-#.  Action bar | menu | action to do
-#: 
-msgid "action_edit"
+#. Action bar | menu | action to do
+#: Action bar | menu | action to do
+msgctxt "action_edit"
+msgid "Edit"
 msgstr "Edit"
 
 #. Action bar | menu | action to do
-#: 
-msgid "action_save"
+#: Action bar | menu | action to do
+msgctxt "action_save"
+msgid "Save"
 msgstr "Save"
 
 #. Action bar | menu | action to do
-#: 
-msgid "action_sync"
+#: Action bar | menu | action to do
+msgctxt "action_sync"
+msgid "Sync"
 msgstr "Sync"
 
 #. Action bar | menu | action to do
-#: 
-msgid "action_cancel"
+#: Action bar | menu | action to do
+msgctxt "action_cancel"
+msgid "Cancel"
 msgstr "Cancel"
 
 #. Change password screen | hint | field label
-#: 
-msgid "old_password"
+#: Change password screen | hint | field label
+msgctxt "old_password"
+msgid "Old password"
 msgstr "Old password"
 
 #. Change password screen | hint | field label
-#: 
-msgid "new_password"
+#: Change password screen | hint | field label
+msgctxt "new_password"
+msgid "New password"
 msgstr "New password"
 
-#. Settings 
-#.  Setting screen worker/employer | title | section name
-#: 
-msgid "pref_dev_settings"
+#. Setting screen worker/employer | title | section name
+#: Setting screen worker/employer | title | section name
+msgctxt "pref_dev_settings"
+msgid "Developer Options"
 msgstr "Developer Options"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_profile_details_title"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_profile_details_title"
+msgid "Profile Details"
 msgstr "Profile Details"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_email_and_password_title"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_email_and_password_title"
+msgid "Account Management"
 msgstr "Account Management"
 
 #: 
-msgid "pref_server_type_title"
+msgctxt "pref_server_type_title"
+msgid "Backend server"
 msgstr "Backend server"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_work_allowance_title"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_work_allowance_title"
+msgid "Work Allowance"
 msgstr "Work Allowance"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_payment_detail_title"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_payment_detail_title"
+msgid "Payment Details"
 msgstr "Payment Details"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_worker_documents"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_worker_documents"
+msgid "Worker Documents"
 msgstr "Worker Documents"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_additional_data_title"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_additional_data_title"
+msgid "Additional Data"
 msgstr "Additional Data"
 
 #. Setting screen | menu | name of screen to navigate
-#: 
-msgid "prefs_worker_recommendations"
+#: Setting screen | menu | name of screen to navigate
+msgctxt "prefs_worker_recommendations"
+msgid "Recommendations"
 msgstr "Recommendations"
 
-#. User Profile 
-#.  Personal details | title | action bar tittle
-#: 
-msgid "title_person_details"
+#. Personal details | title | action bar tittle
+#: Personal details | title | action bar tittle
+msgctxt "title_person_details"
+msgid "Personal Details"
 msgstr "Personal Details"
 
 #. User pictures | title | action bar tittle
-#: 
-msgid "user_pictures_title"
+#: User pictures | title | action bar tittle
+msgctxt "user_pictures_title"
+msgid "Profile Pictures"
 msgstr "Profile Pictures"
 
 #. Company profile | notification | photo successfully deleted
-#: 
-msgid "message_photo_deleted"
+#: Company profile | notification | photo successfully deleted
+msgctxt "message_photo_deleted"
+msgid "Photo deleted"
 msgstr "Photo deleted"
 
-#. User personal data 
-#.  Worker profile | header | photo section
-#: 
-msgid "profile_pictures_header"
+#. Worker profile | header | photo section
+#: Worker profile | header | photo section
+msgctxt "profile_pictures_header"
+msgid "Profile Pictures"
 msgstr "Profile Pictures"
 
 #. Worker profile | header | about section
-#: 
-msgid "profile_about_header"
+#: Worker profile | header | about section
+msgctxt "profile_about_header"
+msgid "About"
 msgstr "About"
 
 #. Worker profile | header | info section
-#: 
-msgid "profile_basic_information_header"
+#: Worker profile | header | info section
+msgctxt "profile_basic_information_header"
+msgid "Person Information"
 msgstr "Person Information"
 
 #. Worker profile | header | contacts section
-#: 
-msgid "profile_contact_info_header"
+#: Worker profile | header | contacts section
+msgctxt "profile_contact_info_header"
+msgid "Contact Information"
 msgstr "Contact Information"
 
 #. Worker profile | header | address section
-#: 
-msgid "profile_address_info_header"
+#: Worker profile | header | address section
+msgctxt "profile_address_info_header"
+msgid "Address"
 msgstr "Address"
 
 #. Worker profile pictures | text | photo description
-#: 
-msgid "business_description"
-msgstr "Here goes description, telling you why it's important to have a business portrait picture"
+#: Worker profile pictures | text | photo description
+msgctxt "business_description"
+msgid "Here goes description, telling you why it\'s important to have a business portrait picture"
+msgstr "Here goes description, telling you why it\'s important to have a business portrait picture"
 
 #. Worker profile pictures | text | photo description
-#: 
-msgid "business_body_description"
-msgstr "Here goes description, telling you why it's important to have a business whole body picture"
+#: Worker profile pictures | text | photo description
+msgctxt "business_body_description"
+msgid "Here goes description, telling you why it\'s important to have a business whole body picture"
+msgstr "Here goes description, telling you why it\'s important to have a business whole body picture"
 
 #. Worker profile pictures | text | photo description
-#: 
-msgid "casual_description"
-msgstr "Here goes description, telling you why it's important to have a casual portrait picture"
+#: Worker profile pictures | text | photo description
+msgctxt "casual_description"
+msgid "Here goes description, telling you why it\'s important to have a casual portrait picture"
+msgstr "Here goes description, telling you why it\'s important to have a casual portrait picture"
 
 #. Worker profile pictures | text | photo description
-#: 
-msgid "casual_body_description"
-msgstr "Here goes description, telling you why it's important to have a casual whole body picture"
+#: Worker profile pictures | text | photo description
+msgctxt "casual_body_description"
+msgid "Here goes description, telling you why it\'s important to have a casual whole body picture"
+msgstr "Here goes description, telling you why it\'s important to have a casual whole body picture"
 
 #. Worker profile pictures | header | photo section
-#: 
-msgid "business_title"
+#: Worker profile pictures | header | photo section
+msgctxt "business_title"
+msgid "Business Portrait"
 msgstr "Business Portrait"
 
 #. Worker profile pictures | header | photo section
-#: 
-msgid "business_body_title"
+#: Worker profile pictures | header | photo section
+msgctxt "business_body_title"
+msgid "Business Whole Body"
 msgstr "Business Whole Body"
 
 #. Worker profile pictures | header | photo section
-#: 
-msgid "casual_title"
+#: Worker profile pictures | header | photo section
+msgctxt "casual_title"
+msgid "Casual Portrait"
 msgstr "Casual Portrait"
 
 #. Worker profile pictures | header | photo section
-#: 
-msgid "casual_body_title"
+#: Worker profile pictures | header | photo section
+msgctxt "casual_body_title"
+msgid "Casual Whole Body"
 msgstr "Casual Whole Body"
 
 #. Photo edit | title | action bar
-#: 
-msgid "title_select_crop_area"
+#: Photo edit | title | action bar
+msgctxt "title_select_crop_area"
+msgid "Select Crop Area"
 msgstr "Select Crop Area"
 
-#. Worker profile pictures | menu | actions with photo 
-#.  Payment details 
-#.  Payment details | header | iban section
-#: 
-msgid "iban_header"
+#. Payment details | header | iban section
+#: Payment details | header | iban section
+msgctxt "iban_header"
+msgid "Bank Account Number"
 msgstr "Bank Account Number"
 
 #. Payment details | header | holder section
-#: 
-msgid "account_hoder_header"
+#: Payment details | header | holder section
+msgctxt "account_hoder_header"
+msgid "Account Holder"
 msgstr "Account Holder"
 
 #. Payment details | hint | iban input
-#: 
-msgid "iban_hint"
+#: Payment details | hint | iban input
+msgctxt "iban_hint"
+msgid "IBAN"
 msgstr "IBAN"
 
 #. Payment details | button | switch to use contact details
-#: 
-msgid "same_account_holder"
+#: Payment details | button | switch to use contact details
+msgctxt "same_account_holder"
+msgid "As contact details"
 msgstr "As contact details"
 
 #. Payment details | button | switch to use other contacts
-#: 
-msgid "other_account_holder"
+#: Payment details | button | switch to use other contacts
+msgctxt "other_account_holder"
+msgid "Other"
 msgstr "Other"
 
 #. Payment details | hint | country input
-#: 
-msgid "country_hint"
+#: Payment details | hint | country input
+msgctxt "country_hint"
+msgid "Country"
 msgstr "Country"
 
 #. Payment details | hint | salutation input
-#: 
-msgid "salutation_hint"
+#: Payment details | hint | salutation input
+msgctxt "salutation_hint"
+msgid "Salutation"
 msgstr "Salutation"
 
 #. Payments detail | title | action bar
-#: 
-msgid "user_payment_details_title"
+#: Payments detail | title | action bar
+msgctxt "user_payment_details_title"
+msgid "Payment Details"
 msgstr "Payment Details"
 
 #. Payment details | hint | street input
-#: 
-msgid "address_street_hint"
+#: Payment details | hint | street input
+msgctxt "address_street_hint"
+msgid "Street, building number"
 msgstr "Street, building number"
 
-#. Personal details 
-#.  Personal details | hint | about input
-#: 
-msgid "hint_details_about"
+#. Personal details | hint | about input
+#: Personal details | hint | about input
+msgctxt "hint_details_about"
+msgid "Write some text about you"
 msgstr "Write some text about you"
 
 #. Personal details | hint | user name input
-#: 
-msgid "hint_details_user_name"
+#: Personal details | hint | user name input
+msgctxt "hint_details_user_name"
+msgid "Name"
 msgstr "Name"
 
 #. Personal details | hint | about input
-#: 
-msgid "hint_details_birthday"
+#: Personal details | hint | about input
+msgctxt "hint_details_birthday"
+msgid "Birthday"
 msgstr "Birthday"
 
 #. Personal details | hint | email input reference to "email_hint" string
-#: 
-msgid "hint_details_email"
+#: Personal details | hint | email input reference to "email_hint" string
+msgctxt "hint_details_email"
+msgid "@string/email_hint"
 msgstr "@string/email_hint"
 
 #. Personal details | hint | phone input
-#: 
-msgid "hint_details_phone"
+#: Personal details | hint | phone input
+msgctxt "hint_details_phone"
+msgid "Phone"
 msgstr "Phone"
 
 #. Personal details | hint | mobile input
-#: 
-msgid "hint_details_mobile"
+#: Personal details | hint | mobile input
+msgctxt "hint_details_mobile"
+msgid "Mobile"
 msgstr "Mobile"
 
 #. Personal details | hint | address input
-#: 
-msgid "hint_details_address"
+#: Personal details | hint | address input
+msgctxt "hint_details_address"
+msgid "Address"
 msgstr "Address"
 
 #. Personal details | hint | country input
-#: 
-msgid "hint_details_country"
+#: Personal details | hint | country input
+msgctxt "hint_details_country"
+msgid "Country"
 msgstr "Country"
 
 #. Personal details | hint | email input reference to "hint.first_name" string
-#: 
-msgid "hint_details_first_name"
+#: Personal details | hint | email input reference to "hint.first_name" string
+msgctxt "hint_details_first_name"
+msgid "@string/hint.first_name"
 msgstr "@string/hint.first_name"
 
 #. Personal details | hint | email input reference to "hint.last_name" string
-#: 
-msgid "hint_details_last_name"
+#: Personal details | hint | email input reference to "hint.last_name" string
+msgctxt "hint_details_last_name"
+msgid "@string/hint.last_name"
 msgstr "@string/hint.last_name"
 
 #. Personal details | hint | street input
-#: 
-msgid "hint_details_street"
+#: Personal details | hint | street input
+msgctxt "hint_details_street"
+msgid "Street & building number"
 msgstr "Street & building number"
 
 #. Personal details | hint | email input reference to "company.hint.zip" string
-#: 
-msgid "hint_details_zip"
+#: Personal details | hint | email input reference to "company.hint.zip" string
+msgctxt "hint_details_zip"
+msgid "@string/company.hint.zip"
 msgstr "@string/company.hint.zip"
 
 #. Personal details | hint | email input reference to "company.hint.city" string
-#: 
-msgid "hint_details_city"
+#: Personal details | hint | email input reference to "company.hint.city" string
+msgctxt "hint_details_city"
+msgid "@string/company.hint.city"
 msgstr "@string/company.hint.city"
 
 #. Personal details | hint | additional address input
-#: 
-msgid "hint_details_extra_address"
+#: Personal details | hint | additional address input
+msgctxt "hint_details_extra_address"
+msgid "Additional address"
 msgstr "Additional address"
 
 #. Address details | title | screen title
-#: 
-msgid "title_address"
+#: Address details | title | screen title
+msgctxt "title_address"
+msgid "Address"
 msgstr "Address"
 
-#. Error messages 
-#.  Any screen | notification | error message content
-#: 
-msgid "unknown_error"
+#. Any screen | notification | error message content
+#: Any screen | notification | error message content
+msgctxt "unknown_error"
+msgid "Unknown error"
 msgstr "Unknown error"
 
 #. Any screen | notification | error message content
-#: 
-msgid "network_error"
+#: Any screen | notification | error message content
+msgctxt "network_error"
+msgid "Cannot connect to server, please try again later"
 msgstr "Cannot connect to server, please try again later"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_empty_request"
+#: Any screen | notification | error message content
+msgctxt "error_empty_request"
+msgid "Request cannot be executed, please try again later"
 msgstr "Request cannot be executed, please try again later"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_no_network"
+#: Any screen | notification | error message content
+msgctxt "error_no_network"
+msgid "Network not available"
 msgstr "Network not available"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_operation_failed"
+#: Any screen | notification | error message content
+msgctxt "error_operation_failed"
+msgid "Operation failed, please contact system administrator"
 msgstr "Operation failed, please contact system administrator"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_object_not_found"
+#: Any screen | notification | error message content
+msgctxt "error_object_not_found"
+msgid "Requested data not found"
 msgstr "Requested data not found"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_auth_required"
+#: Any screen | notification | error message content
+msgctxt "error_auth_required"
+msgid "You are not authenticated, please enter valid login and password"
 msgstr "You are not authenticated, please enter valid login and password"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_validation_failed"
+#: Any screen | notification | error message content
+msgctxt "error_validation_failed"
+msgid "Please check entered information"
 msgstr "Please check entered information"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_user_not_active"
+#: Any screen | notification | error message content
+msgctxt "error_user_not_active"
+msgid "User not active"
 msgstr "User not active"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_photo_already_exist"
+#: Any screen | notification | error message content
+msgctxt "error_photo_already_exist"
+msgid "Photo already exist on the server"
 msgstr "Photo already exist on the server"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_photo_not_exist"
+#: Any screen | notification | error message content
+msgctxt "error_photo_not_exist"
+msgid "Photo not exist on the server"
 msgstr "Photo not exist on the server"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_cv_already_exist"
+#: Any screen | notification | error message content
+msgctxt "error_cv_already_exist"
+msgid "CV already exist on the server"
 msgstr "CV already exist on the server"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_cv_not_exist"
+#: Any screen | notification | error message content
+msgctxt "error_cv_not_exist"
+msgid "CV not exist on the server"
 msgstr "CV not exist on the server"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_cv_not_found"
+#: Any screen | notification | error message content
+msgctxt "error_cv_not_found"
+msgid "CV not found"
 msgstr "CV not found"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_testimonial_not_found"
+#: Any screen | notification | error message content
+msgctxt "error_testimonial_not_found"
+msgid "Testimonial not found"
 msgstr "Testimonial not found"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_incorrect_file_size"
+#: Any screen | notification | error message content
+msgctxt "error_incorrect_file_size"
+msgid "File too big, should be less then 3 MB"
 msgstr "File too big, should be less then 3 MB"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_incorrect_file_extension"
+#: Any screen | notification | error message content
+msgctxt "error_incorrect_file_extension"
+msgid "Unsupported file format, only doc,pdf,png,jpg allowed"
 msgstr "Unsupported file format, only doc,pdf,png,jpg allowed"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_connection_timeout"
+#: Any screen | notification | error message content
+msgctxt "error_connection_timeout"
+msgid "Connection timeout, please try again later"
 msgstr "Connection timeout, please try again later"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_parse_error"
+#: Any screen | notification | error message content
+msgctxt "error_parse_error"
+msgid "Invalid data received, please try again later"
 msgstr "Invalid data received, please try again later"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_unknown_error"
+#: Any screen | notification | error message content
+msgctxt "error_unknown_error"
+msgid "Something goes wrong, please contact system administrator"
 msgstr "Something goes wrong, please contact system administrator"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_email_not_unique"
+#: Any screen | notification | error message content
+msgctxt "error_email_not_unique"
+msgid "Email already registered, please enter another one."
 msgstr "Email already registered, please enter another one."
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_cannot_add_document"
+#: Any screen | notification | error message content
+msgctxt "error_cannot_add_document"
+msgid "Document have already added"
 msgstr "Document have already added"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_user_not_activated"
+#: Any screen | notification | error message content
+msgctxt "error_user_not_activated"
+msgid "Your account is not activated yet. Your account must be activated for this process"
 msgstr "Your account is not activated yet. Your account must be activated for this process"
 
 #. Any screen | notification | error message content
-#: 
-msgid "storage_error"
+#: Any screen | notification | error message content
+msgctxt "storage_error"
+msgid "Cannot save file"
 msgstr "Cannot save file"
 
 #. Any screen | error | error message content. Example: Name must contain at least one lowercase letter
-#: 
-msgid "local_error_at_least_one_small_letter"
+#: Any screen | error | error message content. Example: Name must contain at least one lowercase letter
+msgctxt "local_error_at_least_one_small_letter"
+msgid "%1$s must contain at least one lowercase letter"
 msgstr "%1$s must contain at least one lowercase letter"
 
 #. Any screen | error | error message content. Example: Name must contain at least one lowercase letter
-#: 
-msgid "local_error_at_least_one_big_letter"
+#: Any screen | error | error message content. Example: Name must contain at least one lowercase letter
+msgctxt "local_error_at_least_one_big_letter"
+msgid "%1$s must contain at least one uppercase letter"
 msgstr "%1$s must contain at least one uppercase letter"
 
-#. Remote validation error messages 
-#.  Any screen | error | error message content, reference to "validator_required_field" string
-#: 
-msgid "remote_error_mandatory_field"
+#. Any screen | error | error message content, reference to "validator_required_field" string
+#: Any screen | error | error message content, reference to "validator_required_field" string
+msgctxt "remote_error_mandatory_field"
+msgid "@string/validator_required_field"
 msgstr "@string/validator_required_field"
 
 #. Any screen | error | error message content. Example: Phone number too short
-#: 
-msgid "remote_error_out_of_range_too_low"
+#: Any screen | error | error message content. Example: Phone number too short
+msgctxt "remote_error_out_of_range_too_low"
+msgid "%1$s too short"
 msgstr "%1$s too short"
 
 #. Any screen | error | error message content. Example: Phone number too long
-#: 
-msgid "remote_error_out_of_range_too_high"
+#: Any screen | error | error message content. Example: Phone number too long
+msgctxt "remote_error_out_of_range_too_high"
+msgid "%1$s too long"
 msgstr "%1$s too long"
 
 #. Any screen | error | error message content. Example: Password is invalid
-#: 
-msgid "remote_error_format_error"
+#: Any screen | error | error message content. Example: Password is invalid
+msgctxt "remote_error_format_error"
+msgid "%1$s is invalid"
 msgstr "%1$s is invalid"
 
 #. Any screen | error | error message content. Example: Country not supported
-#: 
-msgid "remote_error_invalid_key"
+#: Any screen | error | error message content. Example: Country not supported
+msgctxt "remote_error_invalid_key"
+msgid "%1$s value not supported"
 msgstr "%1$s value not supported"
 
 #. Any screen | error | error message content. Example: Email not unique
-#: 
-msgid "remote_error_not_unique"
+#: Any screen | error | error message content. Example: Email not unique
+msgctxt "remote_error_not_unique"
+msgid "%1$s not unique"
 msgstr "%1$s not unique"
 
 #. Any screen | error | error message content.
-#: 
-msgid "remote_error_context_age_too_young"
+#: Any screen | error | error message content.
+msgctxt "remote_error_context_age_too_young"
+msgid "You must be at least 18 years old"
 msgstr "You must be at least 18 years old"
 
 #. Any screen | error | error message content.
-#: 
-msgid "remote_error_context_age_too_old"
+#: Any screen | error | error message content.
+msgctxt "remote_error_context_age_too_old"
+msgid "You must be younger to work with us"
 msgstr "You must be younger to work with us"
 
-#. Profile pictures 
-#.  Employer/Worker profile | error | error message content.
-#: 
-msgid "error_update_profile_picture"
-msgstr "Can't set profile picture. Try again later"
+#. Employer/Worker profile | error | error message content.
+#: Employer/Worker profile | error | error message content.
+msgctxt "error_update_profile_picture"
+msgid "Can\'t set profile picture. Try again later"
+msgstr "Can\'t set profile picture. Try again later"
 
 #. Employer/Worker profile | error | error message content.
-#: 
-msgid "error_delete_profile_picture"
-msgstr "Can't delete profile picture. Try again later"
+#: Employer/Worker profile | error | error message content.
+msgctxt "error_delete_profile_picture"
+msgid "Can\'t delete profile picture. Try again later"
+msgstr "Can\'t delete profile picture. Try again later"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "photo_saved"
+#: Employer/Worker profile | menu | photo action
+msgctxt "photo_saved"
+msgid "Photo saved"
 msgstr "Photo saved"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "action_remove"
+#: Employer/Worker profile | menu | photo action
+msgctxt "action_remove"
+msgid "Remove"
 msgstr "Remove"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "action_take_photo"
+#: Employer/Worker profile | menu | photo action
+msgctxt "action_take_photo"
+msgid "Take photo"
 msgstr "Take photo"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "action_select_photo"
+#: Employer/Worker profile | menu | photo action
+msgctxt "action_select_photo"
+msgid "Select photo"
 msgstr "Select photo"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "action_take_new_photo"
+#: Employer/Worker profile | menu | photo action
+msgctxt "action_take_new_photo"
+msgid "Take new photo"
 msgstr "Take new photo"
 
 #. Employer/Worker profile | menu | photo action
-#: 
-msgid "action_select_new_photo"
+#: Employer/Worker profile | menu | photo action
+msgctxt "action_select_new_photo"
+msgid "Select new photo"
 msgstr "Select new photo"
 
-#. Settings screen 
-#.   Employer/Worker settings | title | action bar
-#: 
-msgid "title_settings"
+#. Employer/Worker settings | title | action bar
+#: Employer/Worker settings | title | action bar
+msgctxt "title_settings"
+msgid "Settings"
 msgstr "Settings"
 
-#. Work allowance
-#.   Work allowance | title | action bar
-#: 
-msgid "work_allowance_title"
+#. Work allowance | title | action bar
+#: Work allowance | title | action bar
+msgctxt "work_allowance_title"
+msgid "Work Allowance"
 msgstr "Work Allowance"
 
 #. Work allowance | hint | input field
-#: 
-msgid "oasi_number_hint"
+#: Work allowance | hint | input field
+msgctxt "oasi_number_hint"
+msgid "OASI NUMBER (AHV/AVS)"
 msgstr "OASI NUMBER (AHV/AVS)"
 
 #. Work allowance | hint | input field
-#: 
-msgid "nationality_hint"
+#: Work allowance | hint | input field
+msgctxt "nationality_hint"
+msgid "Nationality"
 msgstr "Nationality"
 
 #. Work allowance | hint | input field
-#: 
-msgid "marital_status_hint"
+#: Work allowance | hint | input field
+msgctxt "marital_status_hint"
+msgid "Marital status"
 msgstr "Marital status"
 
 #. Work allowance | hint | input field
-#: 
-msgid "residence_permit_hint"
+#: Work allowance | hint | input field
+msgctxt "residence_permit_hint"
+msgid "Work/residence permit"
 msgstr "Work/residence permit"
 
 #. Work allowance | hint | input field
-#: 
-msgid "withhold_tax_hint"
+#: Work allowance | hint | input field
+msgctxt "withhold_tax_hint"
+msgid "Are you liable to withholding tax?"
 msgstr "Are you liable to withholding tax?"
 
 #. Work allowance | text | checkbox description
-#: 
-msgid "children_maintenance_hint"
+#: Work allowance | text | checkbox description
+msgctxt "children_maintenance_hint"
+msgid "Are you responsible for maintenance towards children?"
 msgstr "Are you responsible for maintenance towards children?"
 
 #. Work allowance | text | checkbox description
-#: 
-msgid "unemployment_benefits_hint"
+#: Work allowance | text | checkbox description
+msgctxt "unemployment_benefits_hint"
+msgid "Are you receiving unemployment benefits at the moment?"
 msgstr "Are you receiving unemployment benefits at the moment?"
 
 #. Work allowance | text | checkbox description
-#: 
-msgid "receiving_pencion_hint"
+#: Work allowance | text | checkbox description
+msgctxt "receiving_pencion_hint"
+msgid "Are you receiving pension (OASI/DI) at the moment?"
 msgstr "Are you receiving pension (OASI/DI) at the moment?"
 
 #. Work allowance | hint | input field
-#: 
-msgid "residence_hint"
+#: Work allowance | hint | input field
+msgctxt "residence_hint"
+msgid "Residence"
 msgstr "Residence"
 
 #: 
-msgid "civil_status_hint"
+msgctxt "civil_status_hint"
+msgid "Civil Status"
 msgstr "Civil Status"
 
 #. Work allowance | hint | input field
-#: 
-msgid "upload_id_copy_hint"
+#: Work allowance | hint | input field
+msgctxt "upload_id_copy_hint"
+msgid "Copy of official ID (Passport, Permit)"
 msgstr "Copy of official ID (Passport, Permit)"
 
 #. Work allowance | hint | input field
-#: 
-msgid "social_insurance_hint"
+#: Work allowance | hint | input field
+msgctxt "social_insurance_hint"
+msgid "Social insurance"
 msgstr "Social insurance"
 
 #. Work allowance | hint | input field
-#: 
-msgid "degree_of_disability_hint"
+#: Work allowance | hint | input field
+msgctxt "degree_of_disability_hint"
+msgid "Degree of disability in %"
 msgstr "Degree of disability in %"
 
 #. Work allowance | label | disability degree field name
-#: 
-msgid "degree_of_disability_validator"
+#: Work allowance | label | disability degree field name
+msgctxt "degree_of_disability_validator"
+msgid "Disability degree"
 msgstr "Disability degree"
 
 #. Work allowance | label | open ID copy action menu
-#: 
-msgid "text_id_copy"
+#: Work allowance | label | open ID copy action menu
+msgctxt "text_id_copy"
+msgid "ID copy"
 msgstr "ID copy"
 
 #. Work allowance | menu | ID copy action
-#: 
-msgid "action_id_copy_take_photo"
+#: Work allowance | menu | ID copy action
+msgctxt "action_id_copy_take_photo"
+msgid "Take a picture"
 msgstr "Take a picture"
 
 #. Work allowance | menu | ID copy action
-#: 
-msgid "action_id_copy_select_file"
+#: Work allowance | menu | ID copy action
+msgctxt "action_id_copy_select_file"
+msgid "Select file"
 msgstr "Select file"
 
 #. Work allowance | menu | ID copy action
-#: 
-msgid "action_id_copy_select_new_file"
+#: Work allowance | menu | ID copy action
+msgctxt "action_id_copy_select_new_file"
+msgid "Select new file"
 msgstr "Select new file"
 
 #. Work allowance | menu | ID copy action
-#: 
-msgid "action_id_copy_take_new_photo"
+#: Work allowance | menu | ID copy action
+msgctxt "action_id_copy_take_new_photo"
+msgid "Take new photo"
 msgstr "Take new photo"
 
-#. Worker documents 
-#.  Worker Documents | title | screen title
-#: 
-msgid "title_worker_documents"
+#. Worker Documents | title | screen title
+#: Worker Documents | title | screen title
+msgctxt "title_worker_documents"
+msgid "Worker Documents"
 msgstr "Worker Documents"
 
 #. Upload photo | notification | error message content.
-#: 
-msgid "error_file_not_created"
-msgstr "Can't create photo, check available space and try again."
+#: Upload photo | notification | error message content.
+msgctxt "error_file_not_created"
+msgid "Can\'t create photo, check available space and try again."
+msgstr "Can\'t create photo, check available space and try again."
 
 #. Document upload | title | screen title
-#: 
-msgid "title_document_upload"
+#: Document upload | title | screen title
+msgctxt "title_document_upload"
+msgid "Document Upload"
 msgstr "Document Upload"
 
 #. Upload photo | notification | error message content.
-#: 
-msgid "error_photo_app_not_found"
+#: Upload photo | notification | error message content.
+msgctxt "error_photo_app_not_found"
+msgid "No application found to take picture"
 msgstr "No application found to take picture"
 
 #. Upload photo | notification | error message content. Example: No document found
-#: 
-msgid "document_empty"
+#: Upload photo | notification | error message content. Example: No document found
+msgctxt "document_empty"
+msgid "No %1$s"
 msgstr "No %1$s"
 
-#. Document upload 
-#.  Documents | hint | input field
-#: 
-msgid "document_type_hint"
+#. Documents | hint | input field
+#: Documents | hint | input field
+msgctxt "document_type_hint"
+msgid "Document Type"
 msgstr "Document Type"
 
 #. Documents | hint | input field
-#: 
-msgid "document_language_hint"
+#: Documents | hint | input field
+msgctxt "document_language_hint"
+msgid "Language"
 msgstr "Language"
 
 #. Documents | hint | input field
-#: 
-msgid "document_title_hint"
+#: Documents | hint | input field
+msgctxt "document_title_hint"
+msgid "Title"
 msgstr "Title"
 
-#. Open document 
-#.  Open document | title | type section
-#: 
-msgid "label_document_type"
+#. Open document | title | type section
+#: Open document | title | type section
+msgctxt "label_document_type"
+msgid "Type"
 msgstr "Type"
 
 #. Open document | header | title section
-#: 
-msgid "label_document_title"
+#: Open document | header | title section
+msgctxt "label_document_title"
+msgid "Title"
 msgstr "Title"
 
 #. Open document | header | language section
-#: 
-msgid "label_document_language"
+#: Open document | header | language section
+msgctxt "label_document_language"
+msgid "Language"
 msgstr "Language"
 
 #. Open document | title | screen title
-#: 
-msgid "title_open_document"
+#: Open document | title | screen title
+msgctxt "title_open_document"
+msgid "Open Document"
 msgstr "Open Document"
 
 #. Open document | error | error message content.
-#: 
-msgid "document_can_not_open"
-msgstr "Can't open document"
+#: Open document | error | error message content.
+msgctxt "document_can_not_open"
+msgid "Can\'t open document"
+msgstr "Can\'t open document"
 
 #. Open document | error | error message content.
-#: 
-msgid "document_no_application_found"
+#: Open document | error | error message content.
+msgctxt "document_no_application_found"
+msgid "No application found to open file"
 msgstr "No application found to open file"
 
 #. Open document | error | error message content.
-#: 
-msgid "document_can_not_download"
-msgstr "Can't download document"
+#: Open document | error | error message content.
+msgctxt "document_can_not_download"
+msgid "Can\'t download document"
+msgstr "Can\'t download document"
 
 #. Open document | header | CV section
-#: 
-msgid "document_type_cv"
+#: Open document | header | CV section
+msgctxt "document_type_cv"
+msgid "CV"
 msgstr "CV"
 
 #. Open document | header | testimonial section
-#: 
-msgid "document_type_testimonial"
+#: Open document | header | testimonial section
+msgctxt "document_type_testimonial"
+msgid "Testimonial"
 msgstr "Testimonial"
 
 #. Open document | header | certificates section
-#: 
-msgid "document_type_certificate"
+#: Open document | header | certificates section
+msgctxt "document_type_certificate"
+msgid "Certificate"
 msgstr "Certificate"
 
 #. Open document | error | error message content.
-#: 
-msgid "id_copy_can_not_open"
-msgstr "Can't open ID copy"
+#: Open document | error | error message content.
+msgctxt "id_copy_can_not_open"
+msgid "Can\'t open ID copy"
+msgstr "Can\'t open ID copy"
 
 #. Open document | error | error message content.
-#: 
-msgid "id_copy_can_not_download"
-msgstr "Can't download ID copy"
+#: Open document | error | error message content.
+msgctxt "id_copy_can_not_download"
+msgid "Can\'t download ID copy"
+msgstr "Can\'t download ID copy"
 
 #. Work allowance | button | open ID copy.
-#: 
-msgid "id_copy_open"
+#: Work allowance | button | open ID copy.
+msgctxt "id_copy_open"
+msgid "Open ID copy"
 msgstr "Open ID copy"
 
 #. ID copy replace dialog | title | dialog title
-#: 
-msgid "dialog_id_copy_upload"
+#: ID copy replace dialog | title | dialog title
+msgctxt "dialog_id_copy_upload"
+msgid "ID copy replace"
 msgstr "ID copy replace"
 
 #. ID copy replace dialog | text | dialog message
-#: 
-msgid "dialog_message_id_copy_upload"
+#: ID copy replace dialog | text | dialog message
+msgctxt "dialog_message_id_copy_upload"
+msgid "Are you sure you want to replace ID copy?"
 msgstr "Are you sure you want to replace ID copy?"
 
 #. Open document | text | action description
-#: 
-msgid "document_message_not_downloaded"
+#: Open document | text | action description
+msgctxt "document_message_not_downloaded"
+msgid "Please download document to preview and open."
 msgstr "Please download document to preview and open."
 
-#. Additional data 
-#.  Additional data | title | screen title
-#: 
-msgid "title_additional_data"
+#. Additional data | title | screen title
+#: Additional data | title | screen title
+msgctxt "title_additional_data"
+msgid "Additional Data"
 msgstr "Additional Data"
 
 #. Additional data | button | go to language screen
-#: 
-msgid "worker_data_languages"
+#: Additional data | button | go to language screen
+msgctxt "worker_data_languages"
+msgid "Languages"
 msgstr "Languages"
 
 #. Additional data | button | go to mobility screen
-#: 
-msgid "worker_data_mobility"
+#: Additional data | button | go to mobility screen
+msgctxt "worker_data_mobility"
+msgid "Mobility"
 msgstr "Mobility"
 
 #. Additional data | button | go to driver license screen
-#: 
-msgid "worker_data_driver_license"
+#: Additional data | button | go to driver license screen
+msgctxt "worker_data_driver_license"
+msgid "Driver License"
 msgstr "Driver License"
 
 #. Additional data | button | go to clothes and body features
-#: 
-msgid "worker_data_clothes_body_size"
-msgstr "<![CDATA[Clothes & Body Features]]>"
+#: Additional data | button | go to clothes and body features
+msgctxt "worker_data_clothes_body_size"
+msgid "Clothes & Body Features"
+msgstr "Clothes & Body Features"
 
 #. Languages | title | screen title
-#: 
-msgid "title_worker_data_languages"
+#: Languages | title | screen title
+msgctxt "title_worker_data_languages"
+msgid "@string/worker_data_languages"
 msgstr "@string/worker_data_languages"
 
 #. Mobility | title | screen title
-#: 
-msgid "title_worker_data_mobility"
+#: Mobility | title | screen title
+msgctxt "title_worker_data_mobility"
+msgid "@string/worker_data_mobility"
 msgstr "@string/worker_data_mobility"
 
 #. Clothes and body size | title | screen title
-#: 
-msgid "title_worker_data_clothes_body_size"
+#: Clothes and body size | title | screen title
+msgctxt "title_worker_data_clothes_body_size"
+msgid "@string/worker_data_clothes_body_size"
 msgstr "@string/worker_data_clothes_body_size"
 
 #. Clothes and body size | header | section header
-#: 
-msgid "header_worker_data_clothes_size"
+#: Clothes and body size | header | section header
+msgctxt "header_worker_data_clothes_size"
+msgid "Clothes Size"
 msgstr "Clothes Size"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "clothes_jacket_size_hint"
+#: Clothes and body size | hint | input field
+msgctxt "clothes_jacket_size_hint"
+msgid "Jacket size"
 msgstr "Jacket size"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "clothes_pants_width_hint"
+#: Clothes and body size | hint | input field
+msgctxt "clothes_pants_width_hint"
+msgid "Paints width"
 msgstr "Paints width"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "clothes_pants_length_hint"
+#: Clothes and body size | hint | input field
+msgctxt "clothes_pants_length_hint"
+msgid "Paints length"
 msgstr "Paints length"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "clothes_shoes_hint"
+#: Clothes and body size | hint | input field
+msgctxt "clothes_shoes_hint"
+msgid "Shoes"
 msgstr "Shoes"
 
 #. Clothes and body size | header | section header
-#: 
-msgid "header_worker_data_body_defining_features"
+#: Clothes and body size | header | section header
+msgctxt "header_worker_data_body_defining_features"
+msgid "Body Defining Features"
 msgstr "Body Defining Features"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "body_size_feature_hint"
+#: Clothes and body size | hint | input field
+msgctxt "body_size_feature_hint"
+msgid "Body size"
 msgstr "Body size"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "body_hair_color_hint"
+#: Clothes and body size | hint | input field
+msgctxt "body_hair_color_hint"
+msgid "Hair color"
 msgstr "Hair color"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "body_eye_color_hint"
+#: Clothes and body size | hint | input field
+msgctxt "body_eye_color_hint"
+msgid "Eye color"
 msgstr "Eye color"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "body_tattoo_hint"
+#: Clothes and body size | hint | input field
+msgctxt "body_tattoo_hint"
+msgid "Tattoo"
 msgstr "Tattoo"
 
 #. Clothes and body size | hint | input field
-#: 
-msgid "body_piercing_hint"
+#: Clothes and body size | hint | input field
+msgctxt "body_piercing_hint"
+msgid "Piercing"
 msgstr "Piercing"
 
 #. Clothes and body size | text | shown if no content available
-#: 
-msgid "empty_no_mobility_types"
+#: Clothes and body size | text | shown if no content available
+msgctxt "empty_no_mobility_types"
+msgid "No mobility types found"
 msgstr "No mobility types found"
 
 #. Clothes and body size | text | shown if no content available
-#: 
-msgid "empty_no_driver_licenses"
+#: Clothes and body size | text | shown if no content available
+msgctxt "empty_no_driver_licenses"
+msgid "No driver licenses found"
 msgstr "No driver licenses found"
 
 #. Clothes and body size | notification | all mobility options already added
-#: 
-msgid "message_all_mobility_added"
+#: Clothes and body size | notification | all mobility options already added
+msgctxt "message_all_mobility_added"
+msgid "All mobility types have already added"
 msgstr "All mobility types have already added"
 
 #. Clothes and body size | notification | all driver license options already added
-#: 
-msgid "message_all_driving_license_added"
+#: Clothes and body size | notification | all driver license options already added
+msgctxt "message_all_driving_license_added"
+msgid "All driving licenses have already added"
 msgstr "All driving licenses have already added"
 
-#. Additional data - languages 
-#.  Languages | title | section header
-#: 
-msgid "language_speaking_title"
+#. Languages | title | section header
+#: Languages | title | section header
+msgctxt "language_speaking_title"
+msgid "Speaking:"
 msgstr "Speaking:"
 
 #. Languages | title | section header
-#: 
-msgid "language_writing_title"
+#: Languages | title | section header
+msgctxt "language_writing_title"
+msgid "Writing:"
 msgstr "Writing:"
 
 #. Languages | title | section header
-#: 
-msgid "language_hint"
+#: Languages | title | section header
+msgctxt "language_hint"
+msgid "Language"
 msgstr "Language"
 
-#. Job Profiles 
-#.  Worker jobs profiles | title | screen title
-#: 
-msgid "title_worker_job_profiles"
+#. Worker jobs profiles | title | screen title
+#: Worker jobs profiles | title | screen title
+msgctxt "title_worker_job_profiles"
+msgid "Job Profiles"
 msgstr "Job Profiles"
 
 #. Worker jobs profiles | label | profile status
-#: 
-msgid "job_profile_status_pending"
+#: Worker jobs profiles | label | profile status
+msgctxt "job_profile_status_pending"
+msgid "Pending"
 msgstr "Pending"
 
 #. Worker jobs profiles | label | profile status
-#: 
-msgid "job_profile_status_closing"
+#: Worker jobs profiles | label | profile status
+msgctxt "job_profile_status_closing"
+msgid "Pending to be deleted"
 msgstr "Pending to be deleted"
 
 #. Worker jobs profiles | notification |  message content
-#: 
-msgid "error_can_not_update_job_profile_status"
-msgstr "Can't update job profile status. Try again later."
+#: Worker jobs profiles | notification |  message content
+msgctxt "error_can_not_update_job_profile_status"
+msgid "Can\'t update job profile status. Try again later."
+msgstr "Can\'t update job profile status. Try again later."
 
 #. Worker job profile details | title | screen title
-#: 
-msgid "title_job_profile_details"
+#: Worker job profile details | title | screen title
+msgctxt "title_job_profile_details"
+msgid "Job Profile Details"
 msgstr "Job Profile Details"
 
 #. Worker jobs profiles | notification |  message content
-#: 
-msgid "job_profile_not_found"
+#: Worker jobs profiles | notification |  message content
+msgctxt "job_profile_not_found"
+msgid "Selected job profile not found. Please update you data."
 msgstr "Selected job profile not found. Please update you data."
 
 #. Worker jobs profiles | button |  add job profile action
-#: 
-msgid "job_profile_add"
+#: Worker jobs profiles | button |  add job profile action
+msgctxt "job_profile_add"
+msgid "Add"
 msgstr "Add"
 
 #. Worker jobs profiles | button |  update job profile action
-#: 
-msgid "job_profile_update"
+#: Worker jobs profiles | button |  update job profile action
+msgctxt "job_profile_update"
+msgid "Update"
 msgstr "Update"
 
 #. Worker jobs profiles | hint | input field
-#: 
-msgid "education_level_hint"
+#: Worker jobs profiles | hint | input field
+msgctxt "education_level_hint"
+msgid "Education level"
 msgstr "Education level"
 
 #. Worker jobs profiles | notification | message content
-#: 
-msgid "education_level_can_not_be_downgraded"
-msgstr "Education level can't be downgraded"
+#: Worker jobs profiles | notification | message content
+msgctxt "education_level_can_not_be_downgraded"
+msgid "Education level can\'t be downgraded"
+msgstr "Education level can\'t be downgraded"
 
 #. Worker jobs profiles | notification | message content
-#: 
-msgid "job_profile_limit_reached"
+#: Worker jobs profiles | notification | message content
+msgctxt "job_profile_limit_reached"
+msgid "Job profile limit is reached"
 msgstr "Job profile limit is reached"
 
-#. Industry 
-#.  Choose industry | title | screen title
-#: 
-msgid "title_industry"
+#. Choose industry | title | screen title
+#: Choose industry | title | screen title
+msgctxt "title_industry"
+msgid "Choose Industry"
 msgstr "Choose Industry"
 
 #. Job profiles | title | screen title
-#: 
-msgid "title_job_profiles"
+#: Job profiles | title | screen title
+msgctxt "title_job_profiles"
+msgid "Job Profiles"
 msgstr "Job Profiles"
 
 #. Job profiles | menu | search action
-#: 
-msgid "description_search"
+#: Job profiles | menu | search action
+msgctxt "description_search"
+msgid "Search"
 msgstr "Search"
 
 #. Job profiles | menu | filter action
-#: 
-msgid "description_filter"
+#: Job profiles | menu | filter action
+msgctxt "description_filter"
+msgid "Filter"
 msgstr "Filter"
 
-#. Confirm password dialog 
-#.  Confirm password dialog | hint | input field
-#: 
-msgid "hint_enter_password"
+#. Confirm password dialog | hint | input field
+#: Confirm password dialog | hint | input field
+msgctxt "hint_enter_password"
+msgid "Enter password"
 msgstr "Enter password"
 
 #. Confirm password dialog | button | dialog action
-#: 
-msgid "dialog_action_confirm"
+#: Confirm password dialog | button | dialog action
+msgctxt "dialog_action_confirm"
+msgid "Confirm"
 msgstr "Confirm"
 
 #. Confirm password dialog | button | dialog action
-#: 
-msgid "dialog_title_confirm_password"
+#: Confirm password dialog | button | dialog action
+msgctxt "dialog_title_confirm_password"
+msgid "Confirm password"
 msgstr "Confirm password"
 
 #. Confirm password dialog | error | error message
-#: 
-msgid "message_password_not_valid"
+#: Confirm password dialog | error | error message
+msgctxt "message_password_not_valid"
+msgid "Password not valid"
 msgstr "Password not valid"
 
 #. Photo edit | notification | error message content
-#: 
-msgid "photo_save_error"
-msgstr "User photo can't be saved, please check free space."
+#: Photo edit | notification | error message content
+msgctxt "photo_save_error"
+msgid "User photo can\'t be saved, please check free space."
+msgstr "User photo can\'t be saved, please check free space."
 
 #. Photo edit | notification | error message content
-#: 
-msgid "photo_upload_error"
-msgstr "Photo can't be uploaded. Try again later."
+#: Photo edit | notification | error message content
+msgctxt "photo_upload_error"
+msgid "Photo can\'t be uploaded. Try again later."
+msgstr "Photo can\'t be uploaded. Try again later."
 
-#. Worker labels 
-#.  Worker labels | title | screen title
-#: 
-msgid "title_worker_labels"
+#. Worker labels | title | screen title
+#: Worker labels | title | screen title
+msgctxt "title_worker_labels"
+msgid "Labels"
 msgstr "Labels"
 
 #. Any screen | notification | error message content
-#: 
-msgid "error_invalid_response"
+#: Any screen | notification | error message content
+msgctxt "error_invalid_response"
+msgid "Network error"
 msgstr "Network error"
 
 #. Recommendation details | title | screen title
-#: 
-msgid "title_recommendation_details"
+#: Recommendation details | title | screen title
+msgctxt "title_recommendation_details"
+msgid "Recommendation Details"
 msgstr "Recommendation Details"
 
 #. Recommendation details | label | recommendation status
-#: 
-msgid "status_recommendation_detail_pending"
+#: Recommendation details | label | recommendation status
+msgctxt "status_recommendation_detail_pending"
+msgid "pending"
 msgstr "pending"
 
 #. Recommendation details | label | recommendation status. Example: answered at 10.03.2015
-#: 
-msgid "status_recommendation_detail_answered"
+#: Recommendation details | label | recommendation status. Example: answered at 10.03.2015
+msgctxt "status_recommendation_detail_answered"
+msgid "answered at %1$s"
 msgstr "answered at %1$s"
 
 #. Recommendation details | notification | message content
-#: 
-msgid "recommendation_not_availiable"
+#: Recommendation details | notification | message content
+msgctxt "recommendation_not_availiable"
+msgid "Recommendation not available"
 msgstr "Recommendation not available"
 
-#. Company(employer) profile 
-#.  Company(employer) profile | notification | message content
-#: 
-msgid "error_can_not_update_company_data"
-msgstr "Can't update company data"
+#. Company(employer) profile | notification | message content
+#: Company(employer) profile | notification | message content
+msgctxt "error_can_not_update_company_data"
+msgid "Can\'t update company data"
+msgstr "Can\'t update company data"
 
 #. Company(employer) profile | notification | message content
-#: 
-msgid "error_can_not_get_company_data"
-msgstr "Can't get company data"
+#: Company(employer) profile | notification | message content
+msgctxt "error_can_not_get_company_data"
+msgid "Can\'t get company data"
+msgstr "Can\'t get company data"
 
 #. Company(employer) profile | header | content section
-#: 
-msgid "header_employer_profile_company_info"
+#: Company(employer) profile | header | content section
+msgctxt "header_employer_profile_company_info"
+msgid "Company related information"
 msgstr "Company related information"
 
 #. Company(employer) profile | header | content section
-#: 
-msgid "header_employer_profile_functions"
+#: Company(employer) profile | header | content section
+msgctxt "header_employer_profile_functions"
+msgid "Functions"
 msgstr "Functions"
 
 #. Company(employer) profile | header | content section
-#: 
-msgid "hint_department"
+#: Company(employer) profile | header | content section
+msgctxt "hint_department"
+msgid "Department"
 msgstr "Department"
 
 #. Company(employer) profile | header | content section
-#: 
-msgid "hint_roles"
+#: Company(employer) profile | header | content section
+msgctxt "hint_roles"
+msgid "Roles"
 msgstr "Roles"
 
 #. Company(employer) profile | hint | input field
-#: 
-msgid "hint_name"
+#: Company(employer) profile | hint | input field
+msgctxt "hint_name"
+msgid "Name"
 msgstr "Name"
 
 #. Company(employer) profile | hint | input field
-#: 
-msgid "hint_company_name"
+#: Company(employer) profile | hint | input field
+msgctxt "hint_company_name"
+msgid "Company name"
 msgstr "Company name"
 
 #. Company(employer) profile | button | use company address switcher
-#: 
-msgid "option_as_company"
+#: Company(employer) profile | button | use company address switcher
+msgctxt "option_as_company"
+msgid "As company"
 msgstr "As company"
 
 #. Company(employer) profile | button | use other address switcher
-#: 
-msgid "option_other_address"
+#: Company(employer) profile | button | use other address switcher
+msgctxt "option_other_address"
+msgid "Other address"
 msgstr "Other address"
 
 #. Company profile | title | screen title
-#: 
-msgid "title_employer_profile"
+#: Company profile | title | screen title
+msgctxt "title_employer_profile"
+msgid "Employer Profile"
 msgstr "Employer Profile"
 
 #. Company(employer) profile | notification | message content
-#: 
-msgid "profile_photo_changed"
+#: Company(employer) profile | notification | message content
+msgctxt "profile_photo_changed"
+msgid "Profile photo changed"
 msgstr "Profile photo changed"
 
 #. Company(employer) profile | menu | photo action
-#: 
-msgid "action_set_as_profile"
+#: Company(employer) profile | menu | photo action
+msgctxt "action_set_as_profile"
+msgid "Set as profile"
 msgstr "Set as profile"
 
 #. Company(employer) profile | text | checkbox
-#: 
-msgid "label_show_password"
+#: Company(employer) profile | text | checkbox
+msgctxt "label_show_password"
+msgid "Show password"
 msgstr "Show password"
 
 #. Company(employer) profile | notification | message content
-#: 
-msgid "selected_image_not_found"
+#: Company(employer) profile | notification | message content
+msgctxt "selected_image_not_found"
+msgid "Selected image not found"
 msgstr "Selected image not found"
 
-#. Employer work assignment list 
-#.  Company WA | title | screen title
-#: 
-msgid "title_employer_wa"
+#. Company WA | title | screen title
+#: Company WA | title | screen title
+msgctxt "title_employer_wa"
+msgid "Work Assignments"
 msgstr "Work Assignments"
 
 #. Company(employer) profile | label | sort menu name
-#: 
-msgid "action_sort"
+#: Company(employer) profile | label | sort menu name
+msgctxt "action_sort"
+msgid "Sort"
 msgstr "Sort"
 
 #. Company(employer) profile | menu | action name
-#: 
-msgid "action_sort_by_name"
+#: Company(employer) profile | menu | action name
+msgctxt "action_sort_by_name"
+msgid "Sort by: name"
 msgstr "Sort by: name"
 
 #. Company(employer) profile | menu | action name
-#: 
-msgid "action_sort_by_date"
-msgstr "Sort by: date"
+#: Company(employer) profile | menu | action name
+msgctxt "action_sort_by_date"
+msgid "Date"
+msgstr "Date"
 
 #. Company(employer) profile | text | Jhon Smith
-#: 
-msgid "created_by"
+#: Company(employer) profile | text | Jhon Smith
+msgctxt "created_by"
+msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
 
-#. 1 - first name, 2 - last name 
-#.  Company(employer) profile | text | 11.02.2015 - 16.02.2015
-#: 
-msgid "work_assignment_date"
+#. Company(employer) profile | text | 11.02.2015 - 16.02.2015
+#: Company(employer) profile | text | 11.02.2015 - 16.02.2015
+msgctxt "work_assignment_date"
+msgid "%1$s - %2$s"
 msgstr "%1$s - %2$s"
 
-#. 1 - date from, 2 - date to 
-#.  Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_header_all_creator"
+#. Company(employer) profile | menu | filter action name
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_header_all_creator"
+msgid "All creators"
 msgstr "All creators"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_header_all_statuses"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_header_all_statuses"
+msgid "All statuses"
 msgstr "All statuses"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_action_required"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_action_required"
+msgid "Action required"
 msgstr "Action required"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_planned"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_planned"
+msgid "Planned"
 msgstr "Planned"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_active"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_active"
+msgid "In Progress"
 msgstr "In Progress"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_closed"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_closed"
+msgid "Closed"
 msgstr "Closed"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_deleted"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_deleted"
+msgid "Deleted"
 msgstr "Deleted"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "filter_status_inactive"
+#: Company(employer) profile | menu | filter action name
+msgctxt "filter_status_inactive"
+msgid "Inactive"
 msgstr "Inactive"
 
 #. Company(employer) profile | menu | no actions available
-#: 
+#: Company(employer) profile | menu | no actions available
+msgctxt "none"
 msgid "none"
 msgstr "none"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "wa_status_planned"
+#: Company(employer) profile | menu | filter action name
+msgctxt "wa_status_planned"
+msgid "Planing"
 msgstr "Planing"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "wa_status_active"
+#: Company(employer) profile | menu | filter action name
+msgctxt "wa_status_active"
+msgid "In Progress"
 msgstr "In Progress"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "wa_status_closed"
+#: Company(employer) profile | menu | filter action name
+msgctxt "wa_status_closed"
+msgid "Closed"
 msgstr "Closed"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "wa_status_deleted"
+#: Company(employer) profile | menu | filter action name
+msgctxt "wa_status_deleted"
+msgid "Deleted"
 msgstr "Deleted"
 
 #. Company(employer) profile | menu | filter action name
-#: 
-msgid "wa_status_inactive"
+#: Company(employer) profile | menu | filter action name
+msgctxt "wa_status_inactive"
+msgid "Inactive"
 msgstr "Inactive"
 
 #. Any root screen | notification | message content
-#: 
-msgid "error_switching_account"
-msgstr "Can't switch account, try again later"
+#: Any root screen | notification | message content
+msgctxt "error_switching_account"
+msgid "Can\'t switch account, try again later"
+msgstr "Can\'t switch account, try again later"
 
 #. Any root screen | header | user role chooser section header
-#: 
-msgid "title_account_worker"
+#: Any root screen | header | user role chooser section header
+msgctxt "title_account_worker"
+msgid "Worker"
 msgstr "Worker"
 
-#. Project 
-#.  Company projects | title | screen title
-#: 
-msgid "title_project"
+#. Company projects | title | screen title
+#: Company projects | title | screen title
+msgctxt "title_project"
+msgid "Project"
 msgstr "Project"
 
-#. Company projects | text | creator description. Example: Created by John Smith
-#: 
-msgid "project_created_by"
-msgstr "Created by %1$s %2$s"
+#. Company projects | text | creator description. Example: John Smith
+#: Company projects | text | creator description. Example: John Smith
+msgctxt "project_created_by"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
 
-#. 1 - first name, 2 - last name 
-#.  Company projects | text | project date description. Example: 12.12.2015 - 17.12.20.15
-#: 
-msgid "project_date"
+#. Company projects | text | project date description. Example: 12.12.2015 - 17.12.20.15
+#: Company projects | text | project date description. Example: 12.12.2015 - 17.12.20.15
+msgctxt "project_date"
+msgid "%1$s - %2$s"
 msgstr "%1$s - %2$s"
 
 #. Worker WA | title | screen title
-#: 
-msgid "title_worker_wa_list"
+#: Worker WA | title | screen title
+msgctxt "title_worker_wa_list"
+msgid "Work Assignment"
 msgstr "Work Assignment"
 
 #. Worker WA | label | worker wage. Example: 22 CHF hourly wage
-#: 
-msgid "hourly_wage"
+#: Worker WA | label | worker wage. Example: 22 CHF hourly wage
+msgctxt "hourly_wage"
+msgid "hourly"
 msgstr "hourly"
 
-#. Worker WA 
-#.  Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_requested"
+#. Company projects | menu | filter action name
+#: Company projects | menu | filter action name
+msgctxt "project_filter_status_active"
+msgid "Active"
+msgstr "Active"
+
+#. Company projects | menu | filter action name
+#: Company projects | menu | filter action name
+msgctxt "project_filter_status_closed"
+msgid "Closed"
+msgstr "Closed"
+
+#. Company projects | menu | filter action name
+#: Company projects | menu | filter action name
+msgctxt "project_filter_status_deleted"
+msgid "Deleted"
+msgstr "Deleted"
+
+#. Worker WA | label | WA status description
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_requested"
+msgid "Requested"
 msgstr "Requested"
 
 #. Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_pending"
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_pending"
+msgid "Pending"
 msgstr "Pending"
 
 #. Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_accepted"
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_accepted"
+msgid "Accepted"
 msgstr "Accepted"
 
 #. Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_in_progress"
-msgstr "In Progress"
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_in_progress"
+msgid "Working hours"
+msgstr "Working hours"
 
 #. Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_completed"
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_completed"
+msgid "Completed"
 msgstr "Completed"
 
 #. Worker WA | label | WA status description
-#: 
-msgid "title_worker_job_declined"
+#: Worker WA | label | WA status description
+msgctxt "title_worker_job_declined"
+msgid "Declined"
 msgstr "Declined"
 
 #. Worker WA | menu | action to sort
-#: 
-msgid "action_sort_by_compamy_name"
-msgstr "Sort by: company name"
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_by_company_name"
+msgid "Company name"
+msgstr "Company name"
 
 #. Worker WA | menu | action to sort
-#: 
-msgid "action_sort_by_hourly_wage"
-msgstr "Sort by: hourly wage"
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_by_hourly_wage"
+msgid "Hourly wage"
+msgstr "Hourly wage"
 
 #. Worker WA | menu | action to sort
-#: 
-msgid "action_sort_gross_wage"
-msgstr "Sort by: gross wage"
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_gross_wage"
+msgid "Gross wage"
+msgstr "Gross wage"
 
 #. Worker WA | menu | action to sort
-#: 
-msgid "action_sort_by_job_location"
-msgstr "Sort by: job location"
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_by_job_location"
+msgid "Location"
+msgstr "Location"
 
 #. Worker WA | menu | action to sort
-#: 
-msgid "action_sort_by_job_profile"
-msgstr "Sort by:  job profile"
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_by_job_profile"
+msgid "Job profile"
+msgstr "Job profile"
+
+#. Worker WA | menu | action to sort
+#: Worker WA | menu | action to sort
+msgctxt "action_sort_by_job_name"
+msgid "Job name"
+msgstr "Job name"
 
 #. Worker WA | header | job location section
-#: 
-msgid "header_wa_job_location"
+#: Worker WA | header | job location section
+msgctxt "header_wa_job_location"
+msgid "Job location"
 msgstr "Job location"
 
 #. Worker WA | header | contact section
-#: 
-msgid "header_wa_contact_section"
+#: Worker WA | header | contact section
+msgctxt "header_wa_contact_section"
+msgid "Contact"
 msgstr "Contact"
 
 #. Worker WA | header | requirement section
-#: 
-msgid "header_wa_job_description"
+#: Worker WA | header | requirement section
+msgctxt "header_wa_job_description"
+msgid "Requirements, description, comment"
 msgstr "Requirements, description, comment"
 
 #. Worker WA | header | clothing section
-#: 
-msgid "header_wa_job_clothing_requirements"
+#: Worker WA | header | clothing section
+msgctxt "header_wa_job_clothing_requirements"
+msgid "Clothing requirements"
 msgstr "Clothing requirements"
 
 #. Worker WA | header | meeting point section
-#: 
-msgid "header_wa_job_meeting_point"
+#: Worker WA | header | meeting point section
+msgctxt "header_wa_job_meeting_point"
+msgid "Meeting point"
 msgstr "Meeting point"
 
-#. Job details 
-#.  Worker job details | title | screen title
-#: 
-msgid "title_job_detail"
+#. Worker WA  | menu | decline job action
+#: Worker WA  | menu | decline job action
+msgctxt "action_decline"
+msgid "Decline"
+msgstr "Decline"
+
+#. Worker job details | title | screen title
+#: Worker job details | title | screen title
+msgctxt "title_job_detail"
+msgid "Job Details"
 msgstr "Job Details"
 
 #. Worker job details | label | wage. Example: 12 CHF
-#: 
-msgid "job_wage"
+#: Worker job details | label | wage. Example: 12 CHF
+msgctxt "job_wage"
+msgid "~ %1$s %2$s"
 msgstr "~ %1$s %2$s"
 
 #. Worker job details | label | wage. Example: 12 CHF hourly wage
-#: 
-msgid "job_hourly_wage"
+#: Worker job details | label | wage. Example: 12 CHF hourly wage
+msgctxt "job_hourly_wage"
+msgid "%1$s %2$s hourly wage"
 msgstr "%1$s %2$s hourly wage"
 
 #. Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015
-#: 
-msgid "worker_job_multiple_dates"
+#: Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015
+msgctxt "worker_job_multiple_dates"
+msgid "%1$s - %2$s"
 msgstr "%1$s - %2$s"
 
 #. Worker job details | text | working hour description. Example: Working hours 10 h
-#: 
-msgid "job_working_hours_multiple_dates"
+#: Worker job details | text | working hour description. Example: Working hours 10 h
+msgctxt "job_working_hours_multiple_dates"
+msgid "Working hours %1$s h"
 msgstr "Working hours %1$s h"
 
 #. Worker job details | text | working hour and break description. Example: Working hours 10 h | Break 50 Min.
-#: 
-msgid "job_working_hours_single_date"
+#: Worker job details | text | working hour and break description. Example: Working hours 10 h | Break 50 Min.
+msgctxt "job_working_hours_single_date"
+msgid "Working hours %1$s h | Break %2$s Min."
 msgstr "Working hours %1$s h | Break %2$s Min."
 
 #. Worker job details | label | expense description. Example: 10 CHF per day mobility
-#: 
-msgid "job_expense"
+#: Worker job details | label | expense description. Example: 10 CHF per day mobility
+msgctxt "job_expense"
+msgid "%1$s %2$s %3$s %4$s"
 msgstr "%1$s %2$s %3$s %4$s"
 
 #. Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015
-#: 
-msgid "job_single_time"
+#: Worker job details | label | date period. Example: 01.10.2015 - 15.11.2015
+msgctxt "job_single_time"
+msgid "%1$s - %2$s"
 msgstr "%1$s - %2$s"
 
 #. Worker job details | button | button action
-#: 
-msgid "decline_all_dates"
+#: Worker job details | button | button action
+msgctxt "decline_all_dates"
+msgid "DECLINE ALL"
 msgstr "DECLINE ALL"
 
 #. Worker job details | button | button action
-#: 
-msgid "decline_date"
+#: Worker job details | button | button action
+msgctxt "decline_date"
+msgid "DECLINE"
 msgstr "DECLINE"
 
 #. Worker job details | button | button action
-#: 
-msgid "choose_dates"
+#: Worker job details | button | button action
+msgctxt "choose_dates"
+msgid "CHOOSE DATES"
 msgstr "CHOOSE DATES"
 
 #. Worker job details | button | button action
-#: 
-msgid "confirm_date"
+#: Worker job details | button | button action
+msgctxt "confirm_date"
+msgid "CONFIRM"
 msgstr "CONFIRM"
 
 #. Worker job details | notification | message content
-#: 
-msgid "can_not_open_map"
-msgstr "Can't open map"
+#: Worker job details | notification | message content
+msgctxt "can_not_open_map"
+msgid "Can\'t open map, address not provided"
+msgstr "Can\'t open map, address not provided"
 
 #. Detail map | title | screen title
-#: 
-msgid "title_map"
+#: Detail map | title | screen title
+msgctxt "title_map"
+msgid "MAP"
 msgstr "MAP"
 
 #: 
-msgid "worker_job_details_button_title"
+msgctxt "worker_job_details_button_title"
+msgid "Details"
 msgstr "Details"
 
 #. Worker job details dialog | text | message content
-#: 
-msgid "title_worker_job_accept_dates_dialog"
+#: Worker job details dialog | text | message content
+msgctxt "title_worker_job_accept_dates_dialog"
+msgid "You interest was send"
 msgstr "You interest was send"
 
 #. Worker job details dialog | notification | message content
-#: 
-msgid "worker_job_accept_date_notification"
-msgstr "Now you can lean back, the employer is informed. We will let you know, when you're hired."
+#: Worker job details dialog | notification | message content
+msgctxt "worker_job_accept_date_notification"
+msgid "Now you can lean back, the employer is informed. We will let you know, when you\'re hired."
+msgstr "Now you can lean back, the employer is informed. We will let you know, when you\'re hired."
 
 #. Worker job details | text | shown if no dates for job selected
-#: 
-msgid "worker_job_no_dates_selected"
+#: Worker job details | text | shown if no dates for job selected
+msgctxt "worker_job_no_dates_selected"
+msgid "No dates selected"
 msgstr "No dates selected"
 
 #. Worker job details | header | rating section
-#: 
-msgid "header_job_company_rating_section"
+#: Worker job details | header | rating section
+msgctxt "header_job_company_rating_section"
+msgid "Rating Details"
 msgstr "Rating Details"
 
 #. Company details | title | screen title
-#: 
-msgid "title_company_rating"
+#: Company details | title | screen title
+msgctxt "title_company_rating"
+msgid "RATING"
 msgstr "RATING"
 
 #. Worker job details | button | button action
-#: 
-msgid "worker_job_confirm_button"
+#: Worker job details | button | button action
+msgctxt "worker_job_confirm_button"
+msgid "CONFIRM"
 msgstr "CONFIRM"
 
-#. Missing attributes 
-#.  Missing attributes | title | screen title
-#: 
-msgid "title_missing_attributes"
+#. Missing attributes | title | screen title
+#: Missing attributes | title | screen title
+msgctxt "title_missing_attributes"
+msgid "MISSING ATTRIBUTES"
 msgstr "MISSING ATTRIBUTES"
 
 #. Missing attributes | button | screen title
-#: 
-msgid "missing_attributes_button_title"
+#: Missing attributes | button | screen title
+msgctxt "missing_attributes_button_title"
+msgid "Details"
 msgstr "Details"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_person_status_name"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_person_status_name"
+msgid "Person status"
 msgstr "Person status"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_profile_status_name"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_profile_status_name"
+msgid "Profile status"
 msgstr "Profile status"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_birth_date"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_birth_date"
+msgid "Birth date"
 msgstr "Birth date"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_person_address_country"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_person_address_country"
+msgid "Country for person address"
 msgstr "Country for person address"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_person_address"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_person_address"
+msgid "Address"
 msgstr "Address"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_person_mobile_number"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_person_mobile_number"
+msgid "Mobile number"
 msgstr "Mobile number"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_person_phone_number"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_person_phone_number"
+msgid "Phone number"
 msgstr "Phone number"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_residence_address"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_residence_address"
+msgid "Residence address"
 msgstr "Residence address"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_id_copy"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_id_copy"
+msgid "ID copy"
 msgstr "ID copy"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_nationality"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_nationality"
+msgid "Nationality"
 msgstr "Nationality"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_residence_address_country"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_residence_address_country"
+msgid "Residence address country"
 msgstr "Residence address country"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_residence_permit"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_residence_permit"
+msgid "Residence permit"
 msgstr "Residence permit"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_worker_allowance_ssn_number"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_worker_allowance_ssn_number"
+msgid "OASI number"
 msgstr "OASI number"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_body_body_size"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_body_body_size"
+msgid "Body size"
 msgstr "Body size"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_body_eye_color"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_body_eye_color"
+msgid "Eye color"
 msgstr "Eye color"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_body_hair_color"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_body_hair_color"
+msgid "Hair color"
 msgstr "Hair color"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_body_piercing"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_body_piercing"
+msgid "Piercing"
 msgstr "Piercing"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_body_tattoo"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_body_tattoo"
+msgid "Tattoo"
 msgstr "Tattoo"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_clothes_jacket_size"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_clothes_jacket_size"
+msgid "Jacket size"
 msgstr "Jacket size"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_clothes_pants_length"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_clothes_pants_length"
+msgid "Pants length"
 msgstr "Pants length"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_clothes_pants_width"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_clothes_pants_width"
+msgid "Pants width"
 msgstr "Pants width"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_clothes_shoe_size"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_clothes_shoe_size"
+msgid "Shoe size"
 msgstr "Shoe size"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_driving_license"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_driving_license"
+msgid "Driving license"
 msgstr "Driving license"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_language_skills"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_language_skills"
+msgid "Language skill"
 msgstr "Language skill"
 
 #. Missing attributes | hint | input field hint
-#: 
-msgid "missing_attribute_mobilities"
+#: Missing attributes | hint | input field hint
+msgctxt "missing_attribute_mobilities"
+msgid "Mobilities"
 msgstr "Mobilities"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_person_data"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_person_data"
+msgid "PERSON DATA"
 msgstr "PERSON DATA"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_worker_allowance"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_worker_allowance"
+msgid "WORKER ALLOWANCE"
 msgstr "WORKER ALLOWANCE"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_body_features"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_body_features"
+msgid "BODY FEATURES"
 msgstr "BODY FEATURES"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_clothes_requirement"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_clothes_requirement"
+msgid "CLOTHES REQUIREMENT"
 msgstr "CLOTHES REQUIREMENT"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_mobility"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_mobility"
+msgid "MOBILITY"
 msgstr "MOBILITY"
 
 #. Missing attributes | header | section header
-#: 
-msgid "missing_attribute_group_language_requirement"
+#: Missing attributes | header | section header
+msgctxt "missing_attribute_group_language_requirement"
+msgid "LANGUAGE REQUIREMENT"
 msgstr "LANGUAGE REQUIREMENT"
 
 #. Missing attributes dialog | header | dialog header
-#: 
-msgid "dialog_header_decline_request"
+#: Missing attributes dialog | header | dialog header
+msgctxt "dialog_header_decline_request"
+msgid "Decline request"
 msgstr "Decline request"
 
 #. Missing attributes dialog | text | dialog content
-#: 
-msgid "dialog_body_decline_job"
+#: Missing attributes dialog | text | dialog content
+msgctxt "dialog_body_decline_job"
+msgid "This request will be deleted, you can not recover it. \n"
+" Are you sure?"
 msgstr "This request will be deleted, you can not recover it. \n"
 " Are you sure?"
 
 #. Missing attributes dialog | button | dialog action
-#: 
-msgid "dialog_button_cancel"
+#: Missing attributes dialog | button | dialog action
+msgctxt "dialog_button_cancel"
+msgid "Cancel"
 msgstr "Cancel"
 
 #. Missing attributes dialog | button | dialog action
-#: 
-msgid "dialog_button_decline"
+#: Missing attributes dialog | button | dialog action
+msgctxt "dialog_button_decline"
+msgid "Decline"
 msgstr "Decline"
 
 #. Missing attributes dialog | button | dialog action
-#: 
-msgid "dialog_button_ok"
+#: Missing attributes dialog | button | dialog action
+msgctxt "dialog_button_ok"
+msgid "Ok"
 msgstr "Ok"
 
 #. Missing attributes dialog | header | dialog header
-#: 
-msgid "dialog_header_accept_error"
+#: Missing attributes dialog | header | dialog header
+msgctxt "dialog_header_accept_error"
+msgid "Accept Request Error"
 msgstr "Accept Request Error"
 
 #. Missing attributes dialog | text | dialog content
-#: 
-msgid "dialog_body_accept_error"
-msgstr "This job can't be accepted. Please try another one."
+#: Missing attributes dialog | text | dialog content
+msgctxt "dialog_body_accept_error"
+msgid "This job can\'t be accepted. Please try another one."
+msgstr "This job can\'t be accepted. Please try another one."
 
 #. Missing attributes dialog | header | dialog header
-#: 
-msgid "dialog_header_missing_attribute"
+#: Missing attributes dialog | header | dialog header
+msgctxt "dialog_header_missing_attribute"
+msgid "Missing attribute"
 msgstr "Missing attribute"
 
 #. Missing attributes dialog | text | dialog content
-#: 
-msgid "dialog_body_missing_attr"
+#: Missing attributes dialog | text | dialog content
+msgctxt "dialog_body_missing_attr"
+msgid "Some profile attributes required to accept this job. Would you like to fill them in or decline job?"
 msgstr "Some profile attributes required to accept this job. Would you like to fill them in or decline job?"
 
 #. Missing attributes dialog | text | dialog content
-#: 
-msgid "dialog_body_missing_attr_info"
+#: Missing attributes dialog | text | dialog content
+msgctxt "dialog_body_missing_attr_info"
+msgid "Following attributes should be provided to accept the job:\n"
+" %1$s \n"
+" Would you like to fill them in or decline job?"
 msgstr "Following attributes should be provided to accept the job:\n"
 " %1$s \n"
 " Would you like to fill them in or decline job?"
 
 #. Missing attributes dialog | button | dialog action
-#: 
-msgid "dialog_button_fill_in"
+#: Missing attributes dialog | button | dialog action
+msgctxt "dialog_button_fill_in"
+msgid "Fill in"
 msgstr "Fill in"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_unknown"
+#: Worker job details | label | job status
+msgctxt "job_status_unknown"
+msgid "unknown"
 msgstr "unknown"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_requested"
+#: Worker job details | label | job status
+msgctxt "job_status_requested"
+msgid "requested"
 msgstr "requested"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_declined"
+#: Worker job details | label | job status
+msgctxt "job_status_declined"
+msgid "declined by me"
+msgstr "declined by me"
+
+#. Worker job details | label | job status
+#: Worker job details | label | job status
+msgctxt "job_status_accepted"
+msgid "pending"
+msgstr "pending"
+
+#. Worker job details | label | job status
+#: Worker job details | label | job status
+msgctxt "job_status_not_hired"
+msgid "declined"
 msgstr "declined"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_accepted"
+#: Worker job details | label | job status
+msgctxt "job_status_hired"
+msgid "accepted"
 msgstr "accepted"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_not_hired"
-msgstr "not hired"
-
-#. Worker job details | label | job status
-#: 
-msgid "job_status_hired"
-msgstr "hired"
-
-#. Worker job details | label | job status
-#: 
-msgid "job_status_closed"
+#: Worker job details | label | job status
+msgctxt "job_status_closed"
+msgid "closed"
 msgstr "closed"
 
 #. Worker job details | label | job status
-#: 
-msgid "job_status_canceled"
+#: Worker job details | label | job status
+msgctxt "job_status_canceled"
+msgid "canceled"
 msgstr "canceled"
 
-#. Registration screen 
-#.  Worker registration | title | screen title
-#: 
-msgid "worker_title_registration"
+#. Worker registration | title | screen title
+#: Worker registration | title | screen title
+msgctxt "worker_title_registration"
+msgid "Register Worker"
 msgstr "Register Worker"
 
-#. User account screen 
-#.  User account | text | checkbox description
-#: 
-msgid "worker_hint_general_availability"
+#. User account | text | checkbox description
+#: User account | text | checkbox description
+msgctxt "worker_hint_general_availability"
+msgid "General availability"
 msgstr "General availability"
 
 #. Any root screen | header | user role header
-#: 
-msgid "worker_title_user_account"
+#: Any root screen | header | user role header
+msgctxt "worker_title_user_account"
+msgid "Worker"
 msgstr "Worker"
 
-#. Request recommendation screen 
-#.  Request recommendation | title | screen title
-#: 
-msgid "worker_title_request_recommendation"
+#. Request recommendation | title | screen title
+#: Request recommendation | title | screen title
+msgctxt "worker_title_request_recommendation"
+msgid "Request recommendation"
 msgstr "Request recommendation"
 
 #. Request recommendation | hint | input field
-#: 
-msgid "hint.education_level"
+#: Request recommendation | hint | input field
+msgctxt "hint.education_level"
+msgid "Education level"
 msgstr "Education level"
 
 #. Request recommendation | hint | input field
-#: 
-msgid "hint.job_profile"
+#: Request recommendation | hint | input field
+msgctxt "hint.job_profile"
+msgid "Job profile"
 msgstr "Job profile"
 
 #. Request recommendation dialog | title | dialog title to add job profile
-#: 
-msgid "dialog_title_add_job_profile"
+#: Request recommendation dialog | title | dialog title to add job profile
+msgctxt "dialog_title_add_job_profile"
+msgid "Add job profiles"
 msgstr "Add job profiles"
 
 #. Request recommendation | notification | notification content
-#: 
-msgid "toast_no_active_job"
+#: Request recommendation | notification | notification content
+msgctxt "toast_no_active_job"
+msgid "No active job profiles found"
 msgstr "No active job profiles found"
 
 #. Request recommendation | notification | notification content
-#: 
-msgid "toast_no_selected_job_profiles"
+#: Request recommendation | notification | notification content
+msgctxt "toast_no_selected_job_profiles"
+msgid "Add at least one job profile to continue."
 msgstr "Add at least one job profile to continue."
 
 #. Request recommendation | hint | input field
-#: 
-msgid "hint_job_title"
+#: Request recommendation | hint | input field
+msgctxt "hint_job_title"
+msgid "Job title"
 msgstr "Job title"
 
 #. Request recommendation | hint | input field
-#: 
-msgid "hint_recommendation_invitation_text"
+#: Request recommendation | hint | input field
+msgctxt "hint_recommendation_invitation_text"
+msgid "Invitation text"
 msgstr "Invitation text"
 
 #. Request recommendation | text | checkbox description
-#: 
-msgid "confirm_correct_data"
+#: Request recommendation | text | checkbox description
+msgctxt "confirm_correct_data"
+msgid "Confirm data is correct"
 msgstr "Confirm data is correct"
 
 #. Request recommendation | button | send recommendation
-#: 
-msgid "button_send"
+#: Request recommendation | button | send recommendation
+msgctxt "button_send"
+msgid "Send"
 msgstr "Send"
 
 #. Request recommendation | hint | checkbox
-#: 
-msgid "component_confirm_data"
+#: Request recommendation | hint | checkbox
+msgctxt "component_confirm_data"
+msgid "Confirm data"
 msgstr "Confirm data"
 
-#. Recommendations list 
-#.  Recommendations | title | screen title
-#: 
-msgid "title_recommendations"
+#. Recommendations | title | screen title
+#: Recommendations | title | screen title
+msgctxt "title_recommendations"
+msgid "Recommendations"
 msgstr "Recommendations"
 
 #. Recommendations | label | recommendation status
-#: 
-msgid "status_recommendation_not_rated"
+#: Recommendations | label | recommendation status
+msgctxt "status_recommendation_not_rated"
+msgid "Not rated"
 msgstr "Not rated"
 
 #. Recommendations | label | recommendation status
-#: 
-msgid "status_recommendation_pending"
+#: Recommendations | label | recommendation status
+msgctxt "status_recommendation_pending"
+msgid "Pending ..."
 msgstr "Pending ..."
 
-#. Registration screen 
-#.  Company registration | title | screen title
-#: 
-msgid "company.title.registration"
+#. Company registration | title | screen title
+#: Company registration | title | screen title
+msgctxt "company.title.registration"
+msgid "Register Company"
 msgstr "Register Company"
 
 #. Company registration | hint | hint content
-#: 
-msgid "company.hint.name"
+#: Company registration | hint | hint content
+msgctxt "company.hint.name"
+msgid "Company name"
 msgstr "Company name"
 
 #. Company registration | hint | hint content
-#: 
-msgid "company.hint.address"
+#: Company registration | hint | hint content
+msgctxt "company.hint.address"
+msgid "Address (street, building number)"
 msgstr "Address (street, building number)"
 
 #. Company registration | hint | hint content
-#: 
-msgid "company.hint.zip"
+#: Company registration | hint | hint content
+msgctxt "company.hint.zip"
+msgid "Zip"
 msgstr "Zip"
 
 #. Company registration | hint | hint content
-#: 
-msgid "company.hint.city"
+#: Company registration | hint | hint content
+msgctxt "company.hint.city"
+msgid "City"
 msgstr "City"
 
 #. Company registration | hint | hint content
-#: 
-msgid "company.hint.phone_number"
+#: Company registration | hint | hint content
+msgctxt "company.hint.phone_number"
+msgid "Phone number"
 msgstr "Phone number"
 
-#. User account screen 
-#.  Any root screen | header | company account section
-#: 
-msgid "employer.title.user_account"
+#. Any root screen | header | company account section
+#: Any root screen | header | company account section
+msgctxt "employer.title.user_account"
+msgid "Employer"
 msgstr "Employer"
 
 #. Worker WA list screen | badge text | inside badge
-#: 
-msgid "badge_new_text"
+#: Worker WA list screen | badge text | inside badge
+msgctxt "badge_new_text"
+msgid "NEW"
 msgstr "NEW"
 
 #. Worker WA list screen | label | wage per hour string, example 20.00 CHF/h
-#: 
-msgid "wage_per_hour"
+#: Worker WA list screen | label | wage per hour string, example 20.00 CHF/h
+msgctxt "wage_per_hour"
+msgid "{wage} {currency}/h"
 msgstr "{wage} {currency}/h"
 
 #. Worker WA list screen | label | working hours string, example 20.0 h
-#: 
-msgid "working_hours"
+#: Worker WA list screen | label | working hours string, example 20.0 h
+msgctxt "working_hours"
+msgid "{hours} h"
 msgstr "{hours} h"
 
 #. Worker WA list screen | label | working dates, example 15.05.15 - 18.05.15
-#: 
-msgid "work_assignment_dates"
+#: Worker WA list screen | label | working dates, example 15.05.15 - 18.05.15
+msgctxt "work_assignment_dates"
+msgid "{date_from} - {date_to}"
 msgstr "{date_from} - {date_to}"
 
 #. Worker WA list screen | button | continue action
-#: 
-msgid "dialog_button_continue"
-msgstr "Continue"
+#: Worker WA list screen | button | continue action
+msgctxt "dialog_button_continue"
+msgid "Continue"
+msgstr ""
 
 #. Worker WA list screen | error | error message
-#: 
-msgid "worker_profile_data_missing"
-msgstr "Worker profile data are missing"
+#: Worker WA list screen | error | error message
+msgctxt "worker_profile_data_missing"
+msgid "Worker profile data are missing"
+msgstr ""
 
 #: 
-msgid "wa_fully_staffed"
-msgstr "Fully staffed"
+msgctxt "wa_fully_staffed"
+msgid "Fully staffed"
+msgstr ""
 
 #. Employer WA list screen | slot coverage info, example - Slot coverage 3 of 8 slots
-#: 
-msgid "wa_slot_coverage"
-msgstr "Slot coverage\n"
+#: Employer WA list screen | slot coverage info, example - Slot coverage 3 of 8 slots
+msgctxt "wa_slot_coverage"
+msgid "Slot coverage\n"
 "%1$s of %2$s slots"
+msgstr ""
 
 #. Worker WA list screen | header | filter menu header
-#: 
-msgid "filter_header_statuses"
-msgstr "STATUSES"
+#: Worker WA list screen | header | filter menu header
+msgctxt "filter_header_statuses"
+msgid "STATUS"
+msgstr ""
 
 #. Worker WA list screen | header | sort menu header
-#: 
-msgid "sort_by_header"
-msgstr "SORT BY"
+#: Worker WA list screen | header | sort menu header
+msgctxt "sort_by_header"
+msgid "SORT BY"
+msgstr ""
 
 #. Worker WA list screen | menu | sort action
-#: 
-msgid "sort_wa_by_next_slot_date"
-msgstr "Next Slot Date"
+#: Worker WA list screen | menu | sort action
+msgctxt "sort_wa_by_next_slot_date"
+msgid "Next Slot Date"
+msgstr ""
 
 #. Worker WA list screen | menu | sort action
-#: 
-msgid "sort_wa_by_first_slot_date"
-msgstr "First Slot Date"
+#: Worker WA list screen | menu | sort action
+msgctxt "sort_wa_by_first_slot_date"
+msgid "First Slot Date"
+msgstr ""
 
 #. Worker WA list screen | menu | sort action
-#: 
-msgid "sort_wa_by_wa_name"
-msgstr "Work Assignment Name"
+#: Worker WA list screen | menu | sort action
+msgctxt "sort_wa_by_wa_name"
+msgid "Work Assignment Name"
+msgstr ""
 
 #. Worker WA list screen | menu | sort action
-#: 
-msgid "sort_wa_by_wa_last_name"
-msgstr "Creator Last Name"
+#: Worker WA list screen | menu | sort action
+msgctxt "sort_wa_by_wa_last_name"
+msgid "Creator Last Name"
+msgstr ""
 
 #. Worker WA list screen | menu | sort action
-#: 
-msgid "sort_wa_by_new_accepted"
-msgstr "New Accepted Worker"
+#: Worker WA list screen | menu | sort action
+msgctxt "sort_wa_by_new_accepted"
+msgid "New Accepted Worker"
+msgstr ""
 
-#. Application comment
-#: 
-msgctxt "Application screen"
-msgid "app_name"
-msgstr "Staff Finder"
+#. Employer project list screen | menu | sort action
+#: Employer project list screen | menu | sort action
+msgctxt "sort_project_by_name"
+msgid "Project Name"
+msgstr ""
 
-#. New application comment
+#. Employer project list screen | menu | sort action
+#: Employer project list screen | menu | sort action
+msgctxt "sort_project_by_date"
+msgid "Date"
+msgstr ""
+
+#. Worker job screen | error | error message, example You can change your decision during 5 hours after accepting and 2 hours before job starts
+#: Worker job screen | error | error message, example You can change your decision during 5 hours after accepting and 2 hours before job starts
+msgctxt "job_modification_time_out_message"
+msgid "You can change your decision during %1$s hours after accepting and %2$s hours before job starts"
+msgstr ""
+
 #: 
-msgctxt "Settings screen"
-msgid "action_settings"
-msgstr "Settings"
+msgctxt "job_modification_time_out_title"
+msgid "Job can\'t be modified"
+msgstr ""
+
+#. Employer work assignment details | title | screen title
+#: Employer work assignment details | title | screen title
+msgctxt "title_employer_wa_details"
+msgid "WORK ASSIGNMENT DETAILS"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_in_progress"
+msgid "IN PROGRESS"
+msgstr ""
+
+#. Company WA summary | button | button title
+#: Company WA summary | button | button title
+msgctxt "company_wa_staffing_button"
+msgid "Staffing"
+msgstr ""
+
+#. Company WA summary | button | button title
+#: Company WA summary | button | button title
+msgctxt "company_wa_hours_button"
+msgid "Hour confirmation"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_slot_coverage"
+msgid "SLOT COVERAGE"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_search_summary"
+msgid "SEARCH SUMMARY"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_skilled_costs"
+msgid "SKILLED WORKER - COSTS\n"
+"COMMERCIAL ACCOUNTING EMPLOYEE"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_unskilled_costs"
+msgid "UNSKILLED WORKER - COSTS\n"
+"COMMERCIAL ACCOUNTING EMPLOYEE"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_total_cost"
+msgid "ESTIMATED TOTAL COSTS"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_requirements"
+msgid "REQUIREMENTS, DESCRIPTION, COMMENT"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_clothing_requirements"
+msgid "CLOTHING REQUIREMENTS"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_job_location"
+msgid "JOB LOCATION / MEETING POINT"
+msgstr ""
+
+#. Company WA summary | title | section title
+#: Company WA summary | title | section title
+msgctxt "company_wa_section_title_contact_on_site"
+msgid "CONTACT PERSON ON SITE"
+msgstr ""
+
+#. Company WA summary | button | button title
+#: Company WA summary | button | button title
+msgctxt "company_wa_details_button"
+msgid "DETAILS"
+msgstr ""
+
+#. Company WA summary | label | label title
+#: Company WA summary | label | label title
+msgctxt "wa_company_slot_coverage_label"
+msgid "Slot coverage"
+msgstr ""
+
+#. Company WA summary | header | screen title, example: "Worker count 6"
+#: Company WA summary | header | screen title, example: "Worker count 6"
+msgctxt "wa_details_header"
+msgid "Worker count %1$s"
+msgstr ""
+
+#. Company WA summary | header | no skill header, example: COSTSnCOMMERCIAL ACCOUNTING EMPLOYEE
+#: Company WA summary | header | no skill header, example: COSTS\nCOMMERCIAL ACCOUNTING EMPLOYEE
+msgctxt "no_skill_header"
+msgid "WORKER - COSTS\n"
+"%1$s"
+msgstr ""
+
+#. Company WA summary | header | skill header, example: UNSKILLED WORKER - COSTSnCOMMERCIAL ACCOUNTING EMPLOYEE
+#: Company WA summary | header | skill header, example: UNSKILLED WORKER - COSTS\nCOMMERCIAL ACCOUNTING EMPLOYEE
+msgctxt "with_skill_header"
+msgid "%1$s WORKER - COSTS\n"
+"%2$s"
+msgstr ""
+
+#. Company WA summary | text | wage text info, example: "CHF 28.00 per hour (incl. SG factor)"
+#: Company WA summary | text | wage text info, example: "CHF 28.00 per hour (incl. SG factor)"
+msgctxt "wa_company_tenant_wage_info"
+msgid "%1$s %2$s per %3$s"
+msgstr ""
+
+#: 
+msgctxt "wa_company_tenant_wage_label"
+msgid "(incl. SF factor)"
+msgstr ""
+
+#: 
+msgctxt "wa_company_expense_definition"
+msgid "Expenses %1$s %2$s %3$s (%4$s)"
+msgstr ""
+
+#: 
+msgctxt "wa_company_slot_coverage_date"
+msgid "%1$s | %2$s - %3$s"
+msgstr ""
+
+#. Company WA summary | text | working hours and break info, example: "Worker hours 1 h 23 min | Break 23 min"
+#: Company WA summary | text | working hours and break info, example: "Worker hours 1 h 23 min | Break 23 min"
+msgctxt "wa_company_working_hours_and_break"
+msgid "Worker hours %1$s | Break %2$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_header_age"
+msgid "Age"
+msgstr ""
+
+#: 
+msgctxt "wa_details_header_prefered_workers"
+msgid "Prefered Workers %1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_header_language"
+msgid "Language"
+msgstr ""
+
+#: 
+msgctxt "wa_details_header_labels"
+msgid "Labels"
+msgstr ""
+
+#: 
+msgctxt "wa_details_header_mobility"
+msgid "Mobility"
+msgstr ""
+
+#: 
+msgctxt "wa_details_body_features"
+msgid "Body defining features"
+msgstr ""
+
+#: 
+msgctxt "wa_details_clothes_size"
+msgid "Clothes Size"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_hired_worker_count"
+msgid "%1$s persons"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_age"
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_language"
+msgid "%1$s\n"
+"Speaking: %2$s | writing: %3$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_driver_license"
+msgid "Driving License\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_mobility"
+msgid "Mobility Options\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_body_size"
+msgid "Body size\n"
+"%1$s cm - %2$s cm"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_hair_color"
+msgid "Hair color\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_eye_color"
+msgid "Eye color\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_tattoo"
+msgid "Tattoo\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_piercing"
+msgid "Piercing\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_jacket_size"
+msgid "Jacket\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_pants_length"
+msgid "Pants\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_pants_width"
+msgid "Width\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_shoe_size"
+msgid "Shoes\n"
+"%1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_age_from"
+msgid "from $1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_age_up_to"
+msgid "up to %1$s"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_body_size_from"
+msgid "Body size\n"
+"from $1$s cm"
+msgstr ""
+
+#: 
+msgctxt "wa_details_label_body_size_up_to"
+msgid "Body size\n"
+"up to %1$s cm"
+msgstr ""
+
+#: 
+msgctxt "formatter_hours_minutes"
+msgid "%1$s h %2$s min"
+msgstr ""
+
+#: 
+msgctxt "formatter_hours"
+msgid "%1$s h"
+msgstr ""
+
+#: 
+msgctxt "formatter_minutes"
+msgid "%1$s min"
+msgstr ""
+
+#: 
+msgctxt "formatter_estimated_cost_range"
+msgid "~ %1$s - %2$s %3$s"
+msgstr ""
+
+#: 
+msgctxt "formatter_estimated_cost_value"
+msgid "~ %1$s %2$s"
+msgstr ""
+
+#: 
+msgctxt "staffing_title"
+msgid "STAFFING DETAILS"
+msgstr ""
+
+#: 
+msgctxt "staffing_worker_interest_status"
+msgid "Available %1$s of %2$s"
+msgstr ""
+
+#: 
+msgctxt "filter_header_creators"
+msgid "CREATORS"
+msgstr ""
+
+#. Company worker job list screen | label | wage per hour string, example 20.00 CHF/h
+#: Company worker job list screen | label | wage per hour string, example 20.00 CHF/h
+msgctxt "formatter_wage_per_hour"
+msgid "%1$s %2$s/h"
+msgstr ""
+
+#. Company worker job list screen | label | wage flat string, example 20.00 CHF
+#: Company worker job list screen | label | wage flat string, example 20.00 CHF
+msgctxt "formatter_wage_flat"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: 
+msgctxt "staffing_screen_title_staffing"
+msgid "STAFFING"
+msgstr ""
+
+#: 
+msgctxt "staffing__default_tab_title_interested"
+msgid "Interested"
+msgstr ""
+
+#: 
+msgctxt "staffing__default_tab_title_hired"
+msgid "Hired"
+msgstr ""
+
+#: 
+msgctxt "staffing__default_tab_title_refused"
+msgid "Refused"
+msgstr ""
+
+#: 
+msgctxt "staffing__tab_title_interested"
+msgid "%1$s Interested"
+msgstr ""
+
+#: 
+msgctxt "staffing__tab_title_hired"
+msgid "Hired %1$s of %2$s"
+msgstr ""
+
+#: 
+msgctxt "staffing__tab_title_refused"
+msgid "%1$s Refused"
+msgstr ""
+
+#: 
+msgctxt "staffing__sort_wj_by_newest"
+msgid "Newest"
+msgstr ""
+
+#: 
+msgctxt "staffing__sort_wj_by_acceptance_date"
+msgid "Acceptance date"
+msgstr ""
+
+#: 
+msgctxt "staffing__sort_wj_by_highest_availability"
+msgid "Highest availability"
+msgstr ""
+
+#: 
+msgctxt "staffing__sort_wj_by_best_rating"
+msgid "Best ratings"
+msgstr ""
+
+#: 
+msgctxt "staffing__filter_wj_new_interested"
+msgid "New interested"
+msgstr ""
+
+#: 
+msgctxt "staffing__filter_favorite"
+msgid "Favorite"
+msgstr ""
+
+#: 
+msgctxt "staffing__filter_wj_preselected"
+msgid "Preselected"
+msgstr ""
+
+#: 
+msgctxt "staffing__filter_wj_no_match"
+msgid "No match"
+msgstr ""
+
+#: 
+msgctxt "staffing__filter_wj_header"
+msgid "FILTER CRITERIA"
+msgstr ""
+
+#: 
+msgctxt "error_worker_preselection_fails"
+msgid "Error preselecting worker, try later."
+msgstr ""
+
+#: 
+msgctxt "error_worker_delete_preselection_fails"
+msgid "Error deleting preselection, try later."
+msgstr ""
+
+#: 
+msgctxt "error_worker_add_to_favorite_fails"
+msgid "Error adding worker to favorite, try later."
+msgstr ""
+
+#: 
+msgctxt "error_worker_delete_from_favorite_fails"
+msgid "Error deleting worker from favorite, try later."
+msgstr ""
+
+#: 
+msgctxt "account_name_hint"
+msgid "Account Name"
+msgstr ""
+
+#: 
+msgctxt "staffing__label_no_match"
+msgid "no match"
+msgstr ""
 
